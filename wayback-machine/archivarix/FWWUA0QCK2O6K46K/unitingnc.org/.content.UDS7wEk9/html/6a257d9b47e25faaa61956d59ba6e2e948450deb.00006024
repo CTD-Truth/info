@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180823T113000
+DTEND;TZID=America/New_York:20180823T153000
+DTSTAMP:20220601T104826
+CREATED:20180719T202736Z
+LAST-MODIFIED:20180719T202736Z
+UID:4287-1535023800-1535038200@www.unitingnc.org
+SUMMARY:August 23: El Futuro’s La Mesita Learning Cohort Pilot #2 Dando la Bienvenida (Durham)
+DESCRIPTION:El Futuro’s La Mesita Learning Cohort Pilot #2\nDando la Bienvenida – Latino Immigrant-Welcoming Practices:\nCultivating Confianza by Being Engaging\, Effective\, and Culturally Responsive \nThe La Mesita team will select 20 participants for our next Learning Cohort Pilot that will run from August – December 2018. There are no requirements for eligibility beyond completing and submitting the application and the La Mesita Learning Cohort Pilot #2 Participant Expectations & Agreement by August 3\, 2018 . See Agreement for all dates and details. Selected participants will be notified by August 14\, 2018. \nQuestions? Contact Megan at mrobertson@elfuturo-nc.org \nThere is no cost to participants and a completion award of $500 is offered to those who complete all requirements. \nPriority will be given to applicants who:\ndemonstrate commitment to full participation in all cohort activities\ndemonstrate commitment to setting and reaching personal goals related to becoming more Latino immigrant-welcoming\nwork in organizations/practices that directly serve Latino immigrants in North Carolina\nprovide mental health or substance use disorder treatment to Latino immigrants in North Carolina\nserve as supervisor or administrator in organization/practice that provides behavioral health services to Latino immigrants in North Carolina \nWe look forward to receiving dozens of applications from professionals across the state who are aware of the needs and challenges that human service systems face in being responsive to the unique needs of the Latino immigrants who came to our state to build a better life. El Futuro is committed to increasing access to quality care for Latino immigrants by reducing provider isolation and burnout. We welcome this opportunity to learn from\, and with\, others who want to expand their capacity for cultural competence and who embrace the best practices that are needed to move North Carolina forward with prosperity and equity for all.
+URL:https://www.unitingnc.org/stand-with-us/august-23-el-futuros-la-mesita-learning-cohort-pilot-2-dando-la-bienvenida-durham/
+LOCATION:El Futuro\, 2020 Chapel Hill Rd.\, Durham\, NC\, 27701\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/07/blog-blanner.jpg
+GEO:35.9892238;-78.9274037
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=El Futuro 2020 Chapel Hill Rd. Durham NC 27701 United States;X-APPLE-RADIUS=500;X-TITLE=2020 Chapel Hill Rd.:geo:-78.9274037,35.9892238
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180823T190000
+DTEND;TZID=America/New_York:20180824T170000
+DTSTAMP:20220601T104826
+CREATED:20180724T164430Z
+LAST-MODIFIED:20180724T165055Z
+UID:4249-1535050800-1535130000@www.unitingnc.org
+SUMMARY:August 23:  Shifting Worlds: Displacement and Forced Migration in Modern Times (Greensboro)
+DESCRIPTION:The UNCG Center for New North Carolinians in partnership with Guilford College and Elon University present “Shifting Worlds: Displacement and Forced Migration in Modern Times.” During this event\, invited speakers will present on current challenges and opportunities for refugees and immigrants in North Carolina. All interested are welcome to register for this unique opportunity to engage in dialogue on current resettlement trends\, U.S. immigration policy\, advocacy\, and more. \nThe event is free. Advanced registration strongly encouraged. Register here: https://cnnc.uncg.edu/migration-institute/.
+URL:https://www.unitingnc.org/stand-with-us/august-23-shifting-worlds-displacement-and-forced-migration-in-modern-times-greensboro/
+LOCATION:(Greensboro)\, Greensboro\, NC\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/07/36310224_2094015950918517_5659294680123179008_n.jpg
+GEO:36.0726354;-79.7919754
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180823T190000
+DTEND;TZID=America/New_York:20180823T203000
+DTSTAMP:20220601T104826
+CREATED:20180809T154603Z
+LAST-MODIFIED:20180809T154603Z
+UID:4320-1535050800-1535056200@www.unitingnc.org
+SUMMARY:August 23: Monsters to Destroy (Greensboro)
+DESCRIPTION:Monsters to Destroy (M2D) is a humorous LIVE multimedia talk by filmmaker and comedian Ben Tumin examining refugee resettlement in the U.S. Weaving together information about the Syrian refugee crisis\, personal narrative\, and pre-recorded interviews\, Ben argues for expanded refugee resettlement on national security grounds. \nThrough a series of humanizing—and often humorous—interviews\, he introduces the audience to five young Syrian refugees living in Germany\, as well as a retired marine working in human rights advocacy. Their struggles\, hopes\, and passionate advocacy come into even sharper focus as Ben recounts the story of his grandfather\, a German-Jewish refugee who fled the Nazis just prior to World War II. \nScott Cooper\, Director of National Security Outreach at Human Rights First\, describes the talk as\, “An unexpectedly brilliant cross between John Oliver and a Ted Talk… fun\, sobering\, and informative.” \nThis will be Ben’s 15th stop on a nationwide tour and his first in North Carolina. \nThis performance of M2D is presented in partnership with Every Campus A Refuge\, Guilford College\, The Guilford College Center for Principled Problem Solving\, ELON LAW SCHOOL\, Church World Service\, and the UNCG Center for New North Carolinians. \nTickets are free but donations to Every Campus a Refuge are encouraged and highly appreciated to support current and future guests. Donations can be made at the following link (select Every Campus A Refuge as the area of support): https://bit.ly/2OF5RJx \nFor further information\, you can contact Professor Diya Abdo at abdod@guilford.edu. See you on the 23rd!
+URL:https://www.unitingnc.org/stand-with-us/august-23-monsters-to-destroy-greensboro/
+LOCATION:Dana Auditorium\, 5800 W. Friendly Ave.\, Greensboro\, NC\, 27410\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/08/38615062_2137715309881914_6033009869131350016_n.jpg
+GEO:36.0969108;-79.8862508
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Dana Auditorium 5800 W. Friendly Ave. Greensboro NC 27410 United States;X-APPLE-RADIUS=500;X-TITLE=5800 W. Friendly Ave.:geo:-79.8862508,36.0969108
+END:VEVENT
+END:VCALENDAR

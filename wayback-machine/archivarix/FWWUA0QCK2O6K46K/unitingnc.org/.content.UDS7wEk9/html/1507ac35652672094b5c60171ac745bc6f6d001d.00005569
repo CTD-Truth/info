@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171010T180000
+DTEND;TZID=America/New_York:20171010T193000
+DTSTAMP:20220601T124932
+CREATED:20171002T181752Z
+LAST-MODIFIED:20171011T132454Z
+UID:3403-1507658400-1507663800@www.unitingnc.org
+SUMMARY:October 10: DACA 101-"Why Don't They Just Become Legal?" Myths & Reality (High Point)
+DESCRIPTION:On September 5th\, the Trump Administration announced that it would begin to phase out the program Deferred Action for Childhood Arrivals. \nJoin us for an educative and informative session about DACA.\nWhat is DACA? What are the actual paths to citizenship? \nCome hear from attorney\, Ann Marie Dooley\, Latino Family Center\, a local DACA student\, and High Point professor as they dispel some of the myths that surround immigration and about what this means for the 800\,000 undocumented youth living in the United States.
+URL:https://www.unitingnc.org/stand-with-us/october-10-dont-just-become-legal-myths-reality/
+LOCATION:YWCA High Point\, 112 Gateswood Ave.\, High Point\, NC\, 27262\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/10/22008169_10155109845607737_3468992270310215178_n.jpg
+GEO:35.961425;-80.0101938
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=YWCA High Point 112 Gateswood Ave. High Point NC 27262 United States;X-APPLE-RADIUS=500;X-TITLE=112 Gateswood Ave.:geo:-80.0101938,35.961425
+END:VEVENT
+END:VCALENDAR

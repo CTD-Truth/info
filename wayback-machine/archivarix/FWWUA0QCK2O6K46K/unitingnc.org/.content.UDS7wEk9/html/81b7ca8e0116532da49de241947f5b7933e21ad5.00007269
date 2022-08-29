@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170610T100000
+DTEND;TZID=America/New_York:20170610T120000
+DTSTAMP:20220601T063433
+CREATED:20170605T210344Z
+LAST-MODIFIED:20170605T210344Z
+UID:3129-1497088800-1497096000@www.unitingnc.org
+SUMMARY:June 10: Act Against Hate: Rally to Support the Muslim Community (Raleigh)
+DESCRIPTION:Carolina Peace Center will be gathering in Moore Square to show our solidarity for our Muslim brothers and sisters. This will be a peaceful rally focused on the proactive steps we can take to support the Muslim community. For safety purposes\, we are encouraging everyone not to engage with the protestors marching on the other side of downtown.
+URL:https://www.unitingnc.org/stand-with-us/june-10-act-hate-rally-support-muslim-community-raleigh/
+LOCATION:Moore Square Historic District\, 200 N Blount Street\, Raleigh\, North Carolin\, 27601
+GEO:35.7830974;-78.6355578
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Moore Square Historic District 200 N Blount Street Raleigh North Carolin 27601;X-APPLE-RADIUS=500;X-TITLE=200 N Blount Street:geo:-78.6355578,35.7830974
+END:VEVENT
+END:VCALENDAR

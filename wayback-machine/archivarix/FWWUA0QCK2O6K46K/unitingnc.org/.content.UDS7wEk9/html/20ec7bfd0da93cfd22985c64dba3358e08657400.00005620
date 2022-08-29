@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171111T090000
+DTEND;TZID=America/New_York:20171111T120000
+DTSTAMP:20220601T124007
+CREATED:20171106T164432Z
+LAST-MODIFIED:20171106T164449Z
+UID:3490-1510390800-1510401600@www.unitingnc.org
+SUMMARY:November 11: Naturalization Workshop/ Taller de Naturalizacion (llenamos tu solicitud du ciudadanía) (Charlotte)
+DESCRIPTION:Are you ready to become a citizen? We will you help you fill out your application. Do you have doubts about economic relief? We can do a review to know if you are exempt from payment. \n\nYa estas listo para hacerte ciudadano? Nosotros te ayudamos a llnar tu solicitud. Tienes dudas sobre los diferentes alivio economicos? Hacemos una revision para saber si estas exempto de pago.
+URL:https://www.unitingnc.org/stand-with-us/november-11-naturalization-workshop-taller-de-naturalizacion-llenamos-tu-solicitud-du-ciudadania/
+LOCATION:Latin American Coalition\, 4938 Central Ave.\, Charlotte\, NC\, 28205\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/11/22894216_10156780279968047_9008893585875156579_n.jpg
+GEO:35.2107348;-80.7598498
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Latin American Coalition 4938 Central Ave. Charlotte NC 28205 United States;X-APPLE-RADIUS=500;X-TITLE=4938 Central Ave.:geo:-80.7598498,35.2107348
+END:VEVENT
+END:VCALENDAR

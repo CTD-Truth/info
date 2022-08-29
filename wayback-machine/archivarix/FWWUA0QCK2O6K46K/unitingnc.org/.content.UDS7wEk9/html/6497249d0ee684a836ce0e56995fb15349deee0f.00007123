@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190223T120000
+DTEND;TZID=America/New_York:20190223T130000
+DTSTAMP:20220601T013458
+CREATED:20190211T195938Z
+LAST-MODIFIED:20190211T200026Z
+UID:4692-1550923200-1550926800@www.unitingnc.org
+SUMMARY:February 23: ICE Rapid Response Training / Entrenamiento de Respuesta Rapida (Winston-Salem)
+DESCRIPTION:EN ESPAÑOL ABAJO\nFamily separation doesn’t just happen at the border – it’s happening here in Forsyth. ICE agents – who have a partnership with the Forsyth County Sheriff’s Office – often detain our neighbors by waiting outside their homes\, in the dark\, until they get in their cars to go to work or take their kids to school. \nSiembra NC/AFSC operates a rapid response network in the Triad that creates greater safety for our immigrant neighbors\, and we’re inviting Forsyth County residents to learn more about how you can participate as a rapid response volunteer \n// \nLa separación familiar no ocurre solo en la frontera; está sucediendo aquí en Forsyth. Los agentes de ICE – que tienen una sociedad con la Oficina del Sheriff del Condado de Forsyth – a menudo detienen a nuestros vecinos al esperar afuera de sus casas\, en la oscuridad\, hasta que suben a sus automóviles para ir a trabajar o llevar a sus hijos a la escuela. \nSiembra NC/AFSC opera una red de respuesta rápida en el Triad que crea una mayor seguridad para nuestros vecinos inmigrantes\, y estamos invitando los residentes de Forsyth County a aprender más sobre cómo pueden participar. El entrenamiento será en inglés; háganos saber si necesita interpretación en español para participar.
+URL:https://www.unitingnc.org/stand-with-us/february-23-ice-rapid-response-training-entrenamiento-de-respuesta-rapida/
+LOCATION:Parkway UCC Winston-Salem\, 1465 Irving Street\, Winston-Salem\, NC\, 27103
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/02/51270166_2254534648148512_4516847325145989120_n-1.jpg
+GEO:36.0706507;-80.2719027
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Parkway UCC Winston-Salem 1465 Irving Street Winston-Salem NC 27103;X-APPLE-RADIUS=500;X-TITLE=1465 Irving Street:geo:-80.2719027,36.0706507
+END:VEVENT
+END:VCALENDAR

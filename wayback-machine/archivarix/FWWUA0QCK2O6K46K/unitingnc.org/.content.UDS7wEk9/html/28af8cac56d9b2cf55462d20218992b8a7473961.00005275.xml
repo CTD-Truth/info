@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Uniting NC</title>
+	<atom:link href="/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://unitingnc.org</link>
+	<description>Building Community. Welcoming Immigrants. Uniting North Carolina.</description>
+	<lastBuildDate>Tue, 04 Dec 2018 16:28:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+
+<image>
+	<url>https://unitingnc.org/wp-content/uploads/2017/02/cropped-favicon-32x32.png</url>
+	<title>Uniting NC</title>
+	<link>https://unitingnc.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<!-- podcast_generator="Blubrry PowerPress/7.3" mode="simple" feedslug="feed" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>With the Uniting NC podcast, you can meet your North Carolina immigrant neighbors one story at a time. &lt;br /&gt;
+&lt;br /&gt;
+At Uniting NC we believe that all people, including immigrants, should have the opportunity to engage and thrive in their communities. Together we all do better. For more information, visit unitingnc.org.</itunes:summary>
+	<itunes:author>Uniting NC</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="/wp-content/uploads/2016/06/Uniting-NC-logo-2013.jpg" />
+	<itunes:owner>
+		<itunes:name>Uniting NC</itunes:name>
+		<itunes:email>dan@unitingnc.org</itunes:email>
+	</itunes:owner>
+	<managingEditor>dan@unitingnc.org (Uniting NC)</managingEditor>
+	<itunes:subtitle>NC Neighbors</itunes:subtitle>
+	<image>
+		<title>Uniting NC</title>
+		<url>http://unitingnc.org/wp-content/uploads/2016/06/Uniting-NC-logo-2013.jpg</url>
+		<link>https://unitingnc.org</link>
+	</image>
+	<itunes:category text="Government &amp; Organizations">
+		<itunes:category text="Non-Profit"></itunes:category>
+	</itunes:category>
+<site xmlns="com-wordpress:feed-additions:1">55944258</site>	<item>
+		<title>Children&#8217;s &#8216;NC is Home&#8217; Shirt</title>
+		<link>https://unitingnc.org/product/childrens-t/</link>
+		<pubDate>Thu, 04 May 2017 20:56:43 +0000</pubDate>
+		<dc:creator><![CDATA[Chris Liu-Beers]]></dc:creator>
+		
+		<guid isPermaLink="false">http://unitingnc.org/?post_type=product&#038;p=3027</guid>
+		<description><![CDATA[Our new children&#8217;s &#8216;NC is Home&#8217; shirt is a great way for children to welcome all the students in school. Perfect for the summer! Languages in order of appearance: Russian, German, English, Korean, Spanish, Hindi, Mandarin, Hebrew, and Arabic.]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">3027</post-id>	</item>
+		<item>
+		<title>Women&#8217;s &#8216;NC is Home&#8217; Shirt</title>
+		<link>https://unitingnc.org/product/womens-t/</link>
+		<pubDate>Thu, 04 May 2017 20:52:29 +0000</pubDate>
+		<dc:creator><![CDATA[Chris Liu-Beers]]></dc:creator>
+		
+		<guid isPermaLink="false">http://unitingnc.org/?post_type=product&#038;p=3008</guid>
+		<description><![CDATA[Our new women&#8217;s &#8216;NC is Home&#8217; shirt come in two fun colors that are perfect for any outfit. These shirts are a fitted women&#8217;s cut and run small. We recommend purchasing a size above what you would normally purchase. Languages in order of appearance: Russian, German, English, Korean, Spanish, Hindi, Mandarin, Hebrew, and Arabic.]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">3008</post-id>	</item>
+		<item>
+		<title>Men&#8217;s &#8216;NC is Home&#8217; Shirt</title>
+		<link>https://unitingnc.org/product/mens-t/</link>
+		<pubDate>Thu, 04 May 2017 20:50:51 +0000</pubDate>
+		<dc:creator><![CDATA[Chris Liu-Beers]]></dc:creator>
+		
+		<guid isPermaLink="false">http://unitingnc.org/?post_type=product&#038;p=2997</guid>
+		<description><![CDATA[Our new men&#8217;s ‘NC is Home’ shirt come in two colors that are perfect for any outfit. Languages in order of appearance: Russian, German, English, Korean, Spanish, Hindi, Mandarin, Hebrew, and Arabic.]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">2997</post-id>	</item>
+	</channel>
+</rss>

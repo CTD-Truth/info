@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170825T180000
+DTEND;TZID=America/New_York:20170825T180000
+DTSTAMP:20220601T130844
+CREATED:20170721T165857Z
+LAST-MODIFIED:20170824T201948Z
+UID:3233-1503684000-1503684000@www.unitingnc.org
+SUMMARY:August 25: Strong hands build better futures (Wilson)
+DESCRIPTION:The Association of Mexicans in North Carolina\, Inc. (AMEXCAN) and the Eastern North Carolina Latin American Coalition\, Inc. (ENCLACO) extends and invitation to attend a Wilson Community Forum on Friday August 25th at 6:00pm at St. Theresa’s Catholic Church at 700 Nast St. Wilson\, NC\n\nThis reception event is being hosted as a part of AMEXCAN’s “Strong Hands Build Better Futures” Initiative to increase community capacity and self-efficacy. Building positive relationships between the various community entities promotes cohesive environments that create opportunities for the community entities communicate with each other and work collaboratively towards creating a successful community with decreased disparities and increased opportunities. \n \nThis event will feature informational sessions led by Vice General Consulate of Mexico of North and South Carolina Patricia Perez-Galeana concentrating on important topics effecting our community including immigration\, proper identification procedures and practices\, community cohesiveness\, and community created strategies to improve the community. Local organizations\, government officials\, law enforcement\, community members and leaders\, and other key stakeholders from the Wilson community will all contribute towards the discussion after the information session.\n 
+URL:https://www.unitingnc.org/stand-with-us/august-26-stand-women-families-womens-equality-day-march/
+LOCATION:St. Theresa Catholic Church\, 700 Nast St. NE\, Wilson\, NC\, 27893\, United States
+ORGANIZER;CN="Amexcan":MAILTO:amexcan@amexcannc.org
+GEO:35.7216494;-77.903025
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=St. Theresa Catholic Church 700 Nast St. NE Wilson NC 27893 United States;X-APPLE-RADIUS=500;X-TITLE=700 Nast St. NE:geo:-77.903025,35.7216494
+END:VEVENT
+END:VCALENDAR

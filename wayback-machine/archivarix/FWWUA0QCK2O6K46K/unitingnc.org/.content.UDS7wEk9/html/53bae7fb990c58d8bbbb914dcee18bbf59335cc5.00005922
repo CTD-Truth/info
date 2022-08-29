@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180614T174500
+DTEND;TZID=America/New_York:20180614T210000
+DTSTAMP:20220601T111956
+CREATED:20180607T154213Z
+LAST-MODIFIED:20180612T192137Z
+UID:4098-1528998300-1529010000@www.unitingnc.org
+SUMMARY:June 14: Alamance Alzamos Nuestra Voz (Asheville)
+DESCRIPTION:**In English below** \nEntre el 14 al 20 de Abril del 2018\, ICE (la migra) ataco a nuestras comunidades del Oeste de Carolina del Norte resultando en más de 20 familias que fueron separadas y miembros de nuestra comunidad secuestradas- más del Condado de Henderson. \nLas agencias legales constantemente a estado en el lado de la injusticia al colaborar con ICE y firmando el contrato con el programa 287(g) por años (en Henderson). Todo esto con el lenguaje y argumento que la administración usa para criminalizar a lxs inmigrantes de color. \nMijente está haciendo un tour por todo el país sin arrepentimiento diciendo CHINGA LA MIGRA!! \nEl 14 de junio\, ven a formar parte de la resistencia con nosotrxs: estaremos usando la arte visual para contar nuestra historia\, sanar e integrar los afectos de las recientes redadas y estrategias para seguir demostrando nuestra comunidad unida que resistimos a ICE y dejarles saber que ya basta! \n#ChingaLaMigra #ICEoutofNC \n*ENGLISH* \nOn April 12th – 20th 2018\, Immigration and Customs Enforcement (ICE) attacked our community in Western North Carolina resulting in 20+ family separations and kidnapping of our community members – mostly in Henderson County. \nOur Legal Enforcement has consistently proven to be on the side of injustice by collaborating with ICE and re-signing 287g for years. All of this with the premise and language Trump’s administration uses to criminalize black and brown immigrants. \nMijente is touring the country to unapologetically say CHINGA LA MIGRA! \nOn June 14th\, become. a resistor with us: we will use art and story telling to speak\, heal and integrate the effects of the recent ICE raids\, and strategy to further show that our community is united\, that we are resisting ICE and will not take it anymore! \n#ChingaLaMigra #ICEoutofNC
+URL:https://www.unitingnc.org/stand-with-us/june-14-alamance-alzamos-nuestra-voz-asheville/
+LOCATION:Arthur R. Edington Education & Career Center\, 133 Livingston St.\, Asheville\, NC\, 28801\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/06/34845477_1878011195615198_7226900572853501952_n.jpg
+GEO:35.5779857;-82.5571128
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Arthur R. Edington Education & Career Center 133 Livingston St. Asheville NC 28801 United States;X-APPLE-RADIUS=500;X-TITLE=133 Livingston St.:geo:-82.5571128,35.5779857
+END:VEVENT
+END:VCALENDAR

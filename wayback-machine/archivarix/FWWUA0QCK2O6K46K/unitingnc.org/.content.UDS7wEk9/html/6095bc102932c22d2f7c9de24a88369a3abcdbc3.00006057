@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180918T180000
+DTEND;TZID=America/New_York:20180918T200000
+DTSTAMP:20220601T103654
+CREATED:20180911T164145Z
+LAST-MODIFIED:20180911T171040Z
+UID:4390-1537293600-1537300800@www.unitingnc.org
+SUMMARY:September 18: Raising Wages CLT Worker's Town Hall & Speak Out (Charlotte)
+DESCRIPTION:Join fast food workers\, service workers\, construction workers\, manufacturing workers for an open evening of free speech! Workers will come together and talk about issues that affect us all! Dinner and childcare provided.
+URL:https://www.unitingnc.org/stand-with-us/september-18-raising-wages-clt-workers-town-hall-speak-out-charlotte/
+LOCATION:Midwood International and Cultural Center\, 1817 Central Ave\, Charlotte\, North Carolina\, 28205
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/09/40592172_163656624499523_7295108480329842688_n.jpg
+GEO:35.2206938;-80.8088401
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Midwood International and Cultural Center 1817 Central Ave Charlotte North Carolina 28205;X-APPLE-RADIUS=500;X-TITLE=1817 Central Ave:geo:-80.8088401,35.2206938
+END:VEVENT
+END:VCALENDAR

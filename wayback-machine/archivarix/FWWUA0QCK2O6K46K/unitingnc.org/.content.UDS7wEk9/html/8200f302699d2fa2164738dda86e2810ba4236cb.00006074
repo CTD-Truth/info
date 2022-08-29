@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180930T160000
+DTEND;TZID=America/New_York:20180930T190000
+DTSTAMP:20220601T103832
+CREATED:20180927T174222Z
+LAST-MODIFIED:20180927T174222Z
+UID:4429-1538323200-1538334000@www.unitingnc.org
+SUMMARY:September 30: Foro Comunitario TPS (Durham)
+DESCRIPTION:La próxima crisis humanitaria: podría ser la separación de hijos(as) de sus padres beneficiarios con el Estatus de Protección Temporal (TPS)\, sino se encuentra una solución lo antes posible\, a partir del 5 enero de 2019 las personas beneficiarias de TPS de Nicaragua y sus familias serán las primeras que enfrentarían dicha crisis. \nEl foro responderá a la pregunta ¿qué podemos hacer ahora?\, la comunidad identificará oportunidades para participar de los esfuerzos para una solución permanente al TPS y mantener las familias unidas. \nLe invitamos a que no se pierda esta importante conversación\, participe\, haga preguntas y sobre todo tome acción uniéndose a los esfuerzos locales en Carolina del Norte.
+URL:https://www.unitingnc.org/stand-with-us/september-30-foro-comunitario-tps-durham/
+LOCATION:El Centro Hispano\, 2000 Chapel Hill Rd (Suite 26A)\, Durham\, NC\, 27707\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/09/42591606_1842046249198330_2826544185388040192_n.jpg
+GEO:35.9888616;-78.927357
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=El Centro Hispano 2000 Chapel Hill Rd (Suite 26A) Durham NC 27707 United States;X-APPLE-RADIUS=500;X-TITLE=2000 Chapel Hill Rd (Suite 26A):geo:-78.927357,35.9888616
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180930T170000
+DTEND;TZID=America/New_York:20180930T200000
+DTSTAMP:20220601T103832
+CREATED:20180911T181722Z
+LAST-MODIFIED:20180911T185931Z
+UID:4406-1538326800-1538337600@www.unitingnc.org
+SUMMARY:September 30: Solidarity Fundraiser Dinner (Durham)
+DESCRIPTION:Join us for delicious food\, great music\, engaging conversations and community. This event is a fundraiser\, so bring what you can spare for our silent auction\, T-shirt sales and more. Suggested donation per plate is $25\, however no one will be turned away for lack of funds. You can donate at the door or via eventbrite: https://www.eventbrite.com/e/witness-for-peace-southeast-annual-solidarity-fundraiser-dinner-tickets-50098146906  \nHosted by St. John’s Baptist Church in Durham. St. John’s is home of the School for Conversion where Pastor José Chicas is currently residing in Sanctuary. We will celebrate the Chicas Family’s courage and strength as they struggle for justice\, for José’s liberation and reunification with his family. WFPse delegates will also report back from recent delegations and share ways to support immigrant leaders living in sanctuary churches in NC. \n 
+URL:https://www.unitingnc.org/stand-with-us/september-30-solidarity-fundraiser-dinner-durham/
+LOCATION:St. John’s Baptist Church\, 917 Onslow Street\, Durham\, NC\, 27705\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/09/40236472_2301418273218075_8535532848306716672_n-1.jpg
+GEO:36.0126924;-78.9148942
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=St. John’s Baptist Church 917 Onslow Street Durham NC 27705 United States;X-APPLE-RADIUS=500;X-TITLE=917 Onslow Street:geo:-78.9148942,36.0126924
+END:VEVENT
+END:VCALENDAR

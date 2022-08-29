@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170318T090000
+DTEND;TZID=America/New_York:20170318T173000
+DTSTAMP:20220601T025415
+CREATED:20170323T155933Z
+LAST-MODIFIED:20170323T155933Z
+UID:2814-1489827600-1489858200@www.unitingnc.org
+SUMMARY:March 18: Legal Forum / Foro Legal (Siler City)
+DESCRIPTION:(English below) APÚNTESE PARA RESERVAR SU ASIENTO. Inscripción a las 8:30 AM\, el programa empieza a las 9:30. Hablaremos sobre: Conozca sus derechos. Plan de emergencia para familias (cartas poderes); Diálogo con Agentes de la Ley de Chatham; Actualización de las órdenes ejecutivas; Leyes de NC que impactan a los inmigrantes\, ¡y más! Gratis! Mesas informativas de abogados y agencias\, musica en vivo y se puede comprar su almuerzo en el evento. \nSIGN UP TO RESERVE YOUR SEAT. The Legal Fair is an all-day event. Registration starts at 8:30AM\, and the program at 9:30 AM. Workshops about: Know your rights; Emergency family planning (powers of attorney); Dialog with Chatham; Law Enforcement officials; Update on executive orders; NC laws that impact immigrants; and more! Information tables from attorneys and non-profit agencies. Live music and other entertainment during lunch. Free! Lunch will be for sale at the event.
+URL:https://www.unitingnc.org/stand-with-us/march-18-legal-forum-foro-legal-siler-city/
+LOCATION:Siler City\, 1334 E 11th St\, Siler City\, NC\, 27344\, United States
+GEO:35.7327676;-79.4471576
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Siler City 1334 E 11th St Siler City NC 27344 United States;X-APPLE-RADIUS=500;X-TITLE=1334 E 11th St:geo:-79.4471576,35.7327676
+END:VEVENT
+END:VCALENDAR

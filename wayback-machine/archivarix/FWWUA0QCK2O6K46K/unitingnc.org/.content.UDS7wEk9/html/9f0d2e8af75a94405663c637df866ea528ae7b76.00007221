@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170716T150000
+DTEND;TZID=America/New_York:20170716T160000
+DTSTAMP:20220601T012751
+CREATED:20170601T152552Z
+LAST-MODIFIED:20170601T152552Z
+UID:3105-1500217200-1500220800@www.unitingnc.org
+SUMMARY:July 16: Women's Voices Chorus "Welcome Home: Summer Benefit 2017" (Durham)
+DESCRIPTION:Fresh off a choral tour of Estonia\, Latvia\, and Lithuania\, Women’s Voices Chorus will perform a summer benefit concert in support of Church World Service-Durham. \nThe hour-long concert will be held on July 16\, 2017\, at 3:00 p.m. at Judea Reform Congregation\, 1933 West Cornwallis Rd.\, Durham. It will feature music from the Baltic States and from the United States folk tradition\, connected by the common themes of crossing borders and appreciating cultural differences. Admission is free\, but donations will be gratefully accepted and go entirely to CWS; $10 per person is suggested. \nChurch World Service-Durham welcomes refugees and immigrants from around the world into lives of freedom\, hope\, and opportunity in the Triangle area. CWS staff and volunteers connect new arrivals with community resources and social services in order to meet their immediate needs and to help clients gain the skills and tools critical to achieving long-term self-sufficiency. The Durham office opened its doors in 2009 and is sustained by volunteers and community partners. \nCWS staff will speak about their vital work in our area and be available to answer questions. Mark your calendar now for this afternoon of quality music and community service!
+URL:https://www.unitingnc.org/stand-with-us/july-16-womens-voices-chorus-welcome-home-summer-benefit-2017-durham/
+LOCATION:Judea Reform Congregation\, 1933 W Cornwallis Ave\, Durham\, NC\, 27705
+GEO:35.9780539;-78.9546604
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Judea Reform Congregation 1933 W Cornwallis Ave Durham NC 27705;X-APPLE-RADIUS=500;X-TITLE=1933 W Cornwallis Ave:geo:-78.9546604,35.9780539
+END:VEVENT
+END:VCALENDAR

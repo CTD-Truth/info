@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181201T090000
+DTEND;TZID=America/New_York:20181201T130000
+DTSTAMP:20220601T040310
+CREATED:20181126T171216Z
+LAST-MODIFIED:20181126T171216Z
+UID:4560-1543654800-1543669200@www.unitingnc.org
+SUMMARY:December 1: Post-Election Update- A Lunch and Learn (Chapel Hill)
+DESCRIPTION:Español abajo \nJoin the North Carolina Sanctuary Coalition\, NC Council of Churches\, Church World Service\, and American Friends Service Committee (AFSC) for this post-election lunch and learn! \nThis event will feature speakers from the NC Justice Center and ACLU NC to address implications of NC elections on immigrants. We will also hear from AFSC and Church World Service for a national outlook. \nYou will have the opportunity to learn about the following topics: \n-What the election results mean for immigration nationally and in North Carolina\n-If and how the election results affect sanctuary guests and sanctuary advocacy strategies\n-Current needs of sanctuary guests\n-How sanctuary intersects with other social justice issues \nThe cost of the event is on a sliding scale from $5-20\nLunch and childcare will be provided \n—————————————————————-\nÚnase a la Coalición del Santuario- NC\, el Consejo de Iglesias de Carolina del Norte\, el Servicio Mundial de Iglesias y el Comité de Servicio de Amigos Americanos (AFSC) para este almuerzo almuerzo y aprenda posterior a las elecciones! \nEste evento incluirá oradores del Centro de Justicia de NC y ACLU NC para abordar las implicaciones de las elecciones de Carolina del Norte sobre los inmigrantes. También escucharemos a AFSC y al Servicio Mundial de Iglesias para una perspectiva nacional. \nTendrá la oportunidad de aprender sobre los siguientes temas: \n-Qué significan los resultados de las elecciones para los inmigrantes a nivel nacional y en NC\n-Si y cómo los resultados de las elecciones afectan a las personas del santuario y las estrategias de defensa del santuario\n– Necesidades actuales de las personas del santuario.\n-Cómo el santuario se cruza con otros temas de justicia social \nEl costo del evento es en una escala móvil de $5-20\nEl almuerzo y el cuidado de niños se proporcionarán
+URL:https://www.unitingnc.org/stand-with-us/december-1-post-election-update-a-lunch-and-learn-chapel-hill/
+LOCATION:Church of Reconciliation\, 110 N Eliott Rd\, Chapel Hill\, NC\, 27514\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/11/46293713_1899635543425565_2204535442349490176_n.jpg
+GEO:35.9360259;-79.0309834
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Church of Reconciliation 110 N Eliott Rd Chapel Hill NC 27514 United States;X-APPLE-RADIUS=500;X-TITLE=110 N Eliott Rd:geo:-79.0309834,35.9360259
+END:VEVENT
+END:VCALENDAR

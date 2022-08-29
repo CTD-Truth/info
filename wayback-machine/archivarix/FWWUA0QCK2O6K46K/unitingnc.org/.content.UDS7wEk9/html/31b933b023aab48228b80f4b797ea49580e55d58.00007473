@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180302T183000
+DTEND;TZID=America/New_York:20180302T203000
+DTSTAMP:20220601T080021
+CREATED:20180212T175152Z
+LAST-MODIFIED:20180212T180417Z
+UID:3722-1520015400-1520022600@www.unitingnc.org
+SUMMARY:March 2: Who Are Our Neighbors? Undocumented Immigrant & Sanctuary (Chapel Hill)
+DESCRIPTION:WHO ARE OUR NEIGHBORS?\nAN EVENING TO LEARN ABOUT UNDOCUMENTED IMMIGRANTS IN OUR STATE\nAND SANCTUARY \nSponsored by Chapel Hill Friends Meeting Peace & Justice Committee and\nThe American Friends Service Committee \nFRIDAY\, MARCH 2\, 2018\n6:30-8:30PM\nChapel Hill Friends Meeting\n531 Raleigh Rd. Chapel Hill\, NC 27514\n\n*Light meal provided\n*Childcare provided \nSPEAKERS:\n-Ann Marie Dooley\, Greensboro immigration attorney (and Quaker)\n-Local immigrants sharing stories\n-Pastors of Sanctuary churches\n-Lori Khamala\, AFSC staff \nFor more information\, contact Naveed Moeed (naveedmoeed@gmail.com) or\nKaren Porter (karenporteresq@gmail.com)
+URL:https://www.unitingnc.org/stand-with-us/march-2-neighbors-undocumented-immigrant-sanctuary-chapel-hill/
+LOCATION:531 Raleigh Road\, 531 Raleigh Road\, Chapel Hill\, NC\, 27514\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/02/27750583_10160007977585582_6330058757564525489_n.jpg
+GEO:35.9116189;-79.0409782
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=531 Raleigh Road 531 Raleigh Road Chapel Hill NC 27514 United States;X-APPLE-RADIUS=500;X-TITLE=531 Raleigh Road:geo:-79.0409782,35.9116189
+END:VEVENT
+END:VCALENDAR

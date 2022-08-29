@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171128T130000
+DTEND;TZID=America/New_York:20171128T150000
+DTSTAMP:20220601T073905
+CREATED:20171127T210226Z
+LAST-MODIFIED:20171127T210226Z
+UID:3523-1511874000-1511881200@www.unitingnc.org
+SUMMARY:December 5: ¡Llene la corte para Wildin Acosta!/ Pack the Courtroom! (Charlotte)
+DESCRIPTION:Estaremos saliendo el martes 5 de diciembre del estacionamiento de Compare Foods 2000 Avondale Drive\, Durham\, NC 27707 a las 9:30am. \nWe will be leaving on Tuesday\, December 5th from the Compare Foods parking lot at 9:30 AM. (2000 Avondale Dr.\, Durham\, NC) Meet here if you want to carpool! \n***English follows*** \nWildin Guillen Acosta\, un titulado de la preparatoria Riverside de Durham\, Carolina del Norte\, fue detenido por agentes de inmigración el 28 de enero del 2016\, mientras salía de la casa de sus padres para ir a la escuela. \nDado que Wildin entró al país como menor de edad no acompañado huyendo de violencia en Honduras\, él fue víctima de las redadas durante la administración Obama que se enfocó en detener a refugiados centroamericanos como él. \nDespués de estar detenido por 6 meses en el centro de detención Stewart\, Wildin fue finalmente liberado gracias al esfuerzo dedicado e incansable de sus amigxs\, maestrxs\, y comunidad. \n¡Wildin todavía necesita su ayuda! \nEste martes\, 5 de diciembre del 2017\, Wildin testificará por su vida durante su última audiencia de asilo. Acompáñalo en la corte de inmigración en Charlotte para demostrarle al juez Couch que Wildin tiene una comunidad que lo necesita y se preocupa muchísimo por él. \nWildin merece dignidad y compasión\, no una condena de muerte. \n—— \nWildin Guillen Acosta\, a Riverside High School graduate from Durham\, North Carolina\, was detained by immigration agents January 28\, 2016\, as he was leaving his parent’s home for school. \nBecause Wildin came to country as an unaccompanied minor fleeing violence in Honduras\, he was a victim of the raids under the Obama administration that targeted and detained Central American refugees like him. \nAfter being detained for 6 months at Stewart Detention Center\, Wildin was finally released thanks to the dedicated and tireless organizing of his friends\, teachers\, and community. \nWildin still needs your help! \nThis coming Tuesday\, December 5th\, 2017\, Wildin will testify for his life during his final asylum hearing. Join him at the Charlotte Immigration court to show Judge Couch that Wildin has a community that needs and cares for him dearly. \nWildin deserves humanity and compassion\, not a death sentence.
+URL:https://www.unitingnc.org/stand-with-us/december-5-llene-la-corte-para-wildin-acosta-pack-courtroom-charlotte/
+LOCATION:5701 Executive Center Dr. Suite 400\, 5701 Executive Center Dr. Suite 400\, Charlotte\, NC\, 28212\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/11/23795255_1728483807161691_2889277410634811136_n.jpg
+GEO:35.2004049;-80.7432424
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=5701 Executive Center Dr. Suite 400 5701 Executive Center Dr. Suite 400 Charlotte NC 28212 United States;X-APPLE-RADIUS=500;X-TITLE=5701 Executive Center Dr. Suite 400:geo:-80.7432424,35.2004049
+END:VEVENT
+END:VCALENDAR

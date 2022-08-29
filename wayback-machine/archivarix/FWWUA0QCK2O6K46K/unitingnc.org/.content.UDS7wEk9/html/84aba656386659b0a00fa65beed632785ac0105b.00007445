@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190321T093000
+DTEND;TZID=America/New_York:20190321T113000
+DTSTAMP:20220601T050139
+CREATED:20190307T163906Z
+LAST-MODIFIED:20190307T163906Z
+UID:4805-1553160600-1553167800@www.unitingnc.org
+SUMMARY:March 21: Healing\, Hope and Recovery (Raleigh)
+DESCRIPTION:Join the NC Council of Churches\, people of faith\, and the community alike for a summit on the opioid epidemic in North Carolina. Come learn more about the opioid crisis\, and hear from fellow North Carolinians who have been personally impacted. We will also use this time to collectively discuss solutions moving forward. \nThis event is free and open to the public. If you have any questions\, please contact the North Carolina Council of Churches at info@ncchurches.org or 919-828-6501.
+URL:https://www.unitingnc.org/stand-with-us/march-21-healing-hope-and-recovery-raleigh/
+LOCATION:North Carolina Museum of History\, 5 E Edenton St\, Raleigh\, NC\, 27601
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/03/53121550_2110869085627854_5908877385767321600_n.jpg
+GEO:35.7816882;-78.6386325
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=North Carolina Museum of History 5 E Edenton St Raleigh NC 27601;X-APPLE-RADIUS=500;X-TITLE=5 E Edenton St:geo:-78.6386325,35.7816882
+END:VEVENT
+END:VCALENDAR

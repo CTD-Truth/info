@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190502T180000
+DTEND;TZID=America/New_York:20190502T200000
+DTSTAMP:20220601T012146
+CREATED:20190417T154040Z
+LAST-MODIFIED:20190417T154040Z
+UID:4920-1556820000-1556827200@www.unitingnc.org
+SUMMARY:May 2: Faith and Conscience Convocation (Charlotte)
+DESCRIPTION:Learn – Reflect – Act \nThe convocation will explore North Carolina’s connection\, through the use of its public airports\, a local airline (Aero Contractors)\, and locally based employees of the airline\, to the CIA’s Rendition\, Detention\, and Interrogation (RDI) program that began after the 9/11 attacks. Muslim people were kidnapped\, bound\, and transported to CIA black sites and to foreign countries\, where they were held indefinitely without charges and were tortured. Most were innocent of any offense. \nSpeakers will include NC Commission of Inquiry on Torture members The Rev. Ben Boswell\, Dr. Christina Cowger\, and Mrs. Allyson Caison and NC No Torture Program Coordinator The Rev. Para Drake. They will talk about how people of faith and conscience have become involved in seeking accountability and redress for those harmed by the program and how you may encourage accountability for those actions. \nTo register\, go to https://www.ncchurches.org/event-single/faith-and-conscience-convocation-a-call-for-accountability-for-torture-charlotte/
+URL:https://www.unitingnc.org/stand-with-us/may-2-faith-and-conscience-convocation-charlotte/
+LOCATION:Myers Park Baptist\, 1900 Queens Rd\, Charlotte\, NC\, 28207\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/04/56582265_1836378683128992_6554993050093879296_n.jpg
+GEO:35.1882235;-80.8308155
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Myers Park Baptist 1900 Queens Rd Charlotte NC 28207 United States;X-APPLE-RADIUS=500;X-TITLE=1900 Queens Rd:geo:-80.8308155,35.1882235
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170709T120000
+DTEND;TZID=America/New_York:20170709T160000
+DTSTAMP:20220601T131428
+CREATED:20170706T194503Z
+LAST-MODIFIED:20170706T194503Z
+UID:3177-1499601600-1499616000@www.unitingnc.org
+SUMMARY:July 9: Eat for Equality\, Drink for Justice (Durham)
+DESCRIPTION:Join Legal Aid of North Carolina at Ponysaurus Brewing on July 9 between 12-4 p.m. to enjoy great food and fellowship in support of low-income and vulnerable North Carolinians. Sympathy for the Deli is very generously donating a barbecue buffet (can’t beat their smoked\, whole hog barbecue) for the occasion! We hope to see you there! \nLegal Aid of North Carolina provides the only hope for justice to millions of low-income and vulnerable North Carolinians facing serious civil legal problems like domestic violence\, homelessness\, predatory lending and more. Despite the greater-than-ever need for Legal Aid\, we stand to lose millions of dollars in funding due to budget cuts in Washington and the General Assembly. Now more than ever\, your support will help ensure that we can continue to fulfill the promise of equal justice for all North Carolinians. Learn more at www.legalaidnc.org.
+URL:https://www.unitingnc.org/stand-with-us/july-9-eat-equality-drink-justice-durham/
+LOCATION:Ponysaurus Brewing\, 219 Hood St\, Durham\, NC\, 27701
+GEO:35.989615;-78.895294
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Ponysaurus Brewing 219 Hood St Durham NC 27701;X-APPLE-RADIUS=500;X-TITLE=219 Hood St:geo:-78.895294,35.989615
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170709T170000
+DTEND;TZID=America/New_York:20170709T200000
+DTSTAMP:20220601T131428
+CREATED:20170706T194731Z
+LAST-MODIFIED:20170706T194731Z
+UID:3179-1499619600-1499630400@www.unitingnc.org
+SUMMARY:July 9: Local Strangers - Global Food (Raleigh)
+DESCRIPTION:This is a fundraising event for local Refugee Resettlement agencies\, Lutheran Services Carolinas\, USCRI (United States Committee for Refugees and Immigrants)\, and Church World Service.\nCome enjoy traditional food cooked by the agencies clients\, meet local strangers with the common interest of good food\, merriment and beer while supporting the Refugee Resettlement agencies programs and the refugees they serve in the Triangle. Ticket sales are on sale. See the EventBrite link on this page!\nBig Boss will be donating 10% of the beer sales from 5pm-9pm that day too!!
+URL:https://www.unitingnc.org/stand-with-us/july-9-local-strangers-global-food-raleigh/
+LOCATION:Big Boss Brewery\, Raleigh\, North Carolina\, 27606
+GEO:35.7418297;-78.713608
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180224T100000
+DTEND;TZID=America/New_York:20180224T140000
+DTSTAMP:20220601T121255
+CREATED:20180129T163010Z
+LAST-MODIFIED:20180129T163010Z
+UID:3693-1519466400-1519480800@www.unitingnc.org
+SUMMARY:February 24:  Interfaith Food Drive in honor of Deah\, Yusor\, & Razan (Raleigh)
+DESCRIPTION:Deah Barakat\, Yusor Abu-Salha and Razan Abu-Salha had big ideas for how they wanted to help the world. One of Deah’s last facebook posts was where he and Yusor were giving food and free dental supplies to the homeless. Razan was a regular at Raleigh’s Moore Square\, where she too fed those in need and left personal notes for the recipients. \nLast year a food drive was held to honor their service to the community. Donations translated into over 58\,000 meals to North Carolinians in need \nThis year we hope to do it again. On Saturday Feb 24th we will have a drop off day at the Islamic Center of Raleigh where we will load up a UHUAL and deliver it to the Food Bank of Central & Eastern North Carolina \nParticipating organizations-\nMetLife\nAl-Iman School\nRaleigh-Cary Jewish Family Services\nTriangle Muslims – OYLE\nAhmad Quqa – Financial Advisor – Edward Jones\nIslamic Association of Raleigh\nGenworth\nTriangle Muslim Aid\nNorth Carolina Democratic Party\nApex Mosque\nCarolina Family Practice & Sports Medicine- https://www.cfpsm.com/ \nLet us know if your organization would like to be part of this event! \nYou can also donate to our virtual drive online –\nhttps://www.foodbankcenc.org/goto/interfaithfooddrive \nHosted by The Light House Project\n#NoOneGoesHungry #LoveThyNeighbor\, #LoveArmy #OurThreeWinners
+URL:https://www.unitingnc.org/stand-with-us/february-24-interfaith-food-drive-honor-deah-yusor-razan-raleigh/
+LOCATION:Islamic Association of Raleigh\, 808 Atwater St.\, Raleigh\, NC\, 27607\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/01/26992619_10105082032957129_8677662140553007260_n.jpg
+GEO:35.7898048;-78.6911979
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Islamic Association of Raleigh 808 Atwater St. Raleigh NC 27607 United States;X-APPLE-RADIUS=500;X-TITLE=808 Atwater St.:geo:-78.6911979,35.7898048
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180224T100000
+DTEND;TZID=America/New_York:20180224T140000
+DTSTAMP:20220601T121255
+CREATED:20180222T152114Z
+LAST-MODIFIED:20180222T152114Z
+UID:3752-1519466400-1519480800@www.unitingnc.org
+SUMMARY:February 24: Legal Clinic for TPS// Clinica Legal para Tepesianos (Charlotte)
+DESCRIPTION:The Legal Support Center of Charlotte invites anyone who needs to renew their TPS to the free workshop where they can also receive legal consultations with an immigration lawyer. It is not necessary to renew to have a consultation with a lawyer. This event will be at 1524 Elizabeth Avenue. Legal help is completely free. For more information call Stefania Arteaga at 704 749 7483 / mayraa@charlottelegaladvocacy.org  \nTo renew they have to bring:  \n1. Work permit  \n2. 2 passport type photos \n3. Money order of $ 495 \n\nEl Centro de Apoyo Legal de Charlotte invita a cualquier persona que necesite renovar su TPS al taller gratuito donde también podrán recibir consultas legales con un abogado de inmigración. No es necesario renovar para tener una consulta con un abogado. \nEste evento será en 1524 Elizabeth Avenue. \nLa ayuda legal es totalmente gratuita. Para más información llamar a Stefania Arteaga al 704 749 7483 / mayraa@charlottelegaladvocacy.org \nPara renovar tienen que traer: \n1. Permiso de trabajo\n2. 2 fotos tipo pasaporte\n3. Money order de $495
+URL:https://www.unitingnc.org/stand-with-us/february-24-legal-clinic-tps-clinica-legal-para-tepesianos-charlotte/
+LOCATION:1524 Elizabeth Ave.\, 1524 Elizabeth Ave.\, Charlotte\, NC\, 28204\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/02/28058488_10155367913077666_8265677169938080276_n.jpg
+GEO:35.2139967;-80.8273768
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=1524 Elizabeth Ave. 1524 Elizabeth Ave. Charlotte NC 28204 United States;X-APPLE-RADIUS=500;X-TITLE=1524 Elizabeth Ave.:geo:-80.8273768,35.2139967
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180224T103000
+DTEND;TZID=America/New_York:20180224T133000
+DTSTAMP:20220601T121255
+CREATED:20180215T151612Z
+LAST-MODIFIED:20180215T151612Z
+UID:3737-1519468200-1519479000@www.unitingnc.org
+SUMMARY:February 24: Know Your Rights/ Conoce Tus Derechos (Charlotte)
+DESCRIPTION:Know your rights before the authorities and in different circumstances. In the face of changing immigration laws\, knowledge is power. We wait for you. \n\nConoce tus derechos ante las autoridades y en diferentes circunstancias. Ante las cambiantes leyes migratorias\, el conocimiento es poder.\nLos esperamos.
+URL:https://www.unitingnc.org/stand-with-us/february-24-know-rights-conoce-tus-derechos-charlotte/
+LOCATION:1148 N. Sharon Amity Rd.\, 1148 N. Sharon Amity Rd.\, Charlotte\, NC\, 28211\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/02/26993771_10157066222663047_7153035187886491231_n.jpg
+GEO:35.177663;-80.780032
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=1148 N. Sharon Amity Rd. 1148 N. Sharon Amity Rd. Charlotte NC 28211 United States;X-APPLE-RADIUS=500;X-TITLE=1148 N. Sharon Amity Rd.:geo:-80.780032,35.177663
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180224T160000
+DTEND;TZID=America/New_York:20180224T190000
+DTSTAMP:20220601T121255
+CREATED:20180215T145940Z
+LAST-MODIFIED:20180215T145940Z
+UID:3731-1519488000-1519498800@www.unitingnc.org
+SUMMARY:February 24: Conozca Sus Derechos / Know Your Rights! (Durham)
+DESCRIPTION:Come to know your rights and learn more about TPS and DACA. We will have immigration attorneys to teach us about our rights\, answer questions and offer their services about TPS and DACA. It is very important to be informed and prepared in these times. We invite you to come. \n\nVengan a conocer sus derechos y saber aprender mas sobre TPS y DACA. Tendremos abogados de inmigración para enseñarnos sobre nuestros derechos\, responder preguntas y ofrecer sus servicios sobre TPS y DACA. \nEs muy importante estar informados y preparados en estos tiempos. Los invitamos a que vengan.
+URL:https://www.unitingnc.org/stand-with-us/february-24-conozca-sus-derechos-know-rights-durham/
+LOCATION:El Centro Hispano\, 2000 Chapel Hill Rd (Suite 26A)\, Durham\, NC\, 27707\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/01/26815573_1779742362060156_968097574381874659_n.jpg
+GEO:35.9888616;-78.927357
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=El Centro Hispano 2000 Chapel Hill Rd (Suite 26A) Durham NC 27707 United States;X-APPLE-RADIUS=500;X-TITLE=2000 Chapel Hill Rd (Suite 26A):geo:-78.927357,35.9888616
+END:VEVENT
+END:VCALENDAR

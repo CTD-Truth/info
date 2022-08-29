@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180325
+DTEND;VALUE=DATE:20180331
+DTSTAMP:20220601T033657
+CREATED:20180312T191237Z
+LAST-MODIFIED:20180319T173942Z
+UID:3798-1521936000-1522454399@www.unitingnc.org
+SUMMARY:March 25-30: No Ban! No Wall! Sanctuary for all! Pilgrimage for Justice! (Asheville/ Morganton/ Winston Salem/ Greensboro/Chapel Hill/ Durham/ Raleigh)
+DESCRIPTION:oin us in our Pilgrimage across North Carolina to demand justice for our community members forced to seek refuge in Sanctuary Churches\, justice for all whose protections under TPS and DACA have been ripped away\, justice for Black Lives\, justice for farmworkers. Join us as we convene with powerful activists across North Carolina– families in Sanctuary\, Union leaders\, Student leaders—to RESIST unjust and systematic persecution of our families and neighbor and highlight the roots of migration. \nWe will be walking\, caravaning\, marching and convening all across NC starting in Western NC on March 25\, and ending at the capital building in Raleigh on March 30. Please see below for the tentative route schedule. More detail of events to follow! \nSunday 3/25: Asheville/Morganton\nMonday 3/26: Morganton/Winston Salem\nTuesday 3/27: Greensboro\nWednesday 3/28: Chapel Hill\nThursday 3/29: Durham\nFriday 3/30: Raleigh \nJoin us as we pass through your area\, or pledge to be a core walker and cross the state with us! More details to follow about specific events in each area. \nDetailed Schedule:\nSunday 3/25: Asheville/Morganton\n9:30 AM: Service at Land of the Sky UCC\n11:00: Leave for Morganton\n1:00 PM Lunch\n1:30 PM Workers’ Panel Discussion\, Western Carolina Workers’ Center 206 Collett St\, Morganton\, NC 28655\n2:15 PM – 3:30 March from Worker’s Center to Chicken Plant “Case Farms”\n4:30 PM Palm Sunday Mass at Saint Charles Borromeo Church\n728 W Union St\, Morganton\, NC 28655 \nMonday 3/26: Morganton/Winston Salem \n9:00 AM Tour Opportunity Threads\n1404 Drexel Rd\, Valdese\, NC 28690\nAfternoon:\nFLOC Caravan – Boycott VUSE E-Cigarettes\nLetter drops at Kangaroo\, Circle K and 7-11 stores along 40\, targeting the stores that stock the most VUSE E-Cigarette products (A Product of Reynolds Tobacco)\n6PM Teach-In: Farmworker rights and FLOC’s VUSE E-Cigarette Boycott Campaign\n302 Wingate Hall\, Wake Forest University \nMain Contact: Justin Flores 919 731 4433 flocnc@floc.com \nTuesday 3/27: Greensboro\nTime TBA: Visit New Arrivals Institute\n2714 W Market St\, Greensboro\, NC 27403\nAfternoon:\n12:00 PM Healing Tuesday with the Beloved Community Center\nGovernment Plaza 110 S Greene St\, Greensboro\, NC 27401\n1:00 PM- 2:00PM Walk to Congregational UCC.\n2:00 PM: Lunch\n2:30PM SANCTUARY: A Community Conversation\nCongregational UCC: 400 W Radiance Dr\, Greensboro\, NC 27403\n7PM Roots of Migration: Voices from the Guatemalan Genocide Photos by Roderico Diaz. Reflections from Juana Tobar.\nSt. Barnabas Episcopal Church\n1300 Jefferson Rd\, Greensboro\, NC 27410 \nMain Contact Emily Rhyne 919-864-6371 \nWednesday 3/28: Chapel Hill \n8:30 AM Press Conference to protest Sheriff Terry Johnson’s immigration policies; Graham\, NC\n10:00 AM Meet at Binkley Baptist Church\nAfternoon:\nWalking path covering:\nSt. Thomas Moore Catholic Church: 940 Carmichael St\, Chapel Hill\, NC 27514\nCommunity Church of CH UU: 106 Purefoy Rd\, Chapel Hill\, NC 27514\nProtest Silent Sam UNC Chapel Hill\nChurch of Reconciliation: 110 N Elliott Rd.:Chapel Hill\, NC 27514 \nThursday 3/29: Durham \n9:00 AM Meet at Rutba House 917 Onslow St. Durham\, NC 27705\n9AM-10:30 Walk from Rutba House to visit Samuel at CityWell Church 2317 Chapel Hill Rd\, Durham\, NC 27707\n10:30 – 11:00: Walk to City Hall\n11:00 AM City Hall: Foot Washing ceremony with Durham City Council– symbolic support of immigrant communities. 101 City Hall Plaza\n12PM Durham County Administration Building\, formerly site of Confederate Statue 414 East Main Street\n12:30PM Durham County Jail\, 510 South Dillard\nAction in front of jail with SONG for Black Mamas Bail Out Fund\n1:30 – 2:00: Walk with Casa el Salvador to protest termination of TPS\, end at Immaculate Conception Catholic Church with\n2:00 – 3:00: Lunch at Immaculate Conception Catholic Church 810 W Chapel Hill St\, Durham\, NC 27701\n3:00 PM: Drive to Umstead Park UCC to spend time with Eliseo Jimenez\n6:30: Tenebrae Service and light Dinner at Umstead Park UCC 8208 Brownleigh Dr\, Raleigh\, NC 27617 \nMain Contact: Maryann Crea cream@icdurham.org \nFriday 3/30: Raleigh\n8:30 AM Blessing at Pullen Memorial Baptist Church 1801 Hillsborough St\, Raleigh\, NC 27605\n9:00 AM: Walk to Central Prison to protest Death Row\n9:30 AM: Walk to NCSU to support Dreamers\n11:00 AM: Walk to Wake Justice Center\nAfternoon:\n12:00 PM Economic Justice Way of the Cross at the Raleigh Capitol Building\nStations\n1) No Ban! No Wall! Sanctuary for All!\n2) Stop Deportation\n3) Welcome Refugees and Immigrants\n4) Justice for Dreamers and Temporary Protective Status\n5) Uplift Queer Youth\n6) Workers-Farmworkers\n7) Black Lives Matter\n8) Stop Voter Suppression\n9) End Islamophobia: Respect All Religions\n10) Abolish Capital Punishment: Education\, Not Incarceration\n11) Stop Endless Wars\n12)Environment/Pipeline\n13) Healthcare for All\n14) Signs of Hope
+URL:https://www.unitingnc.org/stand-with-us/march-25-30-no-ban-no-wall-sanctuary-pilgrimage-justice-multiple-cities/
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/03/28576926_2052773858082519_1704738283330142871_n.jpg
+END:VEVENT
+END:VCALENDAR

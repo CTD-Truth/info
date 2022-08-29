@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170419T180000
+DTEND;TZID=America/New_York:20170419T203000
+DTSTAMP:20220601T134842
+CREATED:20170330T134930Z
+LAST-MODIFIED:20170330T191737Z
+UID:2864-1492624800-1492633800@www.unitingnc.org
+SUMMARY:April 19: Immigration Teach-In for Educators (Asheville)
+DESCRIPTION:Calling all educators! This is a workshop for any WNC educator concerned with the impact of anti-immigrant laws on our students and their families. \n1. Snapshot of current anti-immigrant legislation \n2. Discuss the issue’s impact on your work\, your students\, and your school community \n3. Hear from an educator\, a parent\, and a student \n4. Brainstorm ways YOU can use your influence as an educator & concerned community member \nLocation is to be determined. \nRSVP for childcare and email questions t: educatorpowerwnc@gmail.com
+URL:https://www.unitingnc.org/stand-with-us/april-19-immigration-teach-educators-asheville/
+LOCATION:Asheville\, Asheville\, NC\, United States
+GEO:35.5950581;-82.5514869
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180426T190000
+DTEND;TZID=America/New_York:20180426T203000
+DTSTAMP:20220601T015009
+CREATED:20180412T142910Z
+LAST-MODIFIED:20180412T142910Z
+UID:3897-1524769200-1524774600@www.unitingnc.org
+SUMMARY:April 26: America Inside Out: The Muslim Next Door (Raleigh)
+DESCRIPTION:Join the campus community for a special screening of episode two of America Inside Out with Katie Couric\, entitled “The Muslim Next Door.” Admission is free and the event is open to the public. A panel discussion will follow the screening.
+URL:https://www.unitingnc.org/stand-with-us/april-26-america-inside-out-the-muslim-next-door-raleigh/
+LOCATION:Witherspoon Cinema\, 2810 Cates Ave\, Raleigh\, NC\, 27606\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/04/30652303_364032727432138_3569323315686277120_n.jpg
+GEO:35.7851083;-78.6745287
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Witherspoon Cinema 2810 Cates Ave Raleigh NC 27606 United States;X-APPLE-RADIUS=500;X-TITLE=2810 Cates Ave:geo:-78.6745287,35.7851083
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190414T090000
+DTEND;TZID=America/New_York:20190414T103000
+DTSTAMP:20220601T093625
+CREATED:20190410T194059Z
+LAST-MODIFIED:20190410T194059Z
+UID:4915-1555232400-1555237800@www.unitingnc.org
+SUMMARY:April 14: Demilitarize our Communities: Breakfast and Speakout (Charlotte)
+DESCRIPTION:Community\, let’s come together! Join us over breakfast to speak out against militarization in our communities. Militarization on the border\, police brutality\, ICE raids\, mass incarceration\, 287g and HB370\, militarization along the migrant trail… we are under attack on all sides\, and we must come together! \nJoin us 9AM-10:30 on Sunday April 14th\nBreakfast Provided\nSacred Souls Community Church\n2127 Eastway Dr\, Charlotte\, NC 28205 \nWe will hear from powerful speakers including Honduran Activist Rosa Nelly Santos\, Bishop Tonyia Rawls and many more. This event is the kick-off to the Caravan for Justice across North Carolina. Please check out the event page for the full list of events: https://www.facebook.com/events/250564795868005/ \nHonored guest speaker\, Rosa Nelly Santos Navarro is the President and Coordinator of the Committee of the Families of Disappeared Migrants of Progreso. COFAMIPRO began in 1999 out of the radio program “Sin Fronteras” or “Without Borders” transmitted by Radio Progreso and formed into an organization to search for the loved ones of Hondurans that disappeared on the migrant trail to the United States. Today\, COFAMIPRO brings attention to the human rights violations committed against migrants\, push factors that force migrants to flee their homes and calls for governments to take responsibility. Committed to the work of advocating for the rights of migrants\, Rosa Nelly has traveled around the world\, sharing the story of Honduran migrants and their families. \nAll are welcome to stay for the 11:00 Palm Sunday Service at Sacred Souls Community Church. \nThis event is sponsored by: Freedom Center for Social Justice\, Witness for Peace Southeast\, Sacred Souls Community Church\, [more sponsors to come!]
+URL:https://www.unitingnc.org/stand-with-us/april-14-demilitarize-our-communities-breakfast-and-speakout-charlotte/
+LOCATION:Sacred Souls Community Church\, 2127 Eastway Dr\, Charlotte\, NC\, 28205
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/04/56320467_2641601855866380_6220672357686575104_n.jpg
+GEO:35.2268567;-80.7747405
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Sacred Souls Community Church 2127 Eastway Dr Charlotte NC 28205;X-APPLE-RADIUS=500;X-TITLE=2127 Eastway Dr:geo:-80.7747405,35.2268567
+END:VEVENT
+END:VCALENDAR

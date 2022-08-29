@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170404T083000
+DTEND;TZID=America/New_York:20170404T140000
+DTSTAMP:20220601T000406
+CREATED:20170329T153617Z
+LAST-MODIFIED:20170330T190619Z
+UID:2849-1491294600-1491314400@www.unitingnc.org
+SUMMARY:April 4: Dia Del Inmigrante En El Asemblea General / Immigrant Day in the Legislature (Raleigh)
+DESCRIPTION:HORARIO \nPOR FAVOR LLEGUE ENTRE LAS 8:30 Y LAS 9:00 \n9am – 10am:\nEntrenamiento de visitas legislativas en El Pueblo \n10am – 12pm:\nVisitas a los Representantes en la Asamblea General \n12pm – 1pm:\nConferencia de prensa y reunirse para discutir con todo el grupo \n1pm-2pm: Segunda ronda de visitas \n2pm: Almorzar y discutir los reuniones en\nEl Pueblo \n//////////////////////////////////////////////////////////////////////// \nSCHEDULE \nPLEASE ARRIVE BETWEEN 8:30 AND 9:00 \n9am – 10am:\nLobby Training at El Pueblo \n10am – 12pm: \n1st round of meetings with legislators at the General Assembly \n12pm – 1pm:\nPress Conference and regroup to discuss meetings with legislators and plan afternoon sessions \n1pm-2pm: 2nd round of meetings with legislators \n2pm: Eat lunch and debrief at El Pueblo \n  \nPDF With more information here: Immigrant Day without Organizations \n  \nORGANIZED BY: \nChurch World Services  ·  FaithAction International House \nLa Alianza Para Los Derechos de los Inmigrantes de NC\, including: \nAILA  ·  ACLU  ·  Action NC  ·  American Friends Service  Committee  ·  AMEXCAN  ·  CIMA  ·  Comité Popular de Asheville  ·  Comité de Accion Popular  ·  Comité Popular Somos Raleigh  ·  El Pueblo\, inc.  ·  El Vinculo Hispano  ·  El Grupo de Accion de Guilford  ·  Hendfact  ·  Immigrants Rights Working Group  ·  Latino Commission on AIDS  ·  El Congreso  ·  NC Justice Center  ·  NC Council of Churches  ·  Nuestro Centro  ·  South East Immigrants Rights Network  ·  Student Action with Farmworkers  ·  YWCA High Point Latino Family Center
+URL:https://www.unitingnc.org/stand-with-us/april-4-dia-del-inmigrante-en-el-asemblea-general-immigrant-day-legislature-raleigh/
+LOCATION:El Pueblo\, 2321 Crabtree Blvd #105\, Raleigh\, NC\, 27604\, United States
+GEO:35.8044884;-78.6116018
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=El Pueblo 2321 Crabtree Blvd #105 Raleigh NC 27604 United States;X-APPLE-RADIUS=500;X-TITLE=2321 Crabtree Blvd #105:geo:-78.6116018,35.8044884
+END:VEVENT
+END:VCALENDAR

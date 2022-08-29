@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180303T180000
+DTEND;TZID=America/New_York:20180303T200000
+DTSTAMP:20220601T073755
+CREATED:20180227T143846Z
+LAST-MODIFIED:20180227T143846Z
+UID:3767-1520100000-1520107200@www.unitingnc.org
+SUMMARY:March 3: Forbidden Film & Discussion (Cary) ($5 suggested donation)
+DESCRIPTION:Diamante Arts & Cultural Center with the support of Blue Cross NC Present the documentary Forbidden. \nWhen Moises Serrano was just a baby\, his parents risked everything to flee Mexico and make the perilous journey across the desert in search of the American dream. Growing up in the rural south where he is forbidden to live and love\, Moises sees only one option — to fight for justice. Forbidden is a feature length documentary about an inspiring young man whose story is exceptional\, although not unique. Moises is like the thousands of young people growing up in the United States with steadfast dreams but facing overwhelming obstacles. Our film chronicles Moises’ work as an activist traveling across his home state of North Carolina as a voice for his community\, all while trying to forge a path for his own future. \nThe viewing of this documentary is FREE – $5 Donations are encouraged.
+URL:https://www.unitingnc.org/stand-with-us/march-3-forbidden-film-discussion-cary-5-suggested-donation/
+LOCATION:The Cary Theater\, 122 E. Chatham St.\, Cary\, NC\, 27511\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/02/25289245_10155464985767600_4290257376575014108_n.jpg
+GEO:35.7871347;-78.7803144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=The Cary Theater 122 E. Chatham St. Cary NC 27511 United States;X-APPLE-RADIUS=500;X-TITLE=122 E. Chatham St.:geo:-78.7803144,35.7871347
+END:VEVENT
+END:VCALENDAR

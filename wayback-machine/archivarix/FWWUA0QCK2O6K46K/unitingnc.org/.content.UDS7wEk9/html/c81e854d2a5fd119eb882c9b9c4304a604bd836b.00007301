@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180628T203000
+DTEND;TZID=America/New_York:20180628T220000
+DTSTAMP:20220601T062156
+CREATED:20180628T104825Z
+LAST-MODIFIED:20180628T104826Z
+UID:4181-1530217800-1530223200@www.unitingnc.org
+SUMMARY:June 28: Talk on Family Separation in NC/ en vivo: ¿ahora qué? plática sobre separación de familias en NC (Durham)
+DESCRIPTION:we recognize that a lot of fear and anxiety exists in our community and it’s all valid. but\, now what? \nwe invite you join us for a live conversation on fb.com/alertamigratoria at 8pm this thursday june 28th. \nwe will share information about what actions we can take as community directly affected by family separation that continues to exist in north carolina as well as the border. we will answer questions from folks present and also the comments from the fb live video. \n_______________________________________________________________________________ \nreconocemos que existe mucho miedo y ansiedad en nuestra comunidad y es válido. pero ¿ahora qué? \nles invitamos a unirse a una conversacion en vivo por fb.com/alertamigratoria a las 8pm este jueves 28 de junio. \nbrindaremos información sobre que tipo de acción podemos tomar como comunidad afectada para enfrentar la separación de familias que sigue existiendo acá en norte carolina tanto como en la frontera. contestaremos preguntas de personas presentes y también por medio de los comentarios del video en vivo.
+URL:https://www.unitingnc.org/stand-with-us/june-28-talk-on-family-separation-in-nc-en-vivo-ahora-que-platica-sobre-separacion-de-familias-en-nc-durham/
+LOCATION:The CityWell\, 2317 Chapel Hill Rd.\, Durham\, NC\, 27707\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/06/36137211_1964660443544025_2824099502888058880_n.jpg
+GEO:35.9818339;-78.9313435
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=The CityWell 2317 Chapel Hill Rd. Durham NC 27707 United States;X-APPLE-RADIUS=500;X-TITLE=2317 Chapel Hill Rd.:geo:-78.9313435,35.9818339
+END:VEVENT
+END:VCALENDAR

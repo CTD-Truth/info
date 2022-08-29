@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180402T180000
+DTEND;TZID=America/New_York:20180402T200000
+DTSTAMP:20220601T113912
+CREATED:20180326T142415Z
+LAST-MODIFIED:20180326T142516Z
+UID:3833-1522692000-1522699200@www.unitingnc.org
+SUMMARY:April 2: Cumbia Sonidera Salon (Durham)
+DESCRIPTION:This bilingual discussion & listening event brings together one of NYC’s foremost Mexican soundsystem operators\, Alejandro Aviles (aka Sonido Kumbala)\, anthropologist Alexandra Lippman\, and Jace Clayton. They will use Mexican-American cumbia songs to spark conversation on music\, immigrant media systems\, and translation. Cumbia sonidera combines music and on-the-mic shoutouts to absent people and places to create an auditory archive of memory and longing across the US-Mexico border. Following the event\, enjoy free tacos for all attendees. \nThis event is free and open to the public. \nThis event is being hosted in partnership with Centro Hispano. To learn more about this organization\, visit https://www.elcentronc.org/
+URL:https://www.unitingnc.org/stand-with-us/april-2-cumbia-sonidera-salon-durham/
+LOCATION:El Centro Hispano\, 2000 Chapel Hill Rd (Suite 26A)\, Durham\, NC\, 27707\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/03/28795041_10157249839375968_67664711825437012_n.jpg
+GEO:35.9888616;-78.927357
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=El Centro Hispano 2000 Chapel Hill Rd (Suite 26A) Durham NC 27707 United States;X-APPLE-RADIUS=500;X-TITLE=2000 Chapel Hill Rd (Suite 26A):geo:-78.927357,35.9888616
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180402T183000
+DTEND;TZID=America/New_York:20180402T193000
+DTSTAMP:20220601T113912
+CREATED:20180402T144840Z
+LAST-MODIFIED:20180402T145336Z
+UID:3861-1522693800-1522697400@www.unitingnc.org
+SUMMARY:April 2: Teach In Islamophobia & Racism (Durham)
+DESCRIPTION:*A protest against this AHS event: https://www.facebook.com/events/354152651756614/* \nJoin us Monday evening at 6:30 to resist Islamophobia and Racism. \nAs Muslim students and allies\, we refuse to allow others to define us with tired\, racist binaries. We are tired of being told that we have to “choose” between being “insurgents” and “patriots.” We are tired of people claiming to represent us\, while actively promoting violence against countless of Muslims across the globe. We are tired of people erasing our multiplicity\, our struggles\, and our lived realities. Join Duke MSA\, Duke Muslim Students\, and allies in a counter teach-in against Islamophobia and racism\, and maybe we can have an honest conversation about our powerful and beautiful American Muslim Identities. \nOur teach-in comes in response to an event hosted by the Alexander Hamilton Society’s event on “The American Muslim Identity\,” featuring Zuhdi Jasser\, a man who claims to represent Muslims while painting us broadly as terrorists\, supporting the Muslim ban\, promoting surveillance of American Muslim communities\, and generally advocating against Muslims and the Muslim community. The event was originally titled “The American Muslim Identity: Patriot or Insurgent?” as if those are the only two camps into which Muslims in the United States can fall. The Alexander Hamilton Society’s choice to rehash and weaponize “with us or against us” rhetoric against Muslims is disappointing and disrespectful both of Duke’s Muslim students and Muslims writ large.
+URL:https://www.unitingnc.org/stand-with-us/april-2-teach-in-islamophobia-racism-durham/
+LOCATION:Duke University Chapel\, 401 Chapel Dr.\, Durham\, NC\, 27701\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/04/29683241_978775592280022_823963338929920374_n.jpg
+GEO:36.0019125;-78.9403615
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Duke University Chapel 401 Chapel Dr. Durham NC 27701 United States;X-APPLE-RADIUS=500;X-TITLE=401 Chapel Dr.:geo:-78.9403615,36.0019125
+END:VEVENT
+END:VCALENDAR

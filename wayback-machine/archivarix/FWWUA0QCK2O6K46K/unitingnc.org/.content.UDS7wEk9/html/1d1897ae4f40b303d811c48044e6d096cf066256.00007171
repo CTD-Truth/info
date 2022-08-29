@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180118T120000
+DTEND;TZID=America/New_York:20180118T200000
+DTSTAMP:20220601T013712
+CREATED:20180118T175040Z
+LAST-MODIFIED:20180118T175040Z
+UID:3635-1516276800-1516305600@www.unitingnc.org
+SUMMARY:January 18: Phonebank for DACA! (online)
+DESCRIPTION:**UPDATED***\nDue to Snow we will be doing this remotely. Anyone can join from their home! Please help us take advantage of the Snowy weather to call people and ask them to urge their legislators to support a Clean DREAM Act!! \nJoin us Thursday Jan. 18th as we conduct a phone bank\, helping North Carolinians to contact their legislators and demand a legislative fix. \nWAYS TO GET INVOLVED: \n-Sign up for a shift below on the google doc so we can send you INFO and names of people to call! \nhttps://goo.gl/forms/9KjMPYfHd4fQQ7MJ3 \n-Can’t make calls to supporters? Then sign this action alert here:bit.ly/2AV2xC5 and then share the link on Facebook and Twitter using the hashtags #DreamActNow and #HeretoStayNC. \n-Send Thom Tillis an email with letters from DREAMERS to thom_tillis@tillis.senate.gov\nYou can find the letters here:\nhttps://www.ywcablog.com/2017/12/21/letters-to-congress-from-dreamers-in-our-community/#sthash.ILobEIHe.dpbs \nOver the past week\, we saw a small victory for DACA recipients as a federal court ordered USCIS to accept DACA renewal applications while DACA litigation is pending. Though a step in the right direction and a signal that even the courts believe it is right to protect undocumented youth\, Dreamers deserve more. They deserve a bipartisan clean Dream Act and they deserve it now. \nCongress has until January 19th to pass the Dream Act. Despite rumors of progress in bipartisan negotiations\, we have not yet seen a draft of the proposed legislation or a vote. North Carolinian Representatives and Senators need to hear from you\, their constituents\, before the 19th. Help us tell them why providing protection and stability to the over 800\,000 youth at risk of losing status is important to you and to North Carolina.
+URL:https://www.unitingnc.org/stand-with-us/january-18-phonebank-daca-online/
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/01/26907799_10155369571192737_2778752914123891485_n.jpg
+END:VEVENT
+END:VCALENDAR

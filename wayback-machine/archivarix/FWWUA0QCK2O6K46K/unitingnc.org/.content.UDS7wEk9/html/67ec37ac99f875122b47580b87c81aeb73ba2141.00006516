@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190825T120000
+DTEND;TZID=America/New_York:20190825T180000
+DTSTAMP:20220601T091504
+CREATED:20190612T152523Z
+LAST-MODIFIED:20190612T152523Z
+UID:5001-1566734400-1566756000@www.unitingnc.org
+SUMMARY:August 25: Festival Latinoamericano (Carrboro)
+DESCRIPTION:El Centro Hispano\, Inc. is proud to present the 6th Latin American Festival\, a celebration of cultures\, rhythms\, food and more. \nDive into a vibrant atmosphere of diverse cultures\, music\, food and dance at the West Weaver St in Carrboro\, between N. Grensboro St and Lindsay St. on Sunday August 25 from 12:00 pm to 6:00 pm. \nThis is a free family friendly day that attracts a multicultural audience from Carrboro-Chapel Hill and the surrounding areas and creates a cultural space where residents can discover\, learn and experience traditional and contemporary Latin American culture through music\, entertainment\, arts and food.
+URL:https://www.unitingnc.org/stand-with-us/august-25-festival-latinoamericano-carrboro/
+LOCATION:W Weaver St\, W Weaver St\, Carrboro\, NC\, 27510
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/06/61776110_2488475824520136_2483333417484156928_n.jpg
+GEO:35.9111523;-79.0743226
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=W Weaver St W Weaver St Carrboro NC 27510;X-APPLE-RADIUS=500;X-TITLE=W Weaver St:geo:-79.0743226,35.9111523
+END:VEVENT
+END:VCALENDAR

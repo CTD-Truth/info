@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170923
+DTEND;VALUE=DATE:20171002
+DTSTAMP:20220601T124817
+CREATED:20170914T175045Z
+LAST-MODIFIED:20170921T154123Z
+UID:3356-1506124800-1506902399@www.unitingnc.org
+SUMMARY:September 23\, 24\, & October 1st: DACA Renewal Clinics (Wilmington\, Raleigh\, Chapel Hill\, & Greensboro)
+DESCRIPTION:The North Carolina Justice Center is hosting a series of DACA renewal clinics in Wilmington\, Raleigh\, Chapel Hill\, and Greensboro. If your DACA expires between September 5\, 2017 and March 5\, 2018\, you must renew your\nDACA before October 5\, 2017! To take advantage of one of these clinics\, please call 919-861-2064 for one of the following locations & dates: September 23rd in Wilmington\, September 24th in Raleigh\, September 24th in Chapel Hill\, and October 1st in Greensboro.
+URL:https://www.unitingnc.org/stand-with-us/september-23-24-october-1st-daca-renewal-clinics-wilmington-raleigh-chapel-hill-greensboro/
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/603276_10151049835694607_821960860_n.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170928T160000
+DTEND;TZID=America/New_York:20170928T170000
+DTSTAMP:20220601T124817
+CREATED:20170831T144719Z
+LAST-MODIFIED:20170906T201909Z
+UID:3262-1506614400-1506618000@www.unitingnc.org
+SUMMARY:September 28: A Sanctuary or Cemetery: A Memorial Service for Those We've lost (Durham\, Greensboro\, Winston-Salem)
+DESCRIPTION:  \nOn September 28\, immigrant families and their supporters will gather in Greensboro\, Winston-Salem & Durham to highlight the terrible dilemma that led three North Carolina families to seek refuge in three different houses of worship this summer\, to avoid the heartless demands of ICE agents. \nWe’ll gather to remember and memorialize some of the dozens of people who did _not_ find refuge\, and lost their lives after being deported. ICE detentions have surged over 70% this year so far\, and ICE continues to choose which people to deport seemingly at random. \nNorth Carolina now has 20% of all active sanctuary cases nationally\, the most of any state. How many more will need to make this impossible choice this year in our state? \nHow many more families will open the mail suddenly to discover that their grandmother or mother’s case has been reopened by ICE\, and that she is being ordered to leave the country? \nHow many children will come home from school to find a parent missing? \nWhat are our elected representatives planning to do to end this crisis\, and protect our undocumented family members and neighbors? \n—- \nEl 28 de septiembre\, familias inmigrantes y sus apoyantes se unirán en Greensboro\, Winston-Salem y Durham para hablar del horrible dilemma que hizó necesario que tres familias de Carolina del Norte buscaran refugio en tres iglesias diferentes este verano para evitar las demandas crueles de agentes de ICE. \nNos reuniremos para recordar y conmemorar algunas de las decenas de personas quienes NO encontraron un refugio y fallecieron después de ser deportados. Las detenciones de ICE han incrementado 70% este año y ICE siguen escogiendo a quienes deportar al azar. \nCarolina del Norte cuenta con 20% de los casos activos de las personas viviendo “en santuario”\, más que cualquier otro estado. ¿Cuántos más tendrán que escoger esta terrible opción? \n¿Cuántas familias tendrán que abrir su correo para descubrir que el caso antes cerrado de su abuela o su mamá ha sido reabierto por ICE y que está obligada salir del país? \n¿Cuántos niños volverán a casa de la escuela para encontrar que su padre o madre ha sido detenido? \n¿Qué piensan hacer nuestros representantes para acabar con esta crisis y proteger a nuestras familias y vecinos indocumentados?
+URL:https://www.unitingnc.org/stand-with-us/september-28-sanctuary-cemetery-memorial-service-weve-lost-durham-greensboro-winston-salem/
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/08/21105928_10159269146390582_6922669477356390610_n.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170928T160000
+DTEND;TZID=America/New_York:20170928T180000
+DTSTAMP:20220601T124817
+CREATED:20170925T173529Z
+LAST-MODIFIED:20170925T175923Z
+UID:3386-1506614400-1506621600@www.unitingnc.org
+SUMMARY:September 28: DACA Clinic (Greenville)
+DESCRIPTION:NC Field\, NC Farmworkers’ Project\, and Student Action with Farmworkers will be hosting a DACA Clinic for farmworker families. Hatch Rockers Immigration will be offering FREE legal services to those who are filing for a DACA renewal. \nPlease bring the following documents:\n1) A check or money order for $495\n2) 2 passport photos\n3) Work permit\n4) Most recent letter of DACA approval\n5) Social security\n6) Passport (if you have one)\n7) Criminal record\n8) Proof of advanced parole (if applicable)\n9) Copy of most recent DACA renewal packet (if you have one) \nApplications will be taken on a first come first serve basis with opportunities to sign up for an appointment at 4pm and 6pm. \nYou can apply for a DACA aplication fee scholarship in the following page:https://lc4daca.org/
+URL:https://www.unitingnc.org/stand-with-us/september-28-daca-clinic-greenville/
+LOCATION:261 Belvoir Highway\, 261 Belvoir Highway\, Greenville\, NC\, 27834\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/21557447_1835013246514196_1087286184461799159_n.jpg
+GEO:35.6527105;-77.370135
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=261 Belvoir Highway 261 Belvoir Highway Greenville NC 27834 United States;X-APPLE-RADIUS=500;X-TITLE=261 Belvoir Highway:geo:-77.370135,35.6527105
+END:VEVENT
+END:VCALENDAR

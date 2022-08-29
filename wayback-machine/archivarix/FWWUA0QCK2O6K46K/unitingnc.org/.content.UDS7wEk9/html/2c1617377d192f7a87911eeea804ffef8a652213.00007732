@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180908T180000
+DTEND;TZID=America/New_York:20180908T200000
+DTSTAMP:20220601T011242
+CREATED:20180830T124849Z
+LAST-MODIFIED:20180830T124849Z
+UID:4353-1536429600-1536436800@www.unitingnc.org
+SUMMARY:September 8: Stories on Citizenship (Chapel Hill)
+DESCRIPTION:Come get to know your neighbors from nonprofit community organizations over dinner and more at CURRENT. Hosted by Carolina Performing Arts\, this free gathering bringing together community and campus will feature local nonprofit organizations telling stories of their impact through performance\, song\, and more. \nFeatured guests include Immersion for Spanish Learning Acquisition (ISLA)\, The Marian Cheek Jackson Center\, Student Action for Farmworkers\, El Centro Hispano\, and Community Empowerment Fund. UNC students Luke Beyer\, Joyce Yao\, Raymond Tu\, and Eddy Fernandez will emcee the evening. \nThe evening will continue in the Studio at CURRENT with dinner\, provided by Vimala’s Curryblossom Café\, as conversation continues with all guests—or\, as we like to think of it\, CPA invites the town over for dinner. \nThis event is free but RSVPs are strongly encouraged.
+URL:https://www.unitingnc.org/stand-with-us/september-8-stories-on-citizenship-chapel-hill/
+LOCATION:Art Space Studio\, 123 W. Franklin St.\, Chapel Hill\, NC\, 27517\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/08/40051491_10157745495445968_5379992342683975680_n.jpg
+GEO:35.911628;-79.057863
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Art Space Studio 123 W. Franklin St. Chapel Hill NC 27517 United States;X-APPLE-RADIUS=500;X-TITLE=123 W. Franklin St.:geo:-79.057863,35.911628
+END:VEVENT
+END:VCALENDAR

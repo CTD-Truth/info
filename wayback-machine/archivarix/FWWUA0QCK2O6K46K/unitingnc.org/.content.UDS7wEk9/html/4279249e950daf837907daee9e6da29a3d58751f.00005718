@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180120T090000
+DTEND;TZID=America/New_York:20180120T110000
+DTSTAMP:20220601T122032
+CREATED:20180108T162444Z
+LAST-MODIFIED:20180108T170802Z
+UID:3598-1516438800-1516446000@www.unitingnc.org
+SUMMARY:January 20: Citizenship Workshop/ Taller de  Ciudadania (Charlotte)
+DESCRIPTION:Are you ready to become a US Citizen\, but have not yet filled out your application? In this workshop we help you! \n\n¿Estas listo para hacerte Ciudadano Estadounidense\, pero aun no has llenado tu solicitud? En este taller te ayudamos!
+URL:https://www.unitingnc.org/stand-with-us/january-20-citizenship-workshop-taller-de-ciudadania/
+LOCATION:Simmons YMCA\, 6824 Democracy Dr.\, Charlotte\, NC\, 28212\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/01/26166246_10156978901018047_4040646938979407547_n.jpg
+GEO:35.1993544;-80.7319224
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Simmons YMCA 6824 Democracy Dr. Charlotte NC 28212 United States;X-APPLE-RADIUS=500;X-TITLE=6824 Democracy Dr.:geo:-80.7319224,35.1993544
+END:VEVENT
+END:VCALENDAR

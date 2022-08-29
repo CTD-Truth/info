@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181002T073000
+DTEND;TZID=America/New_York:20181002T090000
+DTSTAMP:20220601T042146
+CREATED:20180924T181106Z
+LAST-MODIFIED:20180924T181712Z
+UID:4419-1538465400-1538470800@www.unitingnc.org
+SUMMARY:October 2: Justice for All Breakfast (Charlotte)
+DESCRIPTION:Join us for breakfast with keynote speaker Federico Rios as we celebrate justice for all in the Charlotte region by kicking off the 2019 Access to Justice Campaign\, benefiting Charlotte Center for Legal Advocacy and Legal Aid of North Carolina-Charlotte. This year’s event will be held October 2\, 2018\, 7:30am-9am\, at The Westin Charlotte (601 S College St\, Charlotte\, NC 28202). \nRegister today to save your seat or host a table!
+URL:https://www.unitingnc.org/stand-with-us/justice-for-all-breakfast/
+LOCATION:The Westin Charlotte\, 601 S College St\, Charlotte\, North Carolina\, 28202
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/09/39467674_10155772142302666_8139959093260451840_n.jpg
+GEO:35.2215512;-80.8473977
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=The Westin Charlotte 601 S College St Charlotte North Carolina 28202;X-APPLE-RADIUS=500;X-TITLE=601 S College St:geo:-80.8473977,35.2215512
+END:VEVENT
+END:VCALENDAR

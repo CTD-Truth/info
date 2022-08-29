@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170715T110000
+DTEND;TZID=America/New_York:20170715T140000
+DTSTAMP:20220601T131443
+CREATED:20170706T192956Z
+LAST-MODIFIED:20170706T192956Z
+UID:3165-1500116400-1500127200@www.unitingnc.org
+SUMMARY:July 15: 10K Strong July Mass Meeting (Durham)
+DESCRIPTION:Join the #10KStrong squad in the third of 6 monthly mass meetings during the course of the 10K Strong campaign! Skill up\, get motivated\, and build community as we work towards creating our Durham For All. \nRead the full 10K Strong Pledge at www.durhamforall.org/10kstrong \nSign the pledge and join the 10K Strong squad at www.durhamforall.org/pledge \nMass training spaces have a special role in the history of our movements! They are how we learn to take action together. They are how we build community and shared language. They are a place to be renewed as well as a place to challenge ourselves in our commitments to transformation. We can’t wait to build with you!
+URL:https://www.unitingnc.org/stand-with-us/july-15-10k-strong-july-mass-meeting-durham/
+LOCATION:302 W Main\, 302 W Main Street\, Durham\, North Carolina\, 27701
+GEO:35.996318;-78.902395
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=302 W Main 302 W Main Street Durham North Carolina 27701;X-APPLE-RADIUS=500;X-TITLE=302 W Main Street:geo:-78.902395,35.996318
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170715T120000
+DTEND;TZID=America/New_York:20170715T170000
+DTSTAMP:20220601T131443
+CREATED:20170706T193356Z
+LAST-MODIFIED:20170706T193356Z
+UID:3168-1500120000-1500138000@www.unitingnc.org
+SUMMARY:July 15: Anti-Racism\, Anti-Islamophobia\, Immigrant/Refugee Assembly (Raleigh)
+DESCRIPTION:This assembly is organized to build a stronger grassroots movement to challenge racism\, Islamophobia and anti-immigrant/anti-refugee attacks. This assembly will gather Black\, Brown\, Muslim community members who are victims of these oppressions and who are leading work against these oppressions. \nThis event will feature organizing workshops\, skill-building sessions\, arts\, and food. There is no cost to attend this assembly. Childcare and Spanish to English translation services will be provided. \nFor more information\, contact info@muslimsforsocialjustice.org or call at 919-355-8026. \nThis assembly is organized by Muslims for Social Justice. \nPartners for this assembly include:\nEducation Justice Alliance\nSpiritHouse NC\nNorth Carolina Fair Share CDC\nRaleigh PACT\nMuslim Women For\nMovement to End Racism and Islamophobia\nProject South
+URL:https://www.unitingnc.org/stand-with-us/july-15-anti-racism-anti-islamophobia-immigrantrefugee-assembly-raleigh/
+LOCATION:The Vital Link School\, 1214 E Lenoir Street\, Raleigh\, North Carolina\, 27610
+GEO:35.7721117;-78.6210468
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=The Vital Link School 1214 E Lenoir Street Raleigh North Carolina 27610;X-APPLE-RADIUS=500;X-TITLE=1214 E Lenoir Street:geo:-78.6210468,35.7721117
+END:VEVENT
+END:VCALENDAR

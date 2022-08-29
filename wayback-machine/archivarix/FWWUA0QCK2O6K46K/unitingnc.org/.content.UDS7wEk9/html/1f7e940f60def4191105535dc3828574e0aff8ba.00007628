@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181018T183000
+DTEND;TZID=America/New_York:20181018T203000
+DTSTAMP:20220601T014355
+CREATED:20181010T173457Z
+LAST-MODIFIED:20181010T173457Z
+UID:4468-1539887400-1539894600@www.unitingnc.org
+SUMMARY:October 18: Our Kids Can't Wait: Community Forum on Public Education (Cary)
+DESCRIPTION:What’s at stake for public education in NC this election season? \nJoin us in Cary for a community forum with parent advocates and leaders in public education. Learn about policies affecting our state and community\, what needs to change\, and the type of investments and advocacy we need. \nFor more information call 919-856-3194. Co-hosted by Save Our Schools NC.
+URL:https://www.unitingnc.org/stand-with-us/october-18-our-kids-cant-wait-community-forum-on-public-education-cary/
+LOCATION:Davis Drive Elementary\, 2151 Davis Dr\, Cary\, North Carolina\, 27519
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/10/42979432_10155888740384607_5910196464713203712_n.jpg
+GEO:35.7796682;-78.8506202
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Davis Drive Elementary 2151 Davis Dr Cary North Carolina 27519;X-APPLE-RADIUS=500;X-TITLE=2151 Davis Dr:geo:-78.8506202,35.7796682
+END:VEVENT
+END:VCALENDAR

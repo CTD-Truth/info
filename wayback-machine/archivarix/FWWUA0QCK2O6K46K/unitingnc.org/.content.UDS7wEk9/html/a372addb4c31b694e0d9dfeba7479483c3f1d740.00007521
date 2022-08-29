@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170520T180000
+DTEND;TZID=America/New_York:20170520T230000
+DTSTAMP:20220601T010635
+CREATED:20170427T160511Z
+LAST-MODIFIED:20170427T160539Z
+UID:2978-1495303200-1495321200@www.unitingnc.org
+SUMMARY:May 20: Made in America / Hecho en América (Charlotte)
+DESCRIPTION:OBRA Collective presents Made in America\, a show highlighting immigrants. \n“America: A land mass of the western hemisphere consisting of the continents of North and South America joined by the Isthmus of Panama.”- Oxford Living Dictionaries \n“North America and/or South America.”- Cambridge Dictionary \nJoin is for a night of visual art\, poetry readings and musical acts exploring the Americas and the immigrant experience in the United States. What’s it like to migrate to the United States? What brings immigrants here? What’s it like being the child of immigrants? What immigrants inspire us? Why do immigrants make “America” great?
+URL:https://www.unitingnc.org/stand-with-us/may-20-made-america-hecho-en-america/
+LOCATION:516 E 15th St. Charlotte\, NC 28206\, 516 E 15th St\, Charlotte\, NC\, 28206\, United States
+GEO:35.2327116;-80.8256304
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=516 E 15th St. Charlotte NC 28206 516 E 15th St Charlotte NC 28206 United States;X-APPLE-RADIUS=500;X-TITLE=516 E 15th St:geo:-80.8256304,35.2327116
+END:VEVENT
+END:VCALENDAR

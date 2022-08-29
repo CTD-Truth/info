@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170519T183000
+DTEND;TZID=America/New_York:20170519T210000
+DTSTAMP:20220601T135826
+CREATED:20170424T171925Z
+LAST-MODIFIED:20170427T154606Z
+UID:2945-1495218600-1495227600@www.unitingnc.org
+SUMMARY:May 19-21: Oakwood Lives 2017 - Immigrants! (Raleigh)
+DESCRIPTION:Come see a one-of-a-kind performance at Raleigh’s “cemetery full of life!” Fri/Sat May 19-20 at 6:30pm Sun\, May 21 at 2pm. \nEvery year\, Burning Coal Theatre teams up with Historic Oakwood Cemetery to present an evening of vignettes about notable people who are resting peacefully there. This year’s theme is “Immigrants!”.  It will be a celebration of people not born in Raleigh but who came here and worked here and left a legacy of which we could all be proud. \nWe are proud to feature local playwrights and actors in this evening about those who came before.  This years featured plays and playwrights will be announced shortly.
+URL:https://www.unitingnc.org/stand-with-us/may-19-oakwood-lives-2017-immigrants-raleigh/
+LOCATION:Oakwood Cemetery\, 701 Oakwood Ave\, Raleigh\, NC\, United States
+CATEGORIES:Stand With Us
+GEO:35.7877251;-78.6253859
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Oakwood Cemetery 701 Oakwood Ave Raleigh NC United States;X-APPLE-RADIUS=500;X-TITLE=701 Oakwood Ave:geo:-78.6253859,35.7877251
+END:VEVENT
+END:VCALENDAR

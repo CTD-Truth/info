@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170916T100000
+DTEND;TZID=America/New_York:20170916T140000
+DTSTAMP:20220601T063055
+CREATED:20170914T132239Z
+LAST-MODIFIED:20170914T143453Z
+UID:3346-1505556000-1505570400@www.unitingnc.org
+SUMMARY:September 16: DACA Renewal Workshop (Charlotte)
+DESCRIPTION:Does your DACA expire on or before March 5\, 2018? You\nmust renew before October 5\, 2017\nThe Latin American Coalition can help you renew for FREE \nTo renew your DACA\, bring the following:\n– Money order for $495\n– 2 passport-style photos\n– Current Work Permit\n– Prior DACA Applications \nIf Mexican\, bring proof of your Mexican nationality\, like a Matricula Consular or passport.
+URL:https://www.unitingnc.org/stand-with-us/september-16-daca-renewal-workshop/
+LOCATION:Johnston YMCA\, 3025 North Davidson St.\, Charlotte\, NC\, 28205\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/21686256_10156615247443047_6560780091872632906_n.jpg
+GEO:35.2465913;-80.808111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Johnston YMCA 3025 North Davidson St. Charlotte NC 28205 United States;X-APPLE-RADIUS=500;X-TITLE=3025 North Davidson St.:geo:-80.808111,35.2465913
+END:VEVENT
+END:VCALENDAR

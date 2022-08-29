@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181016T193000
+DTEND;TZID=America/New_York:20181016T214500
+DTSTAMP:20220601T102956
+CREATED:20180911T152549Z
+LAST-MODIFIED:20180911T170709Z
+UID:4384-1539718200-1539726300@www.unitingnc.org
+SUMMARY:October 16: Noche Latina at the N.C. State Fair (Raleigh)
+DESCRIPTION:  \nDorton Arena shows begin at 7:30 p.m. each night. Lineup for the show begins no earlier than 6 p.m. and doors are at 7 p.m. Each show is free with State Fair admission\, and seating in the arena is first-come\, first-served general admission. Ticketing link below is to purchase your State Fair admission tickets.
+URL:https://www.unitingnc.org/stand-with-us/october-16-noche-latina-at-the-n-c-state-fair/
+LOCATION:N.C. State Fair\, 1025 Blue Ridge Rd.\, Raleigh\, North Carolina\, 27607
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/09/NC-State-Fair.jpg
+GEO:35.7946994;-78.7078052
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=N.C. State Fair 1025 Blue Ridge Rd. Raleigh North Carolina 27607;X-APPLE-RADIUS=500;X-TITLE=1025 Blue Ridge Rd.:geo:-78.7078052,35.7946994
+END:VEVENT
+END:VCALENDAR

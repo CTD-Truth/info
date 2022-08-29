@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180301T180000
+DTEND;TZID=America/New_York:20180301T210000
+DTSTAMP:20220601T071149
+CREATED:20180226T162720Z
+LAST-MODIFIED:20180226T162720Z
+UID:3760-1519927200-1519938000@www.unitingnc.org
+SUMMARY:March 1: Losing Protection / Más Allá de DACA y la Deportación (Durham)
+DESCRIPTION:The Duke Center for Latin American and Caribbean Studies with support from the Duke Office of Global Affairs and the Hanscom Endowment presents a Burning Issues in Latin America Series event: \nAfter DACA: Losing Protection\, Perspectives from the US\, Mexico & Beyond \nMarch 1\, 2018 – 6:00 pm to 9:00 pm\nWhite 107 (White Lecture Hall) \nPart of a two-day symposium in the Burning Issues in Latin America series hosted by the Duke Center for Latin American and Caribbean Studies. The Trump administration has set March 5 as the day to begin phasing out the Deferred Action for Childhood Arrivals policy. The After DACA/ Más Allá de DACA symposium will use the milestone of the cancellation-and/or other developments that occur between now and March 1-as an opportunity to discuss humanitarian\, legal\, and policy issues related to DACA and other in-between statuses. The forum will air these issues within a transnational context\, primarily by examining Mexico but also by drawing parallels between dilemmas faced by DACA recipients and by those from Central America and Haiti who have been eligible for Temporary Protected Status. The symposium will feature scholars and analysts from Duke\, the Migration Policy Institute\, Americans for Immigrant Justice\, Mexicans in Exile\, Universidad de Veracruz\, the New School\, Durham Public Schools\, and Otros Dreams en Acción; students-some with DACA status-from Duke and other universities in North Carolina and Mexico; and community advocates. Immigrant Youth Forum featuring a roundtable by student and community organizations. With short videos by Define American and Otros Dreams en Acción. Free and open to the public. \nhttps://latinamericancaribbean.duke.edu/after-dacamás-allá-de-daca-perspectives-us-and-mexico
+URL:https://www.unitingnc.org/stand-with-us/march-1-losing-protection-mas-alla-de-daca-y-la-deportacion-durham/
+LOCATION:Richard White Auditorium (East Duke Campus)\, 1308 Campus Dr\, East Campus Durham\, NC\, Durham\, NC\, 27705\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/02/27973803_10155061123825689_8381718765179014771_n.jpg
+GEO:36.0054932;-78.9147606
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Richard White Auditorium (East Duke Campus) 1308 Campus Dr East Campus Durham NC Durham NC 27705 United States;X-APPLE-RADIUS=500;X-TITLE=1308 Campus Dr\, East Campus Durham\, NC:geo:-78.9147606,36.0054932
+END:VEVENT
+END:VCALENDAR

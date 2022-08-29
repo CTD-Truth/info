@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170916T090000
+DTEND;TZID=America/New_York:20170916T123000
+DTSTAMP:20220601T071925
+CREATED:20170906T163308Z
+LAST-MODIFIED:20170906T164801Z
+UID:3295-1505552400-1505565000@www.unitingnc.org
+SUMMARY:September 16: Sanctuary Matters (Chapel Hill)
+DESCRIPTION:In light of recent events involving the deportation and fears of our immigrant brothers and sisters throughout the state\, the NC Council of Churches’ annual Faith & Immigration Summit will focus on the topic of sanctuary this year. Our families\, friends\, neighbors and co-workers are terrified about being detained and deported; profiled because of their religion\, race or political beliefs; losing their health coverage; and facing hate and discrimination. Learn why congregations across the region and country are choosing to support and provide sanctuary\, what it means in practice\, and how to be successful at “Sanctuary Matters: Testimony and Best Practices.” \nSaturday\, September 16 from 9 a.m.-12:30 p.m. the United Church of Chapel will host an in-person\, half-day training for congregations and clergy leaders interested in providing support and sanctuary for vulnerable individuals in North Carolina. We will discuss the many ways that your congregation can stand up against hate and dehumanization at this moment. Topics will include testimony from people who have been in sanctuary and congregations that have opened their doors as sanctuaries as well as training for congregations that are in the discernment process. The keynote speaker is Rev. Noel Andersen\, Grassroots Organizer for Church World Service out of the Washington DC office. Time will be provided for congregations to network by geographic or faith affinity and a Peruvian lunch will also be provided. The cost is $10 and scholarships are available.
+URL:https://www.unitingnc.org/stand-with-us/september-16-sanctuary-matters-chapel-hill/
+LOCATION:United Church of Chapel Hill\, 1321 Martin Luther King Jr. Blvd.\, Chapel Hill\, NC\, 27514\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/20246513_1440928485955254_8022661190225491758_n.jpg
+GEO:35.9524257;-79.05943
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=United Church of Chapel Hill 1321 Martin Luther King Jr. Blvd. Chapel Hill NC 27514 United States;X-APPLE-RADIUS=500;X-TITLE=1321 Martin Luther King Jr. Blvd.:geo:-79.05943,35.9524257
+END:VEVENT
+END:VCALENDAR

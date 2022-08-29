@@ -1,0 +1,186 @@
+/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+
+#subnav {
+	font-weight: 300;
+}
+
+.metro-red a.social-buttons:hover, .metro-red button:hover, .metro-red input:hover[type="button"], .metro-red input:hover[type="submit"], .metro-red .btn:hover, .metro-red .genesis-nav-menu .current-menu-item a, .metro-red .genesis-nav-menu li a:hover, .metro-red .genesis-nav-menu li:hover a, .metro-red .navigation li a:hover, .metro-red .navigation li.active a, .metro-red .post-comments a, .metro-red .sidebar .enews-widget input[type="submit"], .metro-red #title a, .metro-red .genesis-nav-menu li li a:hover {
+	background-color: #d63f2c !important;
+}
+
+.metro-red .genesis-nav-menu li li a, .metro-red .genesis-nav-menu li li a:link, .metro-red .genesis-nav-menu li li a:visited, .metro-red .post-comments {
+	background-color: #333 !important;
+}
+
+#header .widget-area {
+	width: 500px;
+	margin-top: -30px;
+}
+
+#title {
+	text-align: right;
+	display: none;
+}
+
+.genesis-nav-menu.menu-primary {
+	text-transform: none;
+	font-weight: bold;
+}
+
+.cc_style_3 .cc_submit {
+	margin-top: 10px;
+}
+
+a.social-buttons {
+	width: 33%;
+}
+
+h1, .entry-title, .entry-title a, #title {
+	font-size: 2.25rem;
+	font-size: 36px;
+}
+
+.entry-title a {
+	font-size: 2.25rem;
+	font-size: 36px;
+}
+
+#footer p {
+	font-weight: 300;
+}
+
+span.wpcf7-list-item {
+	display: block;
+}
+
+.wp-caption {
+	font-weight: 300;
+	font-size: 12px;
+}
+
+h1, .entry-title, .entry-title a, #title {
+	font-size: 32px;
+}
+
+.clb-button {
+	background-color: #333;
+	color: #FFFFFF !important;
+	text-decoration: none;
+	border: none;
+	box-shadow: none;
+	cursor: pointer;
+	padding: 16px 24px;
+	padding: 1rem 1.5rem;
+	width: auto;
+}
+
+.clb-button:hover {
+	background-color: #d63f2c;
+}
+
+.circle-section {
+	margin-top: 50px;
+}
+
+.circle-section h2 {
+	color: red;
+	background-color: #eee;
+	padding: 10px;
+}
+
+.circle-section img:hover {
+	opacity: .8;
+}
+
+.site-footer {
+	font-weight: 300;
+}
+
+.genesis-nav-menu {
+	clear: both;
+	font-size: .001px;
+	line-height: 1;
+	width: 100%;
+}
+
+.genesis-nav-menu .menu-item {
+	display: inline-block;
+	font-size: 16px;
+	text-align: left;
+}
+
+.genesis-nav-menu a {
+    color: #fff;
+    display: block;
+		font-weight: 400;
+    padding: 16px 20px 14px;
+    text-transform: none;
+}
+
+body, .entry-content, .entry-content p {
+	font-size: 19px;
+	font-weight: 300;
+}
+
+.entry-meta {
+    font-size: 14px;
+    font-size: 1.4rem;
+}
+
+.blog .archive-description {
+	display: none;
+}
+
+h1, h2, h3, h4, h5 {
+	font-weight: 700;
+}
+
+.home .site-inner {
+	padding-top: 0px;
+}
+
+.header-image .site-title, .header-image .title-area {
+    min-height: 80px;
+    padding: 0;
+}
+
+.header-image .site-title p, .header-image .title-area p {
+    margin: 0px !important;
+}
+
+.nav-primary {
+	margin-top: -10px;
+}
+
+.button.full {
+	width: 100%;
+	text-align: center;
+}
+
+#search-3 {
+	margin-top: -10px;
+}
+
+@media only screen and (max-width: 768px) {
+#menu-item-1866, #menu-item-1865, #menu-item-2151-es, #menu-item-2665, #menu-item-2666, #menu-item-2667, #search-3 {
+	display: none;
+}
+
+.site-header {
+	margin-top: -30px;
+	margin-left: 110px;
+}
+
+.archive-description, .entry-header {
+	margin-top: -20px;
+}
+
+.button.full {
+	margin-bottom: 8px;
+}
+}

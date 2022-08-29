@@ -1,0 +1,87 @@
+/* Enter Your Custom CSS Here */
+
+/*LFK 1/30/20 - styling for mobile homepage view */
+
+
+#custom_html-15 {
+		font-family: Montserrat, sans-serif;
+		text-align: center;
+}
+
+#custom_html-15 h3 {
+	font-size: 30px;
+	text-transform: none;
+	letter-spacing: -1px;
+  line-height: 1;
+  margin-bottom: 5px;
+  font-weight: 900;
+}
+
+@media only screen and (max-width: 779px){
+	#custom_html-15 h3{
+		margin-top:25px;
+	}
+	
+	#custom_html-4 h3 {
+		display: none;
+	}
+	
+	.front-page-2 .flexible-widgets {
+    padding-top: 0px !important;
+		margin-top: -50px;
+	}
+}
+
+@media only screen and (max-width: 480px){
+	.widget_text .cta-button-area-lfk a.button {
+		display: inline-block;
+		}
+}
+
+/* .page-id-2791 .clb-card__title:after{
+		content: " - Remember this";
+}
+
+.page-id-2791 .clb-card__title{
+		width:100%;
+}
+ */
+.wp-block-button__link{
+		 font-family: "Muli", sans-serif !important;
+    font-size: 1.2rem;
+		font-weight:bold !important;
+}
+
+.page-id-6318 .entry-content .alignwide{
+		margin-left:0;
+		margin-right:0;
+}
+
+.page-id-6318 .wp-block-image figcaption {
+    margin-top: 0;
+		font-size: 12px
+}
+
+
+.care-plan1{
+	display: inline-block;
+    padding: 14px 20px;
+    background: #eee;
+    color: #333;
+    margin-top: -10px;
+    margin-bottom: 30px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+h3.gform_title{
+	display:none;
+}
+
+
+
+/*timeline 2020*/
+.wpostahs-centent-title{
+	display:none;
+}
+

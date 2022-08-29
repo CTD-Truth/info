@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180411T183000
+DTEND;TZID=America/New_York:20180411T200000
+DTSTAMP:20220601T113946
+CREATED:20180405T142806Z
+LAST-MODIFIED:20180405T142806Z
+UID:3867-1523471400-1523476800@www.unitingnc.org
+SUMMARY:April 11: No  al 287(g): 2nd Organizing Meeting/ Reunion de Planeación (Burlington)
+DESCRIPTION:Join us for our second organizing. We’ll be hearing updates from our working groups and moving our plans forward to resist 287 (g) in Alamance County. For More info contact Juan@downhomenc.org.\n—-\nUnete a nuestra segunda reunion de planeación. Estaremos escuchando reportes de nuestros grupos de trabajo y continuando con nuestros planes para resister al 287 (g) en el Condado de Alamance. Para mas información contacta a Juan@downhomenc.org.
+URL:https://www.unitingnc.org/stand-with-us/april-11-no-al-287g-2nd-organizing-meeting-reunion-de-planeacion-burlington/
+LOCATION:Down Home North Carolina\, 1246A Plaza Dr.\, Burlington\, NC\, 27215\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/04/29683919_354756425012122_7793332284699044050_n.jpg
+GEO:36.065895;-79.4302919
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Down Home North Carolina 1246A Plaza Dr. Burlington NC 27215 United States;X-APPLE-RADIUS=500;X-TITLE=1246A Plaza Dr.:geo:-79.4302919,36.065895
+END:VEVENT
+END:VCALENDAR

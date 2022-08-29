@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170402T133000
+DTEND;TZID=America/New_York:20170402T163000
+DTSTAMP:20220601T005943
+CREATED:20170330T143829Z
+LAST-MODIFIED:20170330T143829Z
+UID:2876-1491139800-1491150600@www.unitingnc.org
+SUMMARY:April 2: Durham CROP Hunger Walk (Durham)
+DESCRIPTION:The largest fund-raising events for Church World Service (CWS) are CROP Hunger Walks. The first CROP Hunger Walk was in the 1960s. Now more than 2\,000 communities across the U.S. join in CROP Hunger Walks each year. A unique aspect of CROP Hunger Walks is that Church World Service doesn’t receive all of the money raised. Up to 25% of the money donated is given to local hunger fighting agencies which include food banks and community gardens. Additionally\, those sponsoring a walker can specify whether Church World Service or an alternative global hunger-fighting agency will receive the remaining 75% of the donation.
+URL:https://www.unitingnc.org/stand-with-us/april-2-durham-crop-hunger-walk-durham/
+LOCATION:Chapel on Duke West Campus\, 401 Chapel Dr\, Durham\, NC\, 27708\, United States
+CATEGORIES:Stand With Us
+GEO:36.001701;-78.9399294
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Chapel on Duke West Campus 401 Chapel Dr Durham NC 27708 United States;X-APPLE-RADIUS=500;X-TITLE=401 Chapel Dr:geo:-78.9399294,36.001701
+END:VEVENT
+END:VCALENDAR

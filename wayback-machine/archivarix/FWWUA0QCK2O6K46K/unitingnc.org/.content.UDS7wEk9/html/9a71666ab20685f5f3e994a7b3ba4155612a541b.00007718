@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170928T160000
+DTEND;TZID=America/New_York:20170928T180000
+DTSTAMP:20220601T082041
+CREATED:20170925T173529Z
+LAST-MODIFIED:20170925T175923Z
+UID:3386-1506614400-1506621600@www.unitingnc.org
+SUMMARY:September 28: DACA Clinic (Greenville)
+DESCRIPTION:NC Field\, NC Farmworkers’ Project\, and Student Action with Farmworkers will be hosting a DACA Clinic for farmworker families. Hatch Rockers Immigration will be offering FREE legal services to those who are filing for a DACA renewal. \nPlease bring the following documents:\n1) A check or money order for $495\n2) 2 passport photos\n3) Work permit\n4) Most recent letter of DACA approval\n5) Social security\n6) Passport (if you have one)\n7) Criminal record\n8) Proof of advanced parole (if applicable)\n9) Copy of most recent DACA renewal packet (if you have one) \nApplications will be taken on a first come first serve basis with opportunities to sign up for an appointment at 4pm and 6pm. \nYou can apply for a DACA aplication fee scholarship in the following page:https://lc4daca.org/
+URL:https://www.unitingnc.org/stand-with-us/september-28-daca-clinic-greenville/
+LOCATION:261 Belvoir Highway\, 261 Belvoir Highway\, Greenville\, NC\, 27834\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/21557447_1835013246514196_1087286184461799159_n.jpg
+GEO:35.6527105;-77.370135
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=261 Belvoir Highway 261 Belvoir Highway Greenville NC 27834 United States;X-APPLE-RADIUS=500;X-TITLE=261 Belvoir Highway:geo:-77.370135,35.6527105
+END:VEVENT
+END:VCALENDAR

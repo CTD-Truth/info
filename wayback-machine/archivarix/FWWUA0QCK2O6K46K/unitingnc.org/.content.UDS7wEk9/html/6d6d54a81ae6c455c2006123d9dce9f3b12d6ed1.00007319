@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180630T120000
+DTEND;TZID=America/New_York:20180630T150000
+DTSTAMP:20220601T074326
+CREATED:20180621T153310Z
+LAST-MODIFIED:20180621T153844Z
+UID:4175-1530360000-1530370800@www.unitingnc.org
+SUMMARY:June 30: Families Belong Together Rally (Winston-Salem)
+DESCRIPTION:Join the Winston-Salem community during the national day of action on June 30th – Families Belong Together. \nDonald Trump\, Border Patrol\, ICE\, and his administration are cruelly separating children from their families and criminalizing both immigrant children and their parents. \nBut we won’t allow it to continue. On June 30\, activists are rallying in Washington\, D.C. and around the country to tell Donald Trump and his administration to stop separating kids from their parents! \nWe stand in support of this movement and will rally in Winston Salem to voice our dissent to these horrific policies and dehumanizing efforts. \nThroughout the country\, folks are already blockading ICE offices and occupying the offices of politicians who are refusing to take action and do what is right. We wholeheartedly believe that no human is illegal and that we must stand up for immigrant rights\, which are human rights. \nTrump and his administration have been systematically criminalizing immigration and immigrants\, from revoking Deferred Action for Childhood Arrivals (DACA) to ramping up intimidating ICE tactics. \nFAMILIES BELONG TOGETHER. \nEnd Family Separation.\nDefund ICE & BCP.\nEnd For-Profit Detention Centers.\nFix the DACA crisis.\nFight for dignity and labor rights for immigrant workers. \nThe planning meeting for the event will be next Tuesday at 7PM at Fearless Winston Salem (1002 Brookstown Avenue\, Winston Salem\, NC 27101). https://www.facebook.com/events/237387596993679/?notif_t=plan_edited&notif_id=1529498161828968
+URL:https://www.unitingnc.org/stand-with-us/june-30-families-belong-together-rally-winston-salem/
+LOCATION:122 W. 4th St.\, 122 W. 4th St.\, Winston-Salem\, NC\, 27101\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/06/35647286_1971902242820441_2121214644470153216_n.jpg
+GEO:36.097941;-80.2458429
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=122 W. 4th St. 122 W. 4th St. Winston-Salem NC 27101 United States;X-APPLE-RADIUS=500;X-TITLE=122 W. 4th St.:geo:-80.2458429,36.097941
+END:VEVENT
+END:VCALENDAR

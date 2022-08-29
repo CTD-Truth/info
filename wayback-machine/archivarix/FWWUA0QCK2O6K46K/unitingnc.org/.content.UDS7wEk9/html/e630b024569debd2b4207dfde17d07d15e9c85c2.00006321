@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190328T090000
+DTEND;TZID=America/New_York:20190328T150000
+DTSTAMP:20220601T094909
+CREATED:20190211T211726Z
+LAST-MODIFIED:20190218T211246Z
+UID:4700-1553763600-1553785200@www.unitingnc.org
+SUMMARY:March 28: 2019 Legislative Seminar (Raleigh)
+DESCRIPTION:Whether you are new to grassroots advocacy or have been engaged in this critical work for some time\, the NC Council of Churches’ Legislative Seminar offers the opportunity to hear updates on issues being discussed at the General Assembly\, network with others who share your concerns\, and learn how you can make a difference. This seminar is unique in North Carolina in bringing together people of faith to learn ways we can impact legislation in our state.
+URL:https://www.unitingnc.org/stand-with-us/march-28-2019-legislative-seminar-raleigh/
+LOCATION:North Raleigh United Methodist Church\, 8501 Honeycutt Road\, Raleigh\, NC\, 27615
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/02/51767642_2078509632197133_7803410137460244480_n.jpg
+GEO:35.8967398;-78.6232333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=North Raleigh United Methodist Church 8501 Honeycutt Road Raleigh NC 27615;X-APPLE-RADIUS=500;X-TITLE=8501 Honeycutt Road:geo:-78.6232333,35.8967398
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190328T173000
+DTEND;TZID=America/New_York:20190328T190000
+DTSTAMP:20220601T094909
+CREATED:20190320T192552Z
+LAST-MODIFIED:20190320T192552Z
+UID:4868-1553794200-1553799600@www.unitingnc.org
+SUMMARY:March 28: Employment Equity in North Carolina: A Community Conversation (Rocky Mount)
+DESCRIPTION:Employment equity—where anyone who wants to work\, regardless of race or gender is able to find a quality job—is crucial to ensuring that North Carolina can compete in today’s economy and the economy of the future. \nRural Forward NC and the Budget & Tax Center will share findings from a 2018 report on the status of full employment in North Carolina\, facilitate intentional dialogue about policy change opportunities and learn about your community-driven solutions and innovations. \nCome join community partners as we have a thoughtful and inclusive conversation about what full employment means for the Twin Counties\, eastern North Carolina and the entire state! \nThis event is free. A light meal will be served.
+URL:https://www.unitingnc.org/stand-with-us/march-28-employment-equity-in-north-carolina-a-community-conversation-rocky-mount/
+LOCATION:Booker T Theater\, 170 East Thomas Street\, Rocky Mount\, NC\, 27801
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/03/54437403_10161584589330261_5011422953993142272_n.jpg
+GEO:35.9440741;-77.7931921
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Booker T Theater 170 East Thomas Street Rocky Mount NC 27801;X-APPLE-RADIUS=500;X-TITLE=170 East Thomas Street:geo:-77.7931921,35.9440741
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190328T180000
+DTEND;TZID=America/New_York:20190328T193000
+DTSTAMP:20220601T094909
+CREATED:20190228T163729Z
+LAST-MODIFIED:20190228T163729Z
+UID:4791-1553796000-1553801400@www.unitingnc.org
+SUMMARY:March 28: Creating a Shared Vision for NC Schools: Community Forum ( Charlotte)
+DESCRIPTION:What are the most pressing issues for public education advocates this legislative session? \nJoin us for a community forum in Charlotte with parent advocates and leaders in public education. Learn about policies affecting our state and community\, what needs to change and the type of investments and advocacy we need more of. \nThis event is FREE! Click here to RSVP.
+URL:https://www.unitingnc.org/stand-with-us/march-28-creating-a-shared-vision-for-nc-schools-community-forum-charlotte/
+LOCATION:Aldersgate Life Plan Communities\, 3800 Shamrock Dr\, Charlotte\, NC\, 28215
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/02/51755780_10156180551314607_2320668364441124864_n-1.jpg
+GEO:35.2330811;-80.7606018
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Aldersgate Life Plan Communities 3800 Shamrock Dr Charlotte NC 28215;X-APPLE-RADIUS=500;X-TITLE=3800 Shamrock Dr:geo:-80.7606018,35.2330811
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190328T183000
+DTEND;TZID=America/New_York:20190328T200000
+DTSTAMP:20220601T094909
+CREATED:20190320T193857Z
+LAST-MODIFIED:20190320T193857Z
+UID:4872-1553797800-1553803200@www.unitingnc.org
+SUMMARY:March 28: Cary Vigil for Refugees and Immigrants (Cary)
+DESCRIPTION:Join us for a service of truth-telling\, lamentation and empowerment to be a part of change for refugees and vulnerable immigrants.\nWorld Relief Durham\, a local refugee resettlement agency\, will be sharing about the refugee experience and how the church can be an agent of transformation at this turbulent moment in our nation’s history.
+URL:https://www.unitingnc.org/stand-with-us/march-28-cary-vigil-for-refugees-and-immigrants-cary/
+LOCATION:Covenant Christian Church\, 911 SW Cary Pkwy\, Cary\, NC\, 27513
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/03/54514351_10156095970666981_4535604692868136960_n.jpg
+GEO:35.7551981;-78.8102793
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Covenant Christian Church 911 SW Cary Pkwy Cary NC 27513;X-APPLE-RADIUS=500;X-TITLE=911 SW Cary Pkwy:geo:-78.8102793,35.7551981
+END:VEVENT
+END:VCALENDAR

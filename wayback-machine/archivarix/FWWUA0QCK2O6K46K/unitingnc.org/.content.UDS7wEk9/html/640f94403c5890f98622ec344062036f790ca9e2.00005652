@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171129T110000
+DTEND;TZID=America/New_York:20171129T120000
+DTSTAMP:20220601T123259
+CREATED:20171127T211218Z
+LAST-MODIFIED:20171127T211218Z
+UID:3528-1511953200-1511956800@www.unitingnc.org
+SUMMARY:November 29: 287g Meeting with Mecklenburg Sheriff (Charlotte)
+DESCRIPTION:Every year Mecklenburg County holds their anual ” Steering Committee Meeting” to discuss the impact of the program in our community. The 287(g) program is a partnership between Immigration and Customs Enforcement (ICE) and a state or local law enforcement entity. \nMore than 10\,000 people have been deported in Mecklenburg County because of this program\, most for minor crimes. \nMecklenburg County Sheriff Jim Pendergraph started the program in 2006\, current Sheriff Irwin Carmichael has refused to end the program. \n287g has been a detramental program to the Charlotte Mecklenburg area since 2006 and continues to become even more dangerous in the era of Trump. \n– Communidad Colectiva\, Alerta Migratoria and the Southeast Asian Coalition \nSign the petiton here: https://www.change.org/p/protect-the-immigrants-and-refugees-of-charlotte?recruiter=54972695&utm_source=share_petition&utm_medium=copylink
+URL:https://www.unitingnc.org/stand-with-us/november-29-287g-meeting-mecklenburg-sheriff-charlotte/
+LOCATION:801 East 4th St.\, 801 East 4th St.\, Charlotte\, NC\, 28202\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/11/23517991_503898299982805_3178604164474754727_n.jpg
+GEO:35.2204461;-80.8362289
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=801 East 4th St. 801 East 4th St. Charlotte NC 28202 United States;X-APPLE-RADIUS=500;X-TITLE=801 East 4th St.:geo:-80.8362289,35.2204461
+END:VEVENT
+END:VCALENDAR

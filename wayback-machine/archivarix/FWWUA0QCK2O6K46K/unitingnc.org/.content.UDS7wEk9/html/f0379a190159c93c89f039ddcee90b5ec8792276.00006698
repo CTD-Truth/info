@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180823T190000
+DTEND;TZID=America/New_York:20180824T170000
+DTSTAMP:20220531T233039
+CREATED:20180724T164430Z
+LAST-MODIFIED:20180724T165055Z
+UID:4249-1535050800-1535130000@www.unitingnc.org
+SUMMARY:August 23:  Shifting Worlds: Displacement and Forced Migration in Modern Times (Greensboro)
+DESCRIPTION:The UNCG Center for New North Carolinians in partnership with Guilford College and Elon University present “Shifting Worlds: Displacement and Forced Migration in Modern Times.” During this event\, invited speakers will present on current challenges and opportunities for refugees and immigrants in North Carolina. All interested are welcome to register for this unique opportunity to engage in dialogue on current resettlement trends\, U.S. immigration policy\, advocacy\, and more. \nThe event is free. Advanced registration strongly encouraged. Register here: https://cnnc.uncg.edu/migration-institute/.
+URL:https://www.unitingnc.org/stand-with-us/august-23-shifting-worlds-displacement-and-forced-migration-in-modern-times-greensboro/
+LOCATION:(Greensboro)\, Greensboro\, NC\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/07/36310224_2094015950918517_5659294680123179008_n.jpg
+GEO:36.0726354;-79.7919754
+END:VEVENT
+END:VCALENDAR

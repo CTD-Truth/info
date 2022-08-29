@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190127T130000
+DTEND;TZID=America/New_York:20190127T143000
+DTSTAMP:20220601T100907
+CREATED:20190114T183114Z
+LAST-MODIFIED:20190114T183114Z
+UID:4633-1548594000-1548599400@www.unitingnc.org
+SUMMARY:January 27: Understanding the Plight of Migrants (Charlotte)
+DESCRIPTION:Migrants are in need of support in Charlotte. \nCome find out more about the plight of migrants coming into the U.S. and get plugged into how you can help right here at home. \nJoin us as we discuss the migrants’ situation at the border; the relief work being done at the Charlotte Greyhound bus station; and what happens at the end of the migrant families’ journey. Meet other community members who have been active at the Greyhound station and find out how you can get involved. \nPlease bring your choice of the following to the event (we are using every opportunity to collect for the migrants): \n● Hats\, gloves\, socks\, coats \n● Toothbrushes\, toothpaste\, dental floss \n● Deodorant (men’s and women’s) \n● Lip balm such as Chapstick \n● Coloring books with little packs of crayons for kids \n● Little fun toys to keep kids occupied during the long bus ride \n● Little packages of Kleenex \n● Bottled water \n● Adult and children’s cold medicines \n● Snacks – non-perishable food that’s easy to travel with. Example: animal crackers\, trail mix\, Cliff bars\, Cheezits
+URL:https://www.unitingnc.org/stand-with-us/january-27-understanding-the-plight-of-migrants-charlotte/
+LOCATION:Action Nc\, Central Ave. (Unit 14) 1817\, Charlotte\, NC\, 28205\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/01/49012481_746665609039405_6212936962672689152_n.jpg
+GEO:35.2206938;-80.8088401
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Action Nc Central Ave. (Unit 14) 1817 Charlotte NC 28205 United States;X-APPLE-RADIUS=500;X-TITLE=Central Ave. (Unit 14) 1817:geo:-80.8088401,35.2206938
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181015T183000
+DTEND;TZID=America/New_York:20181015T210000
+DTSTAMP:20220601T102947
+CREATED:20181010T163543Z
+LAST-MODIFIED:20181010T163543Z
+UID:4459-1539628200-1539637200@www.unitingnc.org
+SUMMARY:October 15: Historical effects Colonialism have on Black and Brown Women (Durham)
+DESCRIPTION:Colonization is horrible! It strips you of your self-identity and blinds you from reality. It is a deeply embedded poison that has tried to demolish our way of life and our feeling of self-worth.”As women\, we want to live a life that is decolonized and we want to be free. We want to be free to pursue and find our holistic liberation.” \nOn October 15th\, Action NC\, along with coalition partners\, will be hosting a community forum to discuss “What is decolonization and what effects does colonialism have on Black and Brown Women”. \nAt this meeting\, we will discuss the history of Colonialism and the effect it has on Race\, Education\, Economics as well as the effects it has on Black and Brown Women in 2018. \nWe will also discuss the steps that Black and Brown Women must take to fight for their rights because of decolonization and how to embrace the journey of expressing who they are while defining what equality really means for black and brown women. \nOur panelist speakers are\nDr. Michelle Laws\nIrene.Godinez\nVivette Jeffries-Logan \nSo join us on October 15th at the Full Frame Theather at the American Tobacco Campus. Food and refreshments will be served. For more information contact the Action NC office at\n919-794-8210\nGloria De Los Santos email gloria@actionnc.org\nNaomi Randolph email naomi@actionnc.org
+URL:https://www.unitingnc.org/stand-with-us/october-15-historical-effects-colonialism-have-on-black-and-brown-women-durham/
+LOCATION:Full Frame Theater\, 320 Blackwell Street\, Durham\, North Carolina\, 27701
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/10/43172466_10160987953235261_5748615826487902208_n.jpg
+GEO:35.9937869;-78.9045564
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Full Frame Theater 320 Blackwell Street Durham North Carolina 27701;X-APPLE-RADIUS=500;X-TITLE=320 Blackwell Street:geo:-78.9045564,35.9937869
+END:VEVENT
+END:VCALENDAR

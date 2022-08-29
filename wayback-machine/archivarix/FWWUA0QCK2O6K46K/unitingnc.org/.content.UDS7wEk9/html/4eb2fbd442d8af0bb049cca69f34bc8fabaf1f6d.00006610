@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180418T183000
+DTEND;TZID=America/New_York:20180418T193000
+DTSTAMP:20220601T052811
+CREATED:20180416T142936Z
+LAST-MODIFIED:20180416T142936Z
+UID:3911-1524076200-1524079800@www.unitingnc.org
+SUMMARY:April 18: Training to Verify & Interrupt ICE Raids & Surveillance (Chapel Hill)
+DESCRIPTION:Co-Sponsored with Southern Vision Alliance \nThis training will provide participants with information about how to respond to reports of ICE surveillance and enforcement actions. By participating\, you’ll learn how to sign up to be part of a rapid response team that can respond to reports of ICE activity in ways that create more safety for immigrant community members. Siembra NC is building similar teams in Guilford & Alamance County\, and by participating in this training\, you can be part of the team in Orange County. \n(Currently this training is offered only in English – feel free to get in touch if you’d like to offer support for making it a bilingual event) \nChildcare will be generously coordinated by Southern Vision Alliance.
+URL:https://www.unitingnc.org/stand-with-us/april-18-training-to-verify-interrupt-ice-raids-surveillance-chapel-hill/
+LOCATION:Church of Reconciliation\, 110 N Eliott Rd\, Chapel Hill\, NC\, 27514\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/04/30698288_2038717959730183_7685601664023615658_n.jpg
+GEO:35.9360259;-79.0309834
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Church of Reconciliation 110 N Eliott Rd Chapel Hill NC 27514 United States;X-APPLE-RADIUS=500;X-TITLE=110 N Eliott Rd:geo:-79.0309834,35.9360259
+END:VEVENT
+END:VCALENDAR

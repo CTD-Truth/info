@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170924T130000
+DTEND;TZID=America/New_York:20170924T160000
+DTSTAMP:20220601T065801
+CREATED:20170906T163542Z
+LAST-MODIFIED:20170906T163542Z
+UID:3307-1506258000-1506268800@www.unitingnc.org
+SUMMARY:September 24: Tacos & Tunes-All Are Welcome Here (Durham)
+DESCRIPTION:Let’s come together as community to raise awareness and support for Refugees. Join in an afternoon of live music and and a culturally diverse taco bar. $10 suggested donation for food\, but no one will be turned away. ALL ARE WELCOME and all donations go to support Church World Service and their efforts to support refugees. \nCheck back for an updated list of performing artists! \nThis event is co-sponsored by Duke Memorial UMC and Fullsteam
+URL:https://www.unitingnc.org/stand-with-us/september-24-tacos-tunes-welcome-durham/
+LOCATION:Fullsteam Brewery\, 726 Rigsbee Ave\, Durham\, NC\, 27701\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/21192734_1669316483093015_4567642033171134928_n.jpg
+GEO:36.0031092;-78.8995998
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Fullsteam Brewery 726 Rigsbee Ave Durham NC 27701 United States;X-APPLE-RADIUS=500;X-TITLE=726 Rigsbee Ave:geo:-78.8995998,36.0031092
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190223T190000
+DTEND;TZID=America/New_York:20190223T190000
+DTSTAMP:20220601T053913
+CREATED:20181204T162132Z
+LAST-MODIFIED:20181204T162132Z
+UID:4582-1550948400-1550948400@www.unitingnc.org
+SUMMARY:February 23: A NIGHT IN RIO: 10th Annual Brazilian Carnaval Experience (Charlotte)
+DESCRIPTION:A NIGHT IN RIO: 10th Annual Brazilian Carnaval Experience at Neighborhood Theatre \nDoors: 7:00 pm / Show: 7:00 pm\n$15 adv/$20 dos\nValid ID required for entry into venue – Under 18 permitted with parent. \nGreen and yellow can only mean one thing; the Latin American Coalition is gearing up for their tenth annual Brazilian celebration\, A Night in Rio! Get a taste of Brazilian Carnaval through traditional dancing\, live music delicious authentic food and drinks\, and a marketplace full of cultural wears. Sold out for five years in a row\, this year’s event promises to be bigger and better. You won’t want to miss the energy of Brazil’s famous Carnaval at this one-of-a-kind cultural experience. More INFO visit www.RioCharlotte.com \nYou won’t want to miss the energy of Brazil’s famous Carnaval at this one-of-a-kind cultural experience. For more information visit www.RioCharlotte.com.
+URL:https://www.unitingnc.org/stand-with-us/february-23-a-night-in-rio-10th-annual-brazilian-carnaval-experience-charlotte/
+LOCATION:Neighborhood Theatre\, 511 E 36th St\, Charlotte\, NC\, 28205
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/12/47043754_2557663240916309_7354306478427078656_n.jpg
+GEO:35.2474686;-80.8039078
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Neighborhood Theatre 511 E 36th St Charlotte NC 28205;X-APPLE-RADIUS=500;X-TITLE=511 E 36th St:geo:-80.8039078,35.2474686
+END:VEVENT
+END:VCALENDAR

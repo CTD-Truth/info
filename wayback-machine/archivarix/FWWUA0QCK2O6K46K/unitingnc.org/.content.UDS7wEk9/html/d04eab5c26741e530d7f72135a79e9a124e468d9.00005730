@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180128T110000
+DTEND;TZID=America/New_York:20180128T130000
+DTSTAMP:20220601T122135
+CREATED:20180116T175940Z
+LAST-MODIFIED:20180116T180056Z
+UID:3630-1517137200-1517144400@www.unitingnc.org
+SUMMARY:January 28: Muslims' Contributions in the Making of America (Raleigh)
+DESCRIPTION:As Salaam Islamic Center & Cultural Enrichment Services\nPresents Table Talk \nwith\nAMIR MUHAMMAD \nPlease join author\, historian\, and co-founder of America’s Islamic Heritage Museum and Cultural Center as he discusses “Muslims’ contributions in the making of America”. Mr. Muhammad\, author of eight books\, has had several exhibitions hosted at various venues throughout the United States and abroad. He and his wife\, Dr. Habeebah Muhammad\, have dedicated themselves to documenting untold stories of Muslim life in America. \n$10.00 Suggested Donation\nProceeds cover the cost of hosting this event. It will also support\nAs Salaam Islamic Center’s Building Fund and Cultural Enrichment Services’\, Inc. 2018 Calendar Initiatives. Please click the link below to reserve your seat. \nTickets: https://www.eventbrite.com/e/muslims-contributions-in-the-making-of-america-tickets-41666544757?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
+URL:https://www.unitingnc.org/stand-with-us/january-28-muslims-contributions-making-america-raleigh/
+LOCATION:Vital Link Event Center\, 1214 E. Lenoir St.\, Raleigh\, NC\, 27610\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/01/26195452_10157034106499676_6878770031072757752_n.jpg
+GEO:35.7721399;-78.6210326
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Vital Link Event Center 1214 E. Lenoir St. Raleigh NC 27610 United States;X-APPLE-RADIUS=500;X-TITLE=1214 E. Lenoir St.:geo:-78.6210326,35.7721399
+END:VEVENT
+END:VCALENDAR

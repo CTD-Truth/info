@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190518T140000
+DTEND;TZID=America/New_York:20190518T153000
+DTSTAMP:20220601T092839
+CREATED:20190516T154433Z
+LAST-MODIFIED:20190516T154433Z
+UID:4970-1558188000-1558193400@www.unitingnc.org
+SUMMARY:May 18: Letter Delivery at the Governors Mansion (Raleigh)
+DESCRIPTION:Español abajo: \nHB370 is a “Show me your papers” bill that would require NC Sheriffs to collaborate with ICE. Immigrant rights groups across the state are joining in arms to fight back against this retaliatory bill that wishes to punish counties whose sheriffs terminated their relationship with ICE. \nJoin us at the Governors Mansion in Raleigh as we rally to deliver letters from community members demanding that Governor Cooper veto HB 370 or any other copycat bill if it lands on his desk. \n—\nLa HB370 una propuesta anti-migratoria requiere que los alguaciles del estado colaboran con ICE. Grupos de los derechos de los inmigrantes están trabajando juntos para detener esta propuesta que busca castigar a los condados cuales alguaciles terminaron su relación con ICE. \nAcompáñenos a la mansión del gobernador en Raleigh para entregar cartas de miembros comunitarios que demandan que el Gobernador Cooper utilice su poder del veto si la HB 370 o otra propuesta similar llegue en su escritorio!
+URL:https://www.unitingnc.org/stand-with-us/may-18-letter-delivery-at-the-governors-mansion-raleigh/
+LOCATION:200 N Blount St\, 200 N Blount St\, Raleigh\, NC\, 27601-1006
+ATTACH;FMTTYPE=image/png:https://www.unitingnc.org/wp-content/uploads/2019/05/60209841_815611358811496_2455286572371673088_n.png
+GEO:35.7831598;-78.6355424
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=200 N Blount St 200 N Blount St Raleigh NC 27601-1006;X-APPLE-RADIUS=500;X-TITLE=200 N Blount St:geo:-78.6355424,35.7831598
+END:VEVENT
+END:VCALENDAR

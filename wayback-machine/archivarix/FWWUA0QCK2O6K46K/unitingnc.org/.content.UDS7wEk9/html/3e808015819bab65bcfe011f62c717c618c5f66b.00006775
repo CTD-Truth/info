@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170429T090000
+DTEND;TZID=America/New_York:20170429T143000
+DTSTAMP:20220601T140635
+CREATED:20170323T142510Z
+LAST-MODIFIED:20170330T202543Z
+UID:2807-1493456400-1493476200@www.unitingnc.org
+SUMMARY:April 29: Naturalization Workshop (Greensboro)
+DESCRIPTION:The Naturalization Workshop serves all LPRs folks filling out the Naturalization application form (N-400) and Fee Waiver form (I-912). Civics and US History study material will be provided and there will be a Quality review from pro-bono attorneys. \nRegistration is necessary\, please call (888)839-8682.
+URL:https://www.unitingnc.org/stand-with-us/april-29-naturalization-workshop-greensboro/
+LOCATION:St. Mary Catholic Church\, 812 Duke Street\, Greensboro\, NC\, 27401\, United States
+CATEGORIES:Stand With Us
+GEO:36.0652813;-79.7682937
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=St. Mary Catholic Church 812 Duke Street Greensboro NC 27401 United States;X-APPLE-RADIUS=500;X-TITLE=812 Duke Street:geo:-79.7682937,36.0652813
+END:VEVENT
+END:VCALENDAR

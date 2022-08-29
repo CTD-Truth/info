@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190225T170000
+DTEND;TZID=America/New_York:20190225T210000
+DTSTAMP:20220601T063838
+CREATED:20190204T201917Z
+LAST-MODIFIED:20190204T201917Z
+UID:4651-1551114000-1551128400@www.unitingnc.org
+SUMMARY:February 25: Chipotle Fundraiser (Greensboro)
+DESCRIPTION:Make dinner a selfless act by joining us for a fundraiser to support Church World Service Greensboro. Come to the Chipotle at 435 S Tate Street in Greensboro on Monday\, February 25th between 5:00pm and 9:00pm. Bring in this flyer\, show it on your smartphone or tell the cashier you’re supporting the cause to make sure that 33% of the proceeds will be donated to Church World Service Greensboro. \nPlease let the employee know that you’re there for the CWS-Greensboro Fundraiser at checkout\, otherwise\, your purchase won’t count!
+URL:https://www.unitingnc.org/stand-with-us/february-25-chipotle-fundraiser-greensboro/
+LOCATION:Chipotle Mexican Grill\, 435 S Tate St\, Greensboro\, NC\, 27403
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/02/50853169_2303606416336767_6697252279721918464_n.jpg
+GEO:36.0674574;-79.8052725
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Chipotle Mexican Grill 435 S Tate St Greensboro NC 27403;X-APPLE-RADIUS=500;X-TITLE=435 S Tate St:geo:-79.8052725,36.0674574
+END:VEVENT
+END:VCALENDAR

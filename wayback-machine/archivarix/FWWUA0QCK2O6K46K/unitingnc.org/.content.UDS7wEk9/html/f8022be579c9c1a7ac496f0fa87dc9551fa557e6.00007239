@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170728T123000
+DTEND;TZID=America/New_York:20170728T140000
+DTSTAMP:20220601T015725
+CREATED:20170706T194159Z
+LAST-MODIFIED:20170706T194159Z
+UID:3176-1501245000-1501250400@www.unitingnc.org
+SUMMARY:July 28: Imprisoned Justice: Inside Georgia Immigration Detention Centers (Raleigh)
+DESCRIPTION:Bring your lunch and learn directly from one of the authors of a new report on abuses faced by immigrant detainees in two facilities in Georgia. The vast majority of all detained immigrants and refugees from North Carolina are held in these Georgia centers. That’s why people active on immigrant and refugee rights in our state need to increase our awareness and our coordinated action about the abuses people are suffering in Stewart Detention Center and the Irwin County Detention Center. \nTo attend in person or online\, please complete this RSVP form and you will receive more details ASAP: https://bit.ly/2tbDxpQ
+URL:https://www.unitingnc.org/stand-with-us/july-28-imprisoned-justice-inside-georgia-immigration-detention-centers-raleigh/
+END:VEVENT
+END:VCALENDAR

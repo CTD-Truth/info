@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180304T130000
+DTEND;TZID=America/New_York:20180304T160000
+DTSTAMP:20220601T115714
+CREATED:20180219T154854Z
+LAST-MODIFIED:20180219T155054Z
+UID:3740-1520168400-1520179200@www.unitingnc.org
+SUMMARY:March 4: Defeating Islamophobia & Racism: MERI Workshop (Durham)
+DESCRIPTION:Join Judea Reform Congregation’s Social Action Committee at a workshop led by the North Carolina-based network called MERI (Movement to End Racism and Islamophobia). In addition to sharing information\, MERI believes in taking practical actions to defeat Islamophobia and racism. In the workshop\, we will identify practical steps we can take to organize against these oppressions. You will leave with examples of solidarity actions\, information about upcoming events\, and other resources to support long-term actions to defeat Islamophobia and racism. \nRegistration is free and open to anyone in our community\, although we recommend a donation of $18 to Judea Reform Congregation’s Social Action Fund to support social action initiatives like this one. \nLocated in the Levin Social Hall at Judea Reform Congregation. \nFor more info on MERI\, visit https://merinc.org/
+URL:https://www.unitingnc.org/stand-with-us/march-4-defeating-islamophobia-racism-meri-workshop-durham/
+LOCATION:Judea Reform (in the Levin Social Hall)\, 1933 Cornwallis Rd\, Durham\, NC\, 27705\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/02/27752269_10160170446705790_2287908890694751870_n.jpg
+GEO:35.9780539;-78.9546604
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Judea Reform (in the Levin Social Hall) 1933 Cornwallis Rd Durham NC 27705 United States;X-APPLE-RADIUS=500;X-TITLE=1933 Cornwallis Rd:geo:-78.9546604,35.9780539
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180304T133000
+DTEND;TZID=America/New_York:20180304T153000
+DTSTAMP:20220601T115714
+CREATED:20180228T151324Z
+LAST-MODIFIED:20180228T152255Z
+UID:3777-1520170200-1520177400@www.unitingnc.org
+SUMMARY:March 4th: Communities Against Islamophobia (Raleigh)
+DESCRIPTION:Muslim Women For is proud to partner with the American Friends Service Committee of the Carolinas\, a Quaker organization that has an extensive history of promoting lasting peace with justice\, as a practical expression of faith in action. It is the mission of ‘Muslim Women For’ to provide resources and tangible strategies to promote leadership. \nThis training is designed for a Muslim-only audience to unpack Islamophobia in-depth and strategize around meaningful ways for our communities to resist anti-Muslimism right now. Networking and base-building opportunities will be made available at the end of the program. This training is especially important for young activists\, Muslim leaders\, people of color and women. \nThere are a very limited number of seats and only registered participants may attend. \nWe would love to accommodate different learning styles and differently abled folks. Please let us know on the registration form how we can ensure you are comfortable in the space. \nDATE:\nMARCH 4TH 1:30-3:30PM \nLOCATION: Raleigh\, NC. The exact location will be provided after successful registration. \nREGISTER: https://goo.gl/forms/b0FoRvVuscnfy3pe2
+URL:https://www.unitingnc.org/stand-with-us/march-4th-communities-islamophobia-raleigh/
+LOCATION:NC
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/02/27750431_2097093043859015_4121675498637171845_n.jpg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190218T180000
+DTEND;TZID=America/New_York:20190218T200000
+DTSTAMP:20220601T044238
+CREATED:20190211T210443Z
+LAST-MODIFIED:20190211T210443Z
+UID:4696-1550512800-1550520000@www.unitingnc.org
+SUMMARY:February 18: JR x TIME: Guns in America Screening and Discussion (Durham)
+DESCRIPTION:Join us at 21c Durham as we host an open discussion about gun ownership in America. Award-winning artist JR and TIME Magazine have created a video mural with interviews from people with wide ranging opinions and experiences with guns\, gun violence\, and second amendment rights. JR’s video mural will be on view and serve as the starting point for the discussion\, moderated by Jennifer Copeland\, Executive Director of the North Carolina Council of Churches. The audio and videos in JR’s mural represent a diverse spectrum of voices and stories within an often volatile and complex issue. This is not a discussion about policy or politics\, but an opportunity to listen and share personal experiences and feelings about guns in America\, in a safe\, honest\, and open environment. \n> Learn more at 21cDurham.com/events\n> To learn more about the artist: https://www.jr-art.net\n> To learn more about the live mural: www.time.com/guns-in-america
+URL:https://www.unitingnc.org/stand-with-us/february-18-jr-x-time-guns-in-america-screening-and-discussion-durham/
+LOCATION:21c Museum Hotel Durham\, 111 Corcoran Street\, Durham\, NC\, 27701
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/02/51265869_2067382916688055_4601618185588834304_n.jpg
+GEO:35.9959669;-78.9018154
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=21c Museum Hotel Durham 111 Corcoran Street Durham NC 27701;X-APPLE-RADIUS=500;X-TITLE=111 Corcoran Street:geo:-78.9018154,35.9959669
+END:VEVENT
+END:VCALENDAR

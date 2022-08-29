@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180625T180000
+DTEND;TZID=America/New_York:20180709T180000
+DTSTAMP:20220601T110256
+CREATED:20180621T135538Z
+LAST-MODIFIED:20180621T135538Z
+UID:4163-1529949600-1531159200@www.unitingnc.org
+SUMMARY:June 25: Day of Action- #StandWithMuslims in Raleigh (on-call)
+DESCRIPTION:Update: The Supreme Court decision on #MuslimBan is expected in the coming days. We will gather at Terry Sanford Federal Building at 6pm on the day of the decision to challenge this racist policy\, irrespective of Supreme Court’s decision. \nIn mid-late June\, the Supreme Court will issue its decision in Trump v. Hawai’i—deciding the fate of Trump’s Muslim Ban. \nNo matter what the Supreme Court decides\, it’s crucial that we have a visible\, strong presence across the country of people who care about Muslim and refugee communities and oppose Trump’s White Nationalist agenda. The #NoMuslimBanEver campaign is calling for a national day of action whenever the decision is announced. \nThis is an ON-CALL protest as we await the decision expected in mid-to-late June. Invite your friends and stay tuned to this page for more details! \nSponsored by\nMuslims for Social Justice\nMovement to End Racism and Islamophobia\nProject South\nMPower Change
+URL:https://www.unitingnc.org/stand-with-us/june-25-day-of-action-standwithmuslims-in-raleigh-on-call/
+LOCATION:Terry Sanford Federal Building\, New Bern Ave.\, Raleigh\, NC\, 27601\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/06/35226968_1693586947421510_4545343007225806848_n.jpg
+GEO:35.7801015;-78.6291351
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Terry Sanford Federal Building New Bern Ave. Raleigh NC 27601 United States;X-APPLE-RADIUS=500;X-TITLE=New Bern Ave.:geo:-78.6291351,35.7801015
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180630T100000
+DTEND;TZID=America/New_York:20180630T143000
+DTSTAMP:20220601T110256
+CREATED:20180621T152155Z
+LAST-MODIFIED:20180621T170820Z
+UID:4167-1530352800-1530369000@www.unitingnc.org
+SUMMARY:June 30: Families Belong Together March (Raleigh)
+DESCRIPTION:Donald Trump and his administration are cruelly separating children from their families. But we won’t allow it to continue. On June 30\, we’re rallying in Washington\, D.C.\, and around the country to tell Donald Trump and his administration to stop separating kids from their parents! \nJoin us on June 30 to send a clear message to Donald Trump and Republicans in Congress: Families Belong Together! \nJoin concerned North Carolinians as we march against the trump administration’s cruel and unusual punishment of families fleeing their homes for better lives. We’ll show the country and the world that North Carolina stands on the side of decency and humanity\, not the callous tearing apart of families. Join us! \nDirections: March starts at City Plaza\, downtown Raleigh\, located at 400 Fayetteville St. Raleigh 27601 and will end at Halifax Mall\, 16 W. Jones St. \nPLEASE RSVP HERE TOO:\nhttps://act.moveon.org/event/families-belong-together_attend1/19949
+URL:https://www.unitingnc.org/stand-with-us/june-30-families-belong-together-march-raleigh/
+LOCATION:Raleigh City Plaza\, 400 Block Fayetteville st.\, Raleigh\, NC\, 27601\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/06/35522868_2008677312682833_4108754161338679296_n.jpg
+GEO:35.7754554;-78.6396877
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Raleigh City Plaza 400 Block Fayetteville st. Raleigh NC 27601 United States;X-APPLE-RADIUS=500;X-TITLE=400 Block Fayetteville st.:geo:-78.6396877,35.7754554
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180630T110000
+DTEND;TZID=America/New_York:20180630T123000
+DTSTAMP:20220601T110256
+CREATED:20180621T152853Z
+LAST-MODIFIED:20180621T152853Z
+UID:4171-1530356400-1530361800@www.unitingnc.org
+SUMMARY:June 30: Families Belong Together Rally (Hendersonville)
+DESCRIPTION:Join the Progressive Organized Women (POW) to demand an end to family separations at the border.
+URL:https://www.unitingnc.org/stand-with-us/june-30-families-belong-together-rally-hendersonville/
+LOCATION:1 Historic Courthouse Sq\, 1 Historic Courthouse Sq\, Hendersonville\, NC\, 28792\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/06/35761477_10101409774547699_1405954258695618560_n.jpg
+GEO:35.3145365;-82.4602091
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=1 Historic Courthouse Sq 1 Historic Courthouse Sq Hendersonville NC 28792 United States;X-APPLE-RADIUS=500;X-TITLE=1 Historic Courthouse Sq:geo:-82.4602091,35.3145365
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180630T120000
+DTEND;TZID=America/New_York:20180630T150000
+DTSTAMP:20220601T110256
+CREATED:20180621T153310Z
+LAST-MODIFIED:20180621T153844Z
+UID:4175-1530360000-1530370800@www.unitingnc.org
+SUMMARY:June 30: Families Belong Together Rally (Winston-Salem)
+DESCRIPTION:Join the Winston-Salem community during the national day of action on June 30th – Families Belong Together. \nDonald Trump\, Border Patrol\, ICE\, and his administration are cruelly separating children from their families and criminalizing both immigrant children and their parents. \nBut we won’t allow it to continue. On June 30\, activists are rallying in Washington\, D.C. and around the country to tell Donald Trump and his administration to stop separating kids from their parents! \nWe stand in support of this movement and will rally in Winston Salem to voice our dissent to these horrific policies and dehumanizing efforts. \nThroughout the country\, folks are already blockading ICE offices and occupying the offices of politicians who are refusing to take action and do what is right. We wholeheartedly believe that no human is illegal and that we must stand up for immigrant rights\, which are human rights. \nTrump and his administration have been systematically criminalizing immigration and immigrants\, from revoking Deferred Action for Childhood Arrivals (DACA) to ramping up intimidating ICE tactics. \nFAMILIES BELONG TOGETHER. \nEnd Family Separation.\nDefund ICE & BCP.\nEnd For-Profit Detention Centers.\nFix the DACA crisis.\nFight for dignity and labor rights for immigrant workers. \nThe planning meeting for the event will be next Tuesday at 7PM at Fearless Winston Salem (1002 Brookstown Avenue\, Winston Salem\, NC 27101). https://www.facebook.com/events/237387596993679/?notif_t=plan_edited&notif_id=1529498161828968
+URL:https://www.unitingnc.org/stand-with-us/june-30-families-belong-together-rally-winston-salem/
+LOCATION:122 W. 4th St.\, 122 W. 4th St.\, Winston-Salem\, NC\, 27101\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/06/35647286_1971902242820441_2121214644470153216_n.jpg
+GEO:36.097941;-80.2458429
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=122 W. 4th St. 122 W. 4th St. Winston-Salem NC 27101 United States;X-APPLE-RADIUS=500;X-TITLE=122 W. 4th St.:geo:-80.2458429,36.097941
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180630T170000
+DTEND;TZID=America/New_York:20180630T200000
+DTSTAMP:20220601T110256
+CREATED:20180621T134449Z
+LAST-MODIFIED:20180621T134530Z
+UID:4155-1530378000-1530388800@www.unitingnc.org
+SUMMARY:June 30: Families Belong Together Greensboro Rally (Greensboro)
+DESCRIPTION:We have witnessed a deep level of moral outrage that has responded to the forcible splitting of families and traumatization of children by agencies of our Government. Remaining silent is not an option. We cannot allow this to continue! Join us on June 30th at 5pm as we rally and we’ll send our powerful message: Families belong together! \nThis event is brought to you by the Greensboro Faith Leaders Council
+URL:https://www.unitingnc.org/stand-with-us/june-30-families-belong-together-greensboro-rally-greensboro/
+LOCATION:Lebauer Park\, 208 N. Davie St.\, Greensboro\, NC\, 27401\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/06/35920402_10156539578959577_991613442186018816_n.jpg
+GEO:36.074256;-79.7888002
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Lebauer Park 208 N. Davie St. Greensboro NC 27401 United States;X-APPLE-RADIUS=500;X-TITLE=208 N. Davie St.:geo:-79.7888002,36.074256
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180630T183000
+DTEND;TZID=America/New_York:20180630T213000
+DTSTAMP:20220601T110256
+CREATED:20180620T191238Z
+LAST-MODIFIED:20180620T191238Z
+UID:4147-1530383400-1530394200@www.unitingnc.org
+SUMMARY:June 30: Families Belong Together March & Vigil (Charlotte)
+DESCRIPTION:Please Join us as we march from First Ward Park in a route around the city and then return to hold a vigil to demand that we keep families together. Please Bring Teddy Bears\, we will be sending them to the detention centers.\nHosted by: The Latin American Coalition\, The Coalition for Cultural Compassion \, Shining Stars Academy and other organizations and individuals.
+URL:https://www.unitingnc.org/stand-with-us/june-30-families-belong-together-march-vigil-charlotte/
+LOCATION:First Ward Park\, E 8th St. \, N. Brevard St.\, Charlotte\, NC\, 28202\, United States
+ATTACH;FMTTYPE=image/png:https://www.unitingnc.org/wp-content/uploads/2018/06/families-belong-together.png
+GEO:35.2260289;-80.8369659
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=First Ward Park E 8th St.  N. Brevard St. Charlotte NC 28202 United States;X-APPLE-RADIUS=500;X-TITLE=E 8th St. \, N. Brevard St.:geo:-80.8369659,35.2260289
+END:VEVENT
+END:VCALENDAR

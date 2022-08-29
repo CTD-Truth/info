@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171130T090000
+DTEND;TZID=America/New_York:20171130T100000
+DTSTAMP:20220601T123313
+CREATED:20171130T143907Z
+LAST-MODIFIED:20171130T143907Z
+UID:3533-1512032400-1512036000@www.unitingnc.org
+SUMMARY:November 30: Help Stop the Deportations of Jose & Dario Delgado (Durham)
+DESCRIPTION:URGENT THEY ARE SCHEDULED TO HE DEPORTED AT 1:00 TODAY! Please come this event and help us stop their deportations! \nCongressman G.K. Butterfield has the power to make a difference in the outcome of Jose and Dario Delgado’s deportation case. Jose and Dario can be deported at any minute! Congressman Butterfield’s voice can help reunite Jose and Dario with their children and wives. Please join us? Jose and Dario have been here over 20 years and met their immigration check-ins\,are the sole providers for their families\, the victims of medical malpractice\, have no criminal record aside from minor traffic tickets\, have minor children who American Citizens and medically fragile. Bring your hearts\, your signs\, and your voices!\nFirst we will meet outside the building and go inside and see if we can get some of Congressman Butterfield’s time.\nCell contact for me is 919-614-5286 \nAlerta Migratoria NC North Carolina NAACP NAACPACLU of North Carolina Progress North Carolina ActionNC Religious Coalition for Justice for Immigrants North Carolina Democratic PartyMuslims for Social Justice
+URL:https://www.unitingnc.org/stand-with-us/november-30-help-stop-deportations-jose-dario-delgado-durham/
+LOCATION:2741 Campus Walk Avenue\, 2741 Campus Walk Ave. Building 400\, suite 300\, Durham\, NC\, 27705\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/11/24174464_128260814618584_6708904334781106680_n.jpg
+GEO:36.009309;-78.9524449
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=2741 Campus Walk Avenue 2741 Campus Walk Ave. Building 400 suite 300 Durham NC 27705 United States;X-APPLE-RADIUS=500;X-TITLE=2741 Campus Walk Ave. Building 400\, suite 300:geo:-78.9524449,36.009309
+END:VEVENT
+END:VCALENDAR

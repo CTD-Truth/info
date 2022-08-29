@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180922T120000
+DTEND;TZID=America/New_York:20180922T160000
+DTSTAMP:20220601T103740
+CREATED:20180830T124307Z
+LAST-MODIFIED:20180830T124307Z
+UID:4350-1537617600-1537632000@www.unitingnc.org
+SUMMARY:September 22: Families Belong Together; A Cornhole Tournament Fundraiser (Greensboro)
+DESCRIPTION:Food! Kids’ Activities! Music! And a Cornhole Tournament! \nPlease Join AFSC of the Carolinas and Siembra NC for a day of family activities to raise money for the emergency fund for local families impacted by ICE. We believe that families belong together\, and we want to make sure the next time another local family is facing ICE action\, the fund is ready. \n**Registration for teams that want to compete in the corn hole tournament will open on Monday 9/3!*
+URL:https://www.unitingnc.org/stand-with-us/september-22-families-belong-together-a-cornhole-tournament-fundraiser-greensboro/
+LOCATION:Congregational United Church of Christ Greensboro\, 400 W Radiance Drive\, Greensboro\, NC\, 27403\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/08/40094946_10160787588220582_1153383265130774528_n.jpg
+GEO:36.077195;-79.815253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Congregational United Church of Christ Greensboro 400 W Radiance Drive Greensboro NC 27403 United States;X-APPLE-RADIUS=500;X-TITLE=400 W Radiance Drive:geo:-79.815253,36.077195
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180127T090000
+DTEND;TZID=America/New_York:20180127T140000
+DTSTAMP:20220601T001232
+CREATED:20180125T165151Z
+LAST-MODIFIED:20180125T165151Z
+UID:3677-1517043600-1517061600@www.unitingnc.org
+SUMMARY:January 27:  DACA Renewals/ Renovaciones de DACA (Durham)
+DESCRIPTION:DACA renewals set for Saturday January 27 9AM -2PM 2000 Chapel Hill Rd Suite 26a\, Durham NC (919) 687-4635 Thanks to the support of the Cities of Carrboro and Durham\, we can support by paying for the application of 30 young people. \n  \n———————————————————————————————————————————- \nRenovaciones de DACA para Sábado Enero 27 9AM -2PM\n2000 Chapel Hill Rd Suite 26a\, Durham NC\n(919) 687-4635 \nGracias al apoyo de las Ciudades de Carrboro y Durham\, podemos apoyar pagando la aplicación de 30 jóvenes.
+URL:https://www.unitingnc.org/stand-with-us/january-27-daca-renewals-renovaciones-de-daca-durham/
+LOCATION:El Centro Hispano\, 2000 Chapel Hill Rd (Suite 26A)\, Durham\, NC\, 27707\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/01/26815573_1779742362060156_968097574381874659_n.jpg
+GEO:35.9888616;-78.927357
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=El Centro Hispano 2000 Chapel Hill Rd (Suite 26A) Durham NC 27707 United States;X-APPLE-RADIUS=500;X-TITLE=2000 Chapel Hill Rd (Suite 26A):geo:-78.927357,35.9888616
+END:VEVENT
+END:VCALENDAR

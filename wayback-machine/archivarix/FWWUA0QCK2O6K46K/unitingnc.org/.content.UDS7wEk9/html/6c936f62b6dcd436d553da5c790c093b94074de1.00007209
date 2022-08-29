@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180712T183000
+DTEND;TZID=America/New_York:20180712T210000
+DTSTAMP:20220601T013058
+CREATED:20180709T132019Z
+LAST-MODIFIED:20180709T132019Z
+UID:4245-1531420200-1531429200@www.unitingnc.org
+SUMMARY:July 12: Emergency Concert for Families Supporting KIND & JusticeMatters (Durham)
+DESCRIPTION:Join members of the Triangle community in a night of art\, community\, & music about Justice\, Peace\, and Hope\, hosted at Judea Reform Congregation. \n6:30-7:30pm: Community\, Art\, & Activism \nView paintings by Durham-based artist and immigrant Cornelio Campos in the Rosenzweig Art Gallery’s exhibit\, “Creating A Life in a New World\,” learn about nonprofit organizations Kids in Need of Defense and Justice Matters\, register to vote\, and more. \n7:30pm-9:00pm: Concert \nChoral\, vocal\, and instrumental music in a variety of styles\, featuring music about justice\, peace\, refuge\, and hope. \nFree admission\, with suggested donation. All concert proceeds go to Kids in Need of Defense supportkind.org/ and JusticeMatters www.justicemattersnc.org/
+URL:https://www.unitingnc.org/stand-with-us/july-12-emergency-concert-for-families-supporting-kind-justicematters-durham/
+LOCATION:Judea Reform Congregation\, 1933 W Cornwallis Ave\, Durham\, NC\, 27705
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/07/36297887_10155617733919013_602085175731421184_n.jpg
+GEO:35.9780539;-78.9546604
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Judea Reform Congregation 1933 W Cornwallis Ave Durham NC 27705;X-APPLE-RADIUS=500;X-TITLE=1933 W Cornwallis Ave:geo:-78.9546604,35.9780539
+END:VEVENT
+END:VCALENDAR

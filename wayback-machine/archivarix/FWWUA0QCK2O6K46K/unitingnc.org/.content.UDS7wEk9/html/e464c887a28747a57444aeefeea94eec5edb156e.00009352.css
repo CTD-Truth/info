@@ -1,0 +1,65 @@
+/*== Videogall CSS ==*/
+
+.videogall-item {
+text-align:center;
+min-height: 1px; display: -moz-inline-stack; display: inline-block; vertical-align: top; zoom: 1; *display: inline; _height: 1px;
+position:relative;
+margin:0 1.5% 15px;
+}
+
+.videogall-item img {
+max-width:100%;
+height:auto;
+width:100%;
+}
+
+.videogall-item p {
+margin-top:10px!important;
+line-height:150%!important;
+}
+
+.videogall-page {
+min-height: 1px; display: -moz-inline-stack; display: inline-block; vertical-align: top; zoom: 1; *display: inline; _height: 1px;
+line-height:1;
+text-decoration:none;
+border:1px solid;
+margin-right:5px;
+padding:7px;
+}
+
+.videogall-page.current_page {
+color:#000;
+}
+
+.videogall-item .videogall-description {
+text-align:left!important;
+}
+
+.widget .videogall-item {
+width:100%!important;
+margin:0 0 15px!important;
+}
+
+.videogall-meta {
+position:absolute;
+top:10px;
+right:2px;
+font-size:12px;
+display:none;
+}
+
+.videogall-meta a {
+color:#fff!important;
+text-decoration:none!important;
+min-height: 1px; display: -moz-inline-stack; display: inline-block; vertical-align: top; zoom: 1; *display: inline; _height: 1px;
+background-color:#000;
+background-image:url(../images/like.png);
+background-repeat:no-repeat;
+background-position:5px center;
+line-height:1;
+-moz-border-radius:2px;
+-webkit-border-radius:2px;
+border-radius:2px;
+font-weight:700;
+padding:5px 5px 5px 25px;
+}

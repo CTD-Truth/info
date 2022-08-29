@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180208T000000
+DTEND;TZID=America/New_York:20180208T235900
+DTSTAMP:20220601T121003
+CREATED:20180201T153341Z
+LAST-MODIFIED:20180201T153404Z
+UID:3673-1518048000-1518134340@www.unitingnc.org
+SUMMARY:February 8: Stop SB 145: A City-Wide Letter Writing Event (Raleigh)
+DESCRIPTION:SB-145 is an anti-immigrant bill that would violate one’s privacy rights and open the door for the state police to act as immigration officials. It would also take away funding for any local government that is violating immigration laws (sanctuary cities). Sanctuary cities are illegal in North Carolina\, which means that any anonymous tip (which we will be allowed to do under this new bill) will be investigated with the waste of NC tax paying dollars. This is only part of the new proposed bill that will set out to create a blanket of fear in the undocumented community. \nYou can find more here: https://www.aclu.org/news/sweeping-anti-immigrant-measure-passes-nc-senate-committee \nOn February 8th\, Trey Roberts\, El Pueblo\, Inc.\, ACLU of North Carolina\,andTIPS- This Is Proper Service will partner up on a city wide letter writing event. The event will take place over the course of one day with rotating schedules amongst local businesses in the downtown area. The concept is that for the day\, our volunteers will shift amongst downtown’s blossoming local businesses and set of letter writing stations for people to visit and write a letter to their representatives regarding SB-145. \nWe will be hosting letter writing stations at the following locations and time: \nVideri Chocolate Factory – 11am-1pm\nJose and Sons – 1pm-3pm\nThe District Raleigh -4pm-6pm\nPerson Street Bar – 6pm-8pm\nCentro – 6pm-8pm\nRuby Deluxe – 8pm-10pm\nSlim’s Downtown -10pm-12am \nA volunteer from the ACLU of North Carolina or El Pueblo\, Inc. will be stationed somewhere in the business and will have pen and paper for everyone! We will also be taking up donations to El Pueblo\, Inc. to support youth and adult leaders to attend the Unidos US Community Leaders in Action Summit in Washington\, DC!
+URL:https://www.unitingnc.org/stand-with-us/stop-sb-145-city-wide-letter-writing-event-raleigh/
+LOCATION:Downtown Raleigh\, Raleigh\, NC\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/01/26904751_323357214823821_1442944765759418768_n.jpg
+GEO:35.7795897;-78.6381787
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180915T130000
+DTEND;TZID=America/New_York:20180915T180000
+DTSTAMP:20220601T103621
+CREATED:20180830T121233Z
+LAST-MODIFIED:20180830T121233Z
+UID:4344-1537016400-1537034400@www.unitingnc.org
+SUMMARY:September 15: Free Citizenship Legal Clinic (Siler City)
+DESCRIPTION:The Hispanic Liasion will be hosting a FREE Citizenship Legal Clinic during their Fiesta on Saturday 9/15. Immigration attorneys will be available to fill out citizenship application forms for qualifying permanent residents. See flyer for more details.  Must have an appointment to participate. Call 919-856-2159 to make your appointment today!
+URL:https://www.unitingnc.org/stand-with-us/september-15-free-citizenship-legal-clinic-siler-city/
+LOCATION:200 N. Chatham Ave.\, 200 N. Chatham Ave.\, Siler City\, NC\, 27334\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/08/Fiesta-citizenship-clinic-flyer-bilingual.jpg
+GEO:35.724006;-79.463851
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=200 N. Chatham Ave. 200 N. Chatham Ave. Siler City NC 27334 United States;X-APPLE-RADIUS=500;X-TITLE=200 N. Chatham Ave.:geo:-79.463851,35.724006
+END:VEVENT
+END:VCALENDAR

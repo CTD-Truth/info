@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181103T183000
+DTEND;TZID=America/New_York:20181103T230000
+DTSTAMP:20220601T102328
+CREATED:20181031T150224Z
+LAST-MODIFIED:20181031T150224Z
+UID:4524-1541269800-1541286000@www.unitingnc.org
+SUMMARY:November  3: Los 16 años de CIMA / CIMA's Sweet 16
+DESCRIPTION:Acompañanos el sabado 3 de noviembre a festejar nuestro 16 años de seguiendo luchando por nuestra comunidades. Esta sera una oportunidad para que conoscan a la organizacion y tambien pueden disfrutar de musica\, comida y rifas. \nEn este evento estaremos haciendo una recaudacion para los programas que se estan tomando acabo y tambien para que se unan a nuestro trabajo!! \nTendremos musica por DJ Mallinali\, DJ Hijx de la Chingada y Sonido Centauro. Mas juegos para los niñxs y payasos!! \nBoletos para las rifas seran de $5.
+URL:https://www.unitingnc.org/stand-with-us/november-3-los-16-anos-de-cima-cimas-sweet-16/
+LOCATION:Overbrook Pl\, 15 Overbrook Pl\, Asheville\, NC\, 28805-2314
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/10/45123551_2081851588564490_4821602596558995456_n.jpg
+GEO:35.5851741;-82.5110588
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Overbrook Pl 15 Overbrook Pl Asheville NC 28805-2314;X-APPLE-RADIUS=500;X-TITLE=15 Overbrook Pl:geo:-82.5110588,35.5851741
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180419T180000
+DTEND;TZID=America/New_York:20180419T210000
+DTSTAMP:20220601T033754
+CREATED:20180412T141620Z
+LAST-MODIFIED:20180412T142146Z
+UID:3893-1524160800-1524171600@www.unitingnc.org
+SUMMARY:April 19: DACA Week: Jennicet Gutiérrez (Chapel Hill)
+DESCRIPTION:Protection for All of Us: Transgender and Immigration Rights Building A Strong Resistance! \nJennicet Gutiérrez is a transgender Latina organizer from México. She is an organizer Familia: Trans Queer Liberation Movement. Jennicet believes in the importance of uplifting and centering the voices of trans women of color in all racial justice work. Jennicet will continue to organize in order to end the deportation\, incarceration and criminalization of immigrants and all people of color. She currently resides in Los Angeles. \nFOR MORE INFORMATION: undocuments.web.unc.edu/daca-week \nSponsored by Campus Union Activities Board (CUAB)\, Graduate Professional Student Federation (GPSF)\, The LGBT Center\, Latina/o Studies\, Department of Religious Studies\, Sexuality and Gender Alliance (SAGA)\, and the UNC Undocumented Resource Team.
+URL:https://www.unitingnc.org/stand-with-us/april-19-daca-week-jennicet-gutierrez-chapel-hill/
+LOCATION:Sonja Haynes Stone Center for Black Culture and History\, 150 South Rd.\, Chapel Hill\, NC\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/04/30582214_10214026646653694_7582367691361484800_n.jpg
+GEO:35.9078517;-79.0502717
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Sonja Haynes Stone Center for Black Culture and History 150 South Rd. Chapel Hill NC United States;X-APPLE-RADIUS=500;X-TITLE=150 South Rd.:geo:-79.0502717,35.9078517
+END:VEVENT
+END:VCALENDAR

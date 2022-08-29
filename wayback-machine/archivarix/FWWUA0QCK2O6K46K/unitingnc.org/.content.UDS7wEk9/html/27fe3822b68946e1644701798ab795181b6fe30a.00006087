@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181007
+DTEND;VALUE=DATE:20181015
+DTSTAMP:20220601T102822
+CREATED:20181003T133350Z
+LAST-MODIFIED:20181003T133350Z
+UID:4449-1538870400-1539561599@www.unitingnc.org
+SUMMARY:October 7-14:  Forced From Home (Charlotte)
+DESCRIPTION:Doctors Without Borders presents Forced From Home\, a free interactive tour that takes you behind the headlines about the global refugee crisis. Guided by experienced Doctors Without Borders aid workers\, you’ll travel through a 10\,000-square-foot space designed to convey the challenges facing a person forced to flee. You’ll also learn about the humanitarian aid we provide along the way. \nVisitors experience virtual reality and 360˚ video\, and interact with materials gathered from refugee camps\, sea rescue missions\, and emergency medical projects around the world. \nForced From Home tours are free\, fully accessible\, and take roughly one hour to complete. Families are welcome\, however the content is best suited to children ages 12+. \nGeneral Public\nWalk up any time and join a guided tour: \nWeekdays 9am – 1pm\, 4pm –  8pm \nWeekends 10am – 6pm \nSchool groups welcome\nForced From Home is a great field trip opportunity for students in grades 7-12. Tours are one hour long and are held Monday – Friday between the hours of 9am – 1pm. Organizers must coordinate with our team and register in advance. \nBringing a group of 10 or more?\nPlease complete our group registration form at least 48 hours prior to your visit and we will be in touch to arrange a tour time. \nAmerican Sign Language tour\nWe will be offering an American Sign Language (ASL) tour for the deaf and hard of hearing on Saturday\, October 13\, at 11am. There is no need to sign up for this free tour\, just show up! \nBecome a Forced From Home volunteer\nForced From Home is a big event that requires lots of volunteers to help run it smoothly. To learn about the responsibilities and requirements\, and to sign up\, visit the volunteer page.
+URL:https://www.unitingnc.org/stand-with-us/october-7-14-forced-from-home-charlotte/
+LOCATION:NASCAR Hall of Fame\, 400 E M.L.K. Jr Blvd\, Charlotte\, North Carolina\, 28202
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/10/160924_Forced-From-Home-at-BPC-by-Elias-Williams_7768.jpg
+GEO:35.2213247;-80.8434079
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=NASCAR Hall of Fame 400 E M.L.K. Jr Blvd Charlotte North Carolina 28202;X-APPLE-RADIUS=500;X-TITLE=400 E M.L.K. Jr Blvd:geo:-80.8434079,35.2213247
+END:VEVENT
+END:VCALENDAR

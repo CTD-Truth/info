@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180620T120000
+DTEND;TZID=America/New_York:20180620T130000
+DTSTAMP:20220601T075439
+CREATED:20180618T140432Z
+LAST-MODIFIED:20180618T140432Z
+UID:4124-1529496000-1529499600@www.unitingnc.org
+SUMMARY:June 20: Faith Leaders Decry Family Separation on World Refugee Day (Raleigh)
+DESCRIPTION:On World Refugee Day\, June 20th\, faith leaders from different traditions and people of conscience will gather at 12 PM to reaffirm our call to welcome refugees and immigrants. All our holy texts instruct us to welcome strangers in our midst and to show hospitality to foreigners. However\, recent policies that have been deemed “Biblical” demonstrate overt racism\, ignorance of the importance of family unity\, and hostility towards those who are fleeing violence in their home countries. Our churches\, synagogues\, mosques\, and temples believe deeply in the sanctity of the family and stand against prolonged family separation. The family unit is the foundation of society and families hold our country together. Refugee and immigrant leaders will speak about how they have been affected by this administration’s policies. We must lift up a prophetic voice and stand against these egregious acts of the Trump Administration towards immigrants\, refugees\, and families. \n 
+URL:https://www.unitingnc.org/stand-with-us/june-20-faith-leaders-decry-family-separation-on-world-refugee-day-raleigh/
+LOCATION:Open Table United Methodist Church\, 824 N. Bloodworth St.\, Raleigh\, NC\, 27604\, United States
+ATTACH;FMTTYPE=application/pdf:https://www.unitingnc.org/wp-content/uploads/2018/06/WRD-2018v2-1.pdf
+GEO:35.7913926;-78.6314068
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Open Table United Methodist Church 824 N. Bloodworth St. Raleigh NC 27604 United States;X-APPLE-RADIUS=500;X-TITLE=824 N. Bloodworth St.:geo:-78.6314068,35.7913926
+END:VEVENT
+END:VCALENDAR

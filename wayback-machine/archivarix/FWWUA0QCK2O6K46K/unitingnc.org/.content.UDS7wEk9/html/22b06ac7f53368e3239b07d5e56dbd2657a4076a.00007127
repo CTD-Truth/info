@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180224T100000
+DTEND;TZID=America/New_York:20180224T140000
+DTSTAMP:20220531T213144
+CREATED:20180129T163010Z
+LAST-MODIFIED:20180129T163010Z
+UID:3693-1519466400-1519480800@www.unitingnc.org
+SUMMARY:February 24:  Interfaith Food Drive in honor of Deah\, Yusor\, & Razan (Raleigh)
+DESCRIPTION:Deah Barakat\, Yusor Abu-Salha and Razan Abu-Salha had big ideas for how they wanted to help the world. One of Deah’s last facebook posts was where he and Yusor were giving food and free dental supplies to the homeless. Razan was a regular at Raleigh’s Moore Square\, where she too fed those in need and left personal notes for the recipients. \nLast year a food drive was held to honor their service to the community. Donations translated into over 58\,000 meals to North Carolinians in need \nThis year we hope to do it again. On Saturday Feb 24th we will have a drop off day at the Islamic Center of Raleigh where we will load up a UHUAL and deliver it to the Food Bank of Central & Eastern North Carolina \nParticipating organizations-\nMetLife\nAl-Iman School\nRaleigh-Cary Jewish Family Services\nTriangle Muslims – OYLE\nAhmad Quqa – Financial Advisor – Edward Jones\nIslamic Association of Raleigh\nGenworth\nTriangle Muslim Aid\nNorth Carolina Democratic Party\nApex Mosque\nCarolina Family Practice & Sports Medicine- https://www.cfpsm.com/ \nLet us know if your organization would like to be part of this event! \nYou can also donate to our virtual drive online –\nhttps://www.foodbankcenc.org/goto/interfaithfooddrive \nHosted by The Light House Project\n#NoOneGoesHungry #LoveThyNeighbor\, #LoveArmy #OurThreeWinners
+URL:https://www.unitingnc.org/stand-with-us/february-24-interfaith-food-drive-honor-deah-yusor-razan-raleigh/
+LOCATION:Islamic Association of Raleigh\, 808 Atwater St.\, Raleigh\, NC\, 27607\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/01/26992619_10105082032957129_8677662140553007260_n.jpg
+GEO:35.7898048;-78.6911979
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Islamic Association of Raleigh 808 Atwater St. Raleigh NC 27607 United States;X-APPLE-RADIUS=500;X-TITLE=808 Atwater St.:geo:-78.6911979,35.7898048
+END:VEVENT
+END:VCALENDAR

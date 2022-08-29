@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190328T180000
+DTEND;TZID=America/New_York:20190328T193000
+DTSTAMP:20220601T032030
+CREATED:20190228T163729Z
+LAST-MODIFIED:20190228T163729Z
+UID:4791-1553796000-1553801400@www.unitingnc.org
+SUMMARY:March 28: Creating a Shared Vision for NC Schools: Community Forum ( Charlotte)
+DESCRIPTION:What are the most pressing issues for public education advocates this legislative session? \nJoin us for a community forum in Charlotte with parent advocates and leaders in public education. Learn about policies affecting our state and community\, what needs to change and the type of investments and advocacy we need more of. \nThis event is FREE! Click here to RSVP.
+URL:https://www.unitingnc.org/stand-with-us/march-28-creating-a-shared-vision-for-nc-schools-community-forum-charlotte/
+LOCATION:Aldersgate Life Plan Communities\, 3800 Shamrock Dr\, Charlotte\, NC\, 28215
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/02/51755780_10156180551314607_2320668364441124864_n-1.jpg
+GEO:35.2330811;-80.7606018
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Aldersgate Life Plan Communities 3800 Shamrock Dr Charlotte NC 28215;X-APPLE-RADIUS=500;X-TITLE=3800 Shamrock Dr:geo:-80.7606018,35.2330811
+END:VEVENT
+END:VCALENDAR

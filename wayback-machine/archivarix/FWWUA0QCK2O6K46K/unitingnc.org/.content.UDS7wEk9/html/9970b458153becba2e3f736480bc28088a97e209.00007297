@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180626T113000
+DTEND;TZID=America/New_York:20180626T123000
+DTSTAMP:20220601T070713
+CREATED:20180618T134821Z
+LAST-MODIFIED:20180618T134821Z
+UID:4120-1530012600-1530016200@www.unitingnc.org
+SUMMARY:June 26: Stop Separating Families and Pass a Clean Dream Act (Raleigh)
+DESCRIPTION:Despite a massive outcry about the shocking policy of separating children from their parents and despite months of brave and creative activism by DACA recipients\, despite the fact that the vast majority of Americans want a clean DREAM act\, and despite the fact that there has been a massive mobilization against separating children from their families\, regressive immigration policies continue. Children and young people are purposely being used as pawns in a political game.\nWe must urgently demand that the policy of separation of children stop immediately. Also urgent is the need for DACA recipients to have citizenship.#heretostay #familiesbelongtogether #wherearethechildren\nIn 6 weeks\, 2000 children have been separated from their parents. There are no systems in place to reunite families\, who are in for-profit prisons often hundreds of miles apart. There are 11\,000 children incarcerated or placed who are without their parents.\nCall the Congressional Switchboard 202-224-3121 to reach your member of congress. And please spread the word about this event whether or not you can be there. If you ever wondered what you would have done while the Nazis started taking people away to concentration camps\, this is it.
+URL:https://www.unitingnc.org/stand-with-us/june-26-stop-separating-families-and-pass-a-clean-dream-act-raleigh/
+LOCATION:310 Bern Ave.\, 310 Bern Ave.\, Raleigh\, NC\, 27601\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/06/35439705_838553046350152_7061911616085819392_n.jpg
+GEO:35.7799621;-78.633881
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=310 Bern Ave. 310 Bern Ave. Raleigh NC 27601 United States;X-APPLE-RADIUS=500;X-TITLE=310 Bern Ave.:geo:-78.633881,35.7799621
+END:VEVENT
+END:VCALENDAR

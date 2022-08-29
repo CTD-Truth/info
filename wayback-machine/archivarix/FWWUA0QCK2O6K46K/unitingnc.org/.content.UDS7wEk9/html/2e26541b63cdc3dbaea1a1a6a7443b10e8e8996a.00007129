@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180224T103000
+DTEND;TZID=America/New_York:20180224T133000
+DTSTAMP:20220601T022136
+CREATED:20180215T151612Z
+LAST-MODIFIED:20180215T151612Z
+UID:3737-1519468200-1519479000@www.unitingnc.org
+SUMMARY:February 24: Know Your Rights/ Conoce Tus Derechos (Charlotte)
+DESCRIPTION:Know your rights before the authorities and in different circumstances. In the face of changing immigration laws\, knowledge is power. We wait for you. \n\nConoce tus derechos ante las autoridades y en diferentes circunstancias. Ante las cambiantes leyes migratorias\, el conocimiento es poder.\nLos esperamos.
+URL:https://www.unitingnc.org/stand-with-us/february-24-know-rights-conoce-tus-derechos-charlotte/
+LOCATION:1148 N. Sharon Amity Rd.\, 1148 N. Sharon Amity Rd.\, Charlotte\, NC\, 28211\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/02/26993771_10157066222663047_7153035187886491231_n.jpg
+GEO:35.177663;-80.780032
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=1148 N. Sharon Amity Rd. 1148 N. Sharon Amity Rd. Charlotte NC 28211 United States;X-APPLE-RADIUS=500;X-TITLE=1148 N. Sharon Amity Rd.:geo:-80.780032,35.177663
+END:VEVENT
+END:VCALENDAR

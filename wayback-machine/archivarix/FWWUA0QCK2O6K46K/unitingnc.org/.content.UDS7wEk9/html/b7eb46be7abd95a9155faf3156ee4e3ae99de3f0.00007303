@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180629T100000
+DTEND;TZID=America/New_York:20180629T110000
+DTSTAMP:20220601T071541
+CREATED:20180628T110457Z
+LAST-MODIFIED:20180628T110457Z
+UID:4190-1530266400-1530270000@www.unitingnc.org
+SUMMARY:June 29: Families Belong Together: Rally and Press Conference (Raleigh)
+DESCRIPTION:Families Belong Together\nA Rally and Press Conference Led by the North Carolina Chapter of Lawyer Moms of America and the Carolina Peace Center \nOn Friday\, June 29\, together with community advocates and concerned citizens\, lawyer moms around the country will gather at our Senators and Representatives’ District Offices to deliver a nonpartisan open letter stating our opposition to the current federal policy of separating migrant children from their parents. \nTo launch letter delivery in North Carolina\, we will host a rally and press conference at 10 am\, at Bicentennial Plaza in front of the Legislative building in downtown Raleigh. We will read our open letter\, both in English and Spanish\, and hear from other community leaders who are passionate about ending this horrifying and inhumane policy. \nBring your families\, and join us as we come together to launch delivery of our open letter\, and support a weekend of advocacy. \n#familiesbelongtogether\n#deliverthemessage\n#lawyermomsofamerica\n#lawyermomsNC \n* * * * * * * * \nBy choosing to attend this event\, you are committing to participate non-violently and in accordance with the law\, to work to de-escalate confrontations with others\, and to obey the orders of authorized event marshals and of law enforcement. You also acknowledge that you are solely responsible for any injury or damage to your person or property resulting from or occurring during this event\, and that you release all event sponsors and organizers (and their officers\, directors\, employees\, and agents) from any liability for that injury or damage.
+URL:https://www.unitingnc.org/stand-with-us/june-29-families-belong-together-rally-and-press-conference-raleigh/
+LOCATION:11 W. Jones St.\, 11 W. Jones St.\, Raleigh\, NC\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/06/36064250_10160491190880015_1486625757538025472_n.jpg
+GEO:35.7821681;-78.6392531
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=11 W. Jones St. 11 W. Jones St. Raleigh NC United States;X-APPLE-RADIUS=500;X-TITLE=11 W. Jones St.:geo:-78.6392531,35.7821681
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170918T110000
+DTEND;TZID=America/New_York:20170922T160000
+DTSTAMP:20220601T044035
+CREATED:20170918T132639Z
+LAST-MODIFIED:20170918T132639Z
+UID:3365-1505732400-1506096000@www.unitingnc.org
+SUMMARY:September 18: NC Week of Action- Pass the DREAM Act & Protect All Immigrants
+DESCRIPTION:North Carolinians will join a national week of action with a civil rights theme in order to win the DREAM Act in Congress and protect all immigrant communities. We are working in coordination with The Leadership Conference on Civil and Human Rights\, the Immigration Hub\, the Dream campaign\, United We Dream\, FWD.us\, NILC and the Center for American Progress. \nMonday’s Action (Sep 18) – Invite your friends to this event using the hashtags #HereToStayNC & #AquiNosQuedamosNC. Tell your friends in words and images why this issue is important to you in North Carolina. \nTuesday’s Action (Sep 19) – Join the National Call to Support the Dream Act 6 p.m. ET. RSVP at https://bit.ly/sep19rsvp for dial-in information. Get mo…See More
+URL:https://www.unitingnc.org/stand-with-us/september-18-nc-week-action-pass-dream-act-protect-immigrants/
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/21557470_1162659400500665_4752896397904556414_n.jpg
+END:VEVENT
+END:VCALENDAR

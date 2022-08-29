@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171007T133000
+DTEND;TZID=America/New_York:20171007T163000
+DTSTAMP:20220601T124911
+CREATED:20171002T182535Z
+LAST-MODIFIED:20171011T132646Z
+UID:3407-1507383000-1507393800@www.unitingnc.org
+SUMMARY:October 7: North Carolina Town Hall on Hate Violence Against South Asians (Cary)
+DESCRIPTION:On Saturday\, October 7\, in Cary\, North Carolina\, South Asian Americans Leading Together (SAALT)\, in collaboration with state and local officials\, law enforcement\, and community based organizations\, will host a town hall to address the rising tide of hate violence aimed at South Asian American communities. \nSince the election\, SAALT has documented over 168 incidents of hate violence against our South Asian\, Muslim\, Sikh\, Hindu\, Arab\, and Middle Eastern American\, already surpassing totals from the year leading up to the 2016 election. According to the Southern Poverty Law Center\, anti-Muslim hate groups grew by 197% in 2016\, and\, according to the FBI\, anti-Muslim hate crimes increased by 67% in 2015. \nIn the face of these staggering figures\, we invite local community members to join us for a candid conversation on civil rights\, hate violence\, and the way forward to a more just and inclusive society for all Americans. \nTo RSVP\, please visit: https://bit.ly/2y9vj1C \nOur Featured Speakers include: \nAttorney General Josh Stein\nFarris Barakat\, The Lighthouse Project\nSenator Angela Bryant\nManzoor Chema (MERI)\nSenator Jay Chaudhuri\nFormer Representative Rick Glazier\nChapel Hill Police Chief Chris Blue \nOur Sponsors include:\nDuke Office of Civic Engagement\nKiran\, Inc\nIslamic Association of Raleigh\nIslamic Center of Morrisville\nNorth Carolina Asian Americans Together\nNorth Carolina Department of Justice\nNorth Carolina Justice Center\nNorth Carolina Legislative Black Caucus\nPakistani-American Anjuman\nSikh Gurudwara of North Carolina\nSouth Asian Americans Leading Together (SAALT)\nThe Islamic Association of Cary\nThe Office of Senator Jay Chaudhuri \nTo RSVP\, please visit: https://bit.ly/2y9vj1C
+URL:https://www.unitingnc.org/stand-with-us/october-7th-north-carolina-town-hall-hate-violence-south-asians/
+LOCATION:Herbert Young Community Center\, 101 Wilkinson Ave.\, Cary\, NC\, 27513\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/10/21743226_10155583871738444_2659201784471991637_n.jpg
+GEO:35.7907226;-78.7804345
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Herbert Young Community Center 101 Wilkinson Ave. Cary NC 27513 United States;X-APPLE-RADIUS=500;X-TITLE=101 Wilkinson Ave.:geo:-78.7804345,35.7907226
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170402T140000
+DTEND;TZID=America/New_York:20170402T180000
+DTSTAMP:20220601T010008
+CREATED:20170330T140445Z
+LAST-MODIFIED:20170330T140445Z
+UID:2869-1491141600-1491156000@www.unitingnc.org
+SUMMARY:April 2: Open House at the New Durham Solidarity Center (Durham)
+DESCRIPTION:Come out for the Durham Solidarity Center’s 7th anniversary celebration and open house at their new space on April 2! \nThey’ll have a DJ\, food\, art\, and more – plus the chance to meet and learn about the work that many local organizations are doing in the community. \nOver the last 7 years\, the Durham Solidarity Center has served as a shared office\, resource\, and work space that seeks to support grassroots social justice efforts in the Triangle. Now more than ever as our communities come under increased attack\, the need for a space like the Durham Solidarity Center and the important work being led by the many activists and organizations that use the space has never been greater. Come find out more about how you can get involved!
+URL:https://www.unitingnc.org/stand-with-us/april-2-open-house-new-durham-solidarity-center-durham/
+LOCATION:Durham Solidarity Center\, 1803-C Chapel Hill Road\, Durham\, NC\, 27707\, United States
+CATEGORIES:Stand With Us
+GEO:35.99024;-78.923581
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Durham Solidarity Center 1803-C Chapel Hill Road Durham NC 27707 United States;X-APPLE-RADIUS=500;X-TITLE=1803-C Chapel Hill Road:geo:-78.923581,35.99024
+END:VEVENT
+END:VCALENDAR

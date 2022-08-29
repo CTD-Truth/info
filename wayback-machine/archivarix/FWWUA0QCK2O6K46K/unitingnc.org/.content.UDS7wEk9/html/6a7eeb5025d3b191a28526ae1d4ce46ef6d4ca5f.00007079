@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180122T080000
+DTEND;TZID=America/New_York:20180122T170000
+DTSTAMP:20220601T065445
+CREATED:20180122T151740Z
+LAST-MODIFIED:20180122T152017Z
+UID:3660-1516608000-1516640400@www.unitingnc.org
+SUMMARY:February 12: Action & Awareness (Charlotte)
+DESCRIPTION:2017 was a year of disruption\, fear and uncertainty for Charlotte’s immigrant and refugee community. And if the first few weeks of the new year are any indication\, it seems that 2018 will be just as chaotic for local families. \nWhat’s at stake? And what can we do about it? \nFind out at this community conversation on immigrant security in Charlotte where we will assess where we are a year later and discuss what we can do to protect and support our neighbors. \nThis program includes a keynote address by Ric Elias\, CEO of Red Ventures\, and a community panel discussion moderated by Rebecca O’Neill\, director of the immigrant justice program at Charlotte Center for Legal Advocacy. Participating panelists include:\n– Hector Campuzano\, advocate at Charlotte Center for Legal Advocacy\n– Sil Ganzo\, executive director\, ourBRIDGE for KIDS\n– Rob Heroy\, attorney with Goodman\, Carr\, Laughrun\, Levine & Greene\, PLLC\n– Rabbi Judith Schindler\, director of Stan Greenspon Center for Peace and Social Justice at Queens University \n5 p.m. Registration/Reception\n5:30 p.m. Keynote\, followed by panel discussion\, audience Q&A\n7 p.m. Reception \nThis event is free and open to the public. Follow the tickets link to register and save your seat. Free parking is available.
+URL:https://www.unitingnc.org/stand-with-us/february-12-action-awareness-charlotte/
+LOCATION:First United Methodist Church\, 501 N Tryon St.\, Charlotte\, NC\, 28202\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/01/26219949_10155273874962666_8827708273468095393_n.jpg
+GEO:35.2310067;-80.8392061
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=First United Methodist Church 501 N Tryon St. Charlotte NC 28202 United States;X-APPLE-RADIUS=500;X-TITLE=501 N Tryon St.:geo:-80.8392061,35.2310067
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190615T170000
+DTEND;TZID=America/New_York:20190615T220000
+DTSTAMP:20220531T214834
+CREATED:20190508T144844Z
+LAST-MODIFIED:20190508T144844Z
+UID:4956-1560618000-1560636000@www.unitingnc.org
+SUMMARY:June 15: Orgullo Latinx | Latinx Pride (Carrboro)
+DESCRIPTION:Por el segundo año consecutivo\, ¡vamos a tener el evento que celebra nuestro Orgullo Latinx! \nFor the second year in a row\, we’re going to have the event that celebrates our Latinx Pride! \nEl 2o Orgullo Latinx del Triángulo\, tal como el primero\, es un espacio para celebrar y compartir las diversas culturas\, identidades y experiencias de la comunidad Latinx LGBTQ. Aspiramos a crear un evento que fomenta la unidad\, la inclusión y el empoderamiento por demostrar los talentos de nuestra comunidad y por ofrecer recursos sociales\, recursos de salud y de abogacía y de diversión familiar. \nThe 2nd Annual Triangle Latinx Pride is\, like the first\, a space to celebrate and share the diverse culture\, identities\, and experiences of the local Latinx LGBTQ community. We aim to create an event that fosters unity\, inclusivity\, and empowerment by showcasing our community’s talents while providing social\, healthcare\, and advocacy resources\, and family fun. \n¡Ven a disfrutar de una tarde llena de recursos\, shows y diversión! \nCome out and enjoy an evening full of resources\, performances\, and fun!
+URL:https://www.unitingnc.org/stand-with-us/june-15-orgullo-latinx-latinx-pride-carrboro/
+LOCATION:Town of Carrboro\, NC\, 301 W Main St\, Carrboro\, NC\, 27510
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/05/60007608_1198509453650124_452997064066859008_n.jpg
+GEO:35.9114471;-79.0777489
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Town of Carrboro NC 301 W Main St Carrboro NC 27510;X-APPLE-RADIUS=500;X-TITLE=301 W Main St:geo:-79.0777489,35.9114471
+END:VEVENT
+END:VCALENDAR

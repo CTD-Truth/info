@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180301T180000
+DTEND;TZID=America/New_York:20180301T200000
+DTSTAMP:20220601T061523
+CREATED:20180219T155334Z
+LAST-MODIFIED:20180219T160155Z
+UID:3742-1519927200-1519934400@www.unitingnc.org
+SUMMARY:March 1: International Culture Night (Sanford)
+DESCRIPTION:Come join us for our 2nd Annual International Culture Night! We will be showcasing the culture of over 25 different countries. Each culture will be represented by an exhibit of art\, crafts\, games and history. There will be a performance by the Lee County Orchestra. There will also be samples of international cuisine presented by Chef Hamm and culinary arts students from Central Carolina Community College. We hope to see you there! \n¡Únase a nosotros en nuestra segunda Noche Anual de Cultura Internacional! Mostraremos la cultura de más de 25 países diferentes. Cada cultura estará representada por una exhibición de arte\, artesanías\, juegos y historia. Habrá una presentación de la Orquesta del Condado de Lee. También habrá muestras de comida internacional presentadas por Chef Hamm y estudiantes de artes culinarias de Central Carolina Community College. ¡Esperamos verte ahí!
+URL:https://www.unitingnc.org/stand-with-us/march-1-international-culture-night-sanford/
+LOCATION:Dennis A. Wicker Civic Center\, 1801 Nash St.\, Sanford\, NC\, 27330\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/02/27752303_1969547846639346_3226144146060676013_n.jpg
+GEO:35.4677737;-79.1455471
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Dennis A. Wicker Civic Center 1801 Nash St. Sanford NC 27330 United States;X-APPLE-RADIUS=500;X-TITLE=1801 Nash St.:geo:-79.1455471,35.4677737
+END:VEVENT
+END:VCALENDAR

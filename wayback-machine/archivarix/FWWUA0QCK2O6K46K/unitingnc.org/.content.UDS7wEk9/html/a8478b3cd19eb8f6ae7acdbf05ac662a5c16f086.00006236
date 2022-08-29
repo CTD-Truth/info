@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190128T190000
+DTEND;TZID=America/New_York:20190128T220000
+DTSTAMP:20220601T095816
+CREATED:20190123T174127Z
+LAST-MODIFIED:20190123T174127Z
+UID:4639-1548702000-1548712800@www.unitingnc.org
+SUMMARY:January 28: Color of Law: Community Discussion with Richard Rothstein (Charlotte)
+DESCRIPTION:Community Discussion with Richard Rothstein \nMonday\, January 28th from 7 – 9pm with Reception & book signing to follow\nAuthor Richard Rothstein will join us for a discussion of his book\, The Color of Law\, and the impact that governmental policies have on residential racial segregation across the nation and in our backyards. Join us for an open conversation regarding neighborhood segregation and how we can address these issues in Charlotte\, North Carolina. \nThe panel:\nGlenn Burkins — Moderator\, Editor/Publisher of QCitymetro.com\nRichard Rothstein — Author of The Color of Law\nWillie Griffin — Museum of the New South\nArthur Griffin — Black Political Caucus Chair & former School Board Chair\nJulie Porter — Charlotte Mecklenburg Housing Partnership\nGreg Jarrell — West Side Community Land Trust\nMark Jerrell — County Commissioner District 4
+URL:https://www.unitingnc.org/stand-with-us/january-28-color-of-law-community-discussion-with-richard-rothstein-charlotte/
+LOCATION:First Baptist Church\, West Sanctuary ​1801 Oaklawn Ave\, Charlotte\, NC\, 28216
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/01/50167522_228653008041171_8069388335296020480_n.jpg
+GEO:35.250501;-80.851882
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=First Baptist Church West Sanctuary ​1801 Oaklawn Ave Charlotte NC 28216;X-APPLE-RADIUS=500;X-TITLE=West Sanctuary ​1801 Oaklawn Ave:geo:-80.851882,35.250501
+END:VEVENT
+END:VCALENDAR
