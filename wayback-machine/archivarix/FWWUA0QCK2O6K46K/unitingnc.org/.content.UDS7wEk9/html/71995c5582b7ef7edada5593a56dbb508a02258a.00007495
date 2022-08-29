@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190309T090000
+DTEND;TZID=America/New_York:20190309T120000
+DTSTAMP:20220601T060827
+CREATED:20190218T210617Z
+LAST-MODIFIED:20190218T210617Z
+UID:4752-1552122000-1552132800@www.unitingnc.org
+SUMMARY:March 9: NC's Role in Torture: A Faith Response (Raleigh)
+DESCRIPTION:The conference will feature both learning and action components. The Rev. Ron Stief\, Executive Director of the National Religious Campaign Against Torture will be our keynote speaker. Stief is a national leader and faith strategist on ending CIA torture and ending the torture of solitary confinement in U.S. prisons. \nThe Rev. Jennifer Copeland will address the biblical case against torture. Witness accounts and the opportunity to experience a virtual solitary confinement will focus upon the consequences of such programs.Speakers will also outline the evidence presented to the NC Commission of Inquiry on Torture (NCCIT) that released its Report on September 27\, 2018\, which exposed the activities\, on behalf of the CIA\, of jets based at two NC airports. \nDirect action includes the availability of candles bearing the names of each of the 49 who experienced torture in NC jets\, postcards to sign for delivery to elected officials\, and petitions calling for a governmental investigation into the activities already examined by NCCIT. A sample resolution\, as well as a curriculum\, will be available.\nCheck-in will begin at 8:30am\, with the program beginning promptly at 9 and ending at noon. \nLunch\, as well as childcare by certified workers for those who need it\, will be provided to those who register by noon on March 6.
+URL:https://www.unitingnc.org/stand-with-us/march-9-ncs-role-in-torture-a-faith-response-raleigh/
+LOCATION:Western Boulevard Presbyterian Church\, 4900 Kaplan Drive\, Raleigh
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/02/51840038_2082758251772271_6597372183893245952_n.jpg
+GEO:35.777909;-78.7042392
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Western Boulevard Presbyterian Church 4900 Kaplan Drive Raleigh;X-APPLE-RADIUS=500;X-TITLE=4900 Kaplan Drive:geo:-78.7042392,35.777909
+END:VEVENT
+END:VCALENDAR

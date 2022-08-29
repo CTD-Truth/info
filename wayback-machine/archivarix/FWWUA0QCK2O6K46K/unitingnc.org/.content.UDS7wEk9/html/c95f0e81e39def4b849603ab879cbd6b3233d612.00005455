@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170722T100000
+DTEND;TZID=America/New_York:20170722T120000
+DTSTAMP:20220601T131601
+CREATED:20170706T193804Z
+LAST-MODIFIED:20170706T193804Z
+UID:3171-1500717600-1500724800@www.unitingnc.org
+SUMMARY:July 22: Second Chance Alliance Listening Session (Greensboro)
+DESCRIPTION:The Second Chance Alliance of the NC Justice Center is hosting a listening session for individuals who have been directly impacted by incarceration. The event is designed to educate justice-involved individuals on tools of relief and addressing barriers which not only impact their personal lives but the lives of their loved ones. Various presenters will share valuable information and resources to alleviate the consequences of having a criminal record. \nLunch will be provided\, registration is required. If childcare is needed\, please call Human Relations at 336-373-2038. \nThis event is hosted by NC Justice Second Chance Alliance and co-sponsored by Thrive GSO.
+URL:https://www.unitingnc.org/stand-with-us/july-22-second-chance-alliance-listening-session-greensboro/
+LOCATION:Shiloh Baptist Church\, 1210 S Eugene St\, Greensboro\, North Carolina\, 27406
+GEO:36.0616877;-79.794096
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Shiloh Baptist Church 1210 S Eugene St Greensboro North Carolina 27406;X-APPLE-RADIUS=500;X-TITLE=1210 S Eugene St:geo:-79.794096,36.0616877
+END:VEVENT
+END:VCALENDAR

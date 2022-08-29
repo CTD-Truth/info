@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://codethedream.org/sitemap_index.xml

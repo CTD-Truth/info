@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170420T083000
+DTEND;TZID=America/New_York:20170420T163000
+DTSTAMP:20220601T140606
+CREATED:20170329T210002Z
+LAST-MODIFIED:20170330T134228Z
+UID:2858-1492677000-1492705800@www.unitingnc.org
+SUMMARY:April 20: NC Farmworker Institute (Chapel Hill)
+DESCRIPTION:Farmworker Advocacy Network invites you to participate in this annual gathering of agencies\, organizations\, and activists dedicated to improving the lives of farmworkers and their families. Summit participants share skills\, knowledge\, and resources through presentations\, workshops\, and networking opportunities. Farmworker advocates from across the state will have the chance to learn from and update one another on the latest issues affecting North Carolina farmworkers. Approximately 120 people attend the event. Registration is $45 and includes a light breakfast and lunch. \nRegister Online by March 31st by visiting https://tinyurl.com/ncfwi2017 \nYou can pay the $45 registration fee by check (made out to the NC Council of Churches with “Farmworker Institute in the memo section) or by Paypal. \nSign up to volunteer! Contact Zoe Cummings\, zoe.cummings@dhhs.nc.gov\nSponsor or exhibit at the event! Contact Preston Peck\, preston@toxicfreenc.org
+URL:https://www.unitingnc.org/stand-with-us/april-20-nc-farmworker-institute-chapel-hill/
+LOCATION:Church of Reconciliation\, 110 N Elliott Road\, Chapel Hill\, NC\, 27514\, United States
+CATEGORIES:Stand With Us
+GEO:35.9360259;-79.0309834
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Church of Reconciliation 110 N Elliott Road Chapel Hill NC 27514 United States;X-APPLE-RADIUS=500;X-TITLE=110 N Elliott Road:geo:-79.0309834,35.9360259
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170923
+DTEND;VALUE=DATE:20171002
+DTSTAMP:20220601T124747
+CREATED:20170914T175045Z
+LAST-MODIFIED:20170921T154123Z
+UID:3356-1506124800-1506902399@www.unitingnc.org
+SUMMARY:September 23\, 24\, & October 1st: DACA Renewal Clinics (Wilmington\, Raleigh\, Chapel Hill\, & Greensboro)
+DESCRIPTION:The North Carolina Justice Center is hosting a series of DACA renewal clinics in Wilmington\, Raleigh\, Chapel Hill\, and Greensboro. If your DACA expires between September 5\, 2017 and March 5\, 2018\, you must renew your\nDACA before October 5\, 2017! To take advantage of one of these clinics\, please call 919-861-2064 for one of the following locations & dates: September 23rd in Wilmington\, September 24th in Raleigh\, September 24th in Chapel Hill\, and October 1st in Greensboro.
+URL:https://www.unitingnc.org/stand-with-us/september-23-24-october-1st-daca-renewal-clinics-wilmington-raleigh-chapel-hill-greensboro/
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/603276_10151049835694607_821960860_n.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170925T190000
+DTEND;TZID=America/New_York:20170925T190000
+DTSTAMP:20220601T124747
+CREATED:20170918T133506Z
+LAST-MODIFIED:20171011T132921Z
+UID:3368-1506366000-1506366000@www.unitingnc.org
+SUMMARY:September 25: DACA: What's Next? Que Sigue Con DACA? (Manteo)
+DESCRIPTION:Attorney and Board Certified Specialist in Immigration Law\, Helen Parsonage\, will provide critical updates on DACA. She will also talk about next steps for those who currently have DACA. \nAll are invited to learn more about this issue affecting our community! \n\nLa abogada e especialista en leyes de inmigración\, Helen Parsonage\, proporcionará información fundamental sobre las últimas noticias de DACA. También ella hablará de siguientes pasos para las personas que ahora tienen DACA. \nTodos están invitados a aprender más sobre este tema que afecta a nuestra comunidad! \n 
+URL:https://www.unitingnc.org/stand-with-us/september-25-daca-whats-next-que-sigue-con-daca/
+LOCATION:Manteo High School\, 829 Wingina St.\, Manteo\, NC\, 27954\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/21742836_1543439915716196_2495772298017458470_n.jpg
+GEO:35.9142876;-75.6749332
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Manteo High School 829 Wingina St. Manteo NC 27954 United States;X-APPLE-RADIUS=500;X-TITLE=829 Wingina St.:geo:-75.6749332,35.9142876
+END:VEVENT
+END:VCALENDAR

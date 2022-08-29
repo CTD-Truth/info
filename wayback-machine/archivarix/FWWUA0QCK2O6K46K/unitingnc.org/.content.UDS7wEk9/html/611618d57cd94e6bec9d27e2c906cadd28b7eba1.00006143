@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181112T180000
+DTEND;TZID=America/New_York:20181112T200000
+DTSTAMP:20220601T102347
+CREATED:20181031T144903Z
+LAST-MODIFIED:20181031T144958Z
+UID:4520-1542045600-1542052800@www.unitingnc.org
+SUMMARY:November 12: FaithAction's Annual Multicultural Thanksgiving (Greensboro)
+DESCRIPTION:Please join us for our annual Multicultural Thanksgiving on Monday\, November 12th at the Mullin Life Center of First Presbyterian Church (see info below in English\, Spanish\, and French!) \nJoin hundreds of your neighbors from around the world to eat\, sing\, dance\, share stories\, and take pictures – celebrating our rich diversity and giving thanks for one another! \nYou simply need to bring a dish from your own culture or ancestry to share\, and a food or diaper donation to help stock FaithAction’s pantry for the winter! \nSpanish:\nEstamos felices de anunciar que nuestra Celebración Multicultural del Día de Acción de Gracias será el 12 de noviembre en el Mullin Life Center de la Primera Iglesia Presbiteriana (706 N. Greene Street – justo frente a la casa de FaithAction). \n¡Únase a cientos de sus vecinos\, provenientes de diferentes partes del mundo\, para comer\, cantar\, bailar\, compartir historias y tomarse fotos – celebrando nuestra gran diversidad y dando gracias por nuestros nuevos vecinos! \nUsted sólo necesita traer un platillo\, típico de su cultura o ancestros\, para compartir\, y una donación de pañales o latas de comida\, para ayudar a resurtir el dispensario de FaithAction para la época de invierno. \nFrench:\nNous nous réjouissons d’annoncer que notre évènement annuel d’action de grâce ce passerait le lundi\, 12 novembre dans le centre de Mullin Life de l’église First Presbyterian (706 N. Greene Street –directement en face de la maison de FaithAction). \nAccompagnez centaines de vos voisins de tous les coins du monde pour manger\, chanter\, partager des histoires\, et se prendre des photos tout pour célébrer notre riche diversité et nous remercier les uns aux autres ! \nVous deviez simplement prendre un plat de votre propre culture ou racines pour partager\, et une donation de nourriture ou des couches des bébés pour aider le placard à provisions de FaithAction pendent cet hiver-là!
+URL:https://www.unitingnc.org/stand-with-us/november-12-faithactions-annual-multicultural-thanksgiving-greensboro/
+LOCATION:Mullin Life Center\, First Presbyterian Church\, 706 N. Greene St.\, Greensboro\, NC\, 27401\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/10/44662647_2354324794597120_1545296071658307584_n.jpg
+GEO:36.080534;-79.790536
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Mullin Life Center First Presbyterian Church 706 N. Greene St. Greensboro NC 27401 United States;X-APPLE-RADIUS=500;X-TITLE=706 N. Greene St.:geo:-79.790536,36.080534
+END:VEVENT
+END:VCALENDAR

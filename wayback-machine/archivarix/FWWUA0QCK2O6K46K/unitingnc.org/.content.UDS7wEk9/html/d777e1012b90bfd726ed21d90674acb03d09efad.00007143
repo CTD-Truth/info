@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190202T073000
+DTEND;TZID=America/New_York:20190202T083000
+DTSTAMP:20220601T013225
+CREATED:20190114T182014Z
+LAST-MODIFIED:20190114T182521Z
+UID:4631-1549092600-1549096200@www.unitingnc.org
+SUMMARY:February 2: Faith ID Network ID Drive (Carrboro)
+DESCRIPTION:REQUISITOS\n1. Asistir a la orientación y diálogo de Faith ID del Condado de Orange \n2. Prueba de identificación (Pasaporte\, tarjeta de identificación de cualquier país\, matrícula consular\, licencia de conducir de NC o de otro estado) \n3. Prueba de su dirección actual y que haya vivido ahí por los últimos tres meses (factura de servicios públicos\, contrato de renta\, estado de cuenta del banco\, historia médica\, identificación con dirección) \n4. $10 en efectivo \nREQUIREMENTS\n1. Faith ID of Orange County orientation and dialogue \n2. Proof of identification (passport\, nation ID card\, matrícula consular. NC Driver’s license or other state) \n3. Proof of current address with a date from the preceding three months (utility bill\, lease agreement\, bank statement\, medical record\, approved ID with address) \n4. $10 in cash
+URL:https://www.unitingnc.org/stand-with-us/february-2-faith-id-network-id-drive/
+LOCATION:Carrboro Century Center\, 100 N. Greensboro St\, Carrboro\, NC\, 27510\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/01/50177562_2256372987730422_8752646627690283008_n.jpg
+GEO:35.9107713;-79.0719505
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Carrboro Century Center 100 N. Greensboro St Carrboro NC 27510 United States;X-APPLE-RADIUS=500;X-TITLE=100 N. Greensboro St:geo:-79.0719505,35.9107713
+END:VEVENT
+END:VCALENDAR

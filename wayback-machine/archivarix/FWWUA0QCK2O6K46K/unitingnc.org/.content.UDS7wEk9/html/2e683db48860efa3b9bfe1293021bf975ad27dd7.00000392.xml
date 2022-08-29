@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Uniting NC</title>
+	<atom:link href="/en/feed/" rel="self" type="application/rss+xml" />
+	<link>http://unitingnc.org</link>
+	<description>Building Community. Welcoming Immigrants. Uniting North Carolina.</description>
+	<lastBuildDate>Thu, 14 Feb 2019 16:03:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+
+<image>
+	<url>http://unitingnc.org/wp-content/uploads/2017/02/cropped-favicon-32x32.png</url>
+	<title>Uniting NC</title>
+	<link>http://unitingnc.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<!-- podcast_generator="Blubrry PowerPress/7.4" mode="simple" feedslug="feed" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>With the Uniting NC podcast, you can meet your North Carolina immigrant neighbors one story at a time. &lt;br /&gt;
+&lt;br /&gt;
+At Uniting NC we believe that all people, including immigrants, should have the opportunity to engage and thrive in their communities. Together we all do better. For more information, visit unitingnc.org.</itunes:summary>
+	<itunes:author>Uniting NC</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="/wp-content/uploads/2016/06/Uniting-NC-logo-2013.jpg" />
+	<itunes:owner>
+		<itunes:name>Uniting NC</itunes:name>
+		<itunes:email>dan@unitingnc.org</itunes:email>
+	</itunes:owner>
+	<managingEditor>dan@unitingnc.org (Uniting NC)</managingEditor>
+	<itunes:subtitle>NC Neighbors</itunes:subtitle>
+	<image>
+		<title>Uniting NC</title>
+		<url>http://unitingnc.org/wp-content/uploads/2016/06/Uniting-NC-logo-2013.jpg</url>
+		<link>http://unitingnc.org</link>
+	</image>
+	<itunes:category text="Government &amp; Organizations">
+		<itunes:category text="Non-Profit"></itunes:category>
+	</itunes:category>
+<site xmlns="com-wordpress:feed-additions:1">55944258</site>	<item>
+		<title>Being separated from my mom at the border</title>
+		<link>http://unitingnc.org/2018/06/being-separated-from-my-mom-at-the-border/</link>
+		<pubDate>Fri, 29 Jun 2018 13:57:45 +0000</pubDate>
+		<dc:creator><![CDATA[Badria Mryyan]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=4203</guid>
+		<description><![CDATA[For our Outreach Coordinator Jocelyn Casanova, the stories of children separated from their parents at the border is personal and heartbreaking: For years as a child, I had recurring nightmares. I was only four years old when I came to the United States with my mom, and we were separated near the border. For me, [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">4203</post-id>	</item>
+		<item>
+		<title>CTD hits the evening news!</title>
+		<link>http://unitingnc.org/2018/06/ctd-hits-the-evening-news/</link>
+		<pubDate>Wed, 06 Jun 2018 14:50:05 +0000</pubDate>
+		<dc:creator><![CDATA[Dan Rearick]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=4141</guid>
+		<description><![CDATA[﻿ By Mandy Mitchell, WRAL reporter &#38; Hannah Webster, WRAL.com editor DURHAM, N.C. — A Durham startup is making dreams come true for adults and high school students who want to work in technology. Code the Dream provides free classes for people who are traditionally under-represented in the technology and computer science industries. Coding was never [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">4141</post-id>	</item>
+		<item>
+		<title>Ribbon of Hope grant support CTD rural expansion</title>
+		<link>http://unitingnc.org/2018/05/ribbon-of-hope-grant-support-ctd-rural-expansion/</link>
+		<pubDate>Mon, 07 May 2018 14:34:12 +0000</pubDate>
+		<dc:creator><![CDATA[Dan Rearick]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=4138</guid>
+		<description><![CDATA[At Code the Dream, we&#8217;re always interested to find ways to expand opportunity to those who may have less access. So we were excited to learn recently that we received a Ribbon of Hope grant from the NC GlaxoSmithKline Foundation to do just that &#8212; specifically supporting expanded access to Code the Dream to young [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">4138</post-id>	</item>
+		<item>
+		<title>Welcome Cruz</title>
+		<link>http://unitingnc.org/2018/05/welcome-cruz/</link>
+		<pubDate>Wed, 02 May 2018 14:14:33 +0000</pubDate>
+		<dc:creator><![CDATA[Dan Rearick]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=4136</guid>
+		<description><![CDATA[Cruz Nuñez is now officially our second Code the Dream alumni to come back as program staff. Cruz is an incredibly talented software developer and will take the lead on some of Code the Dream&#8217;s app development projects for nonprofits and small businesses. Cruz is also a gifted and patient mentor, and we&#8217;re very glad to [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">4136</post-id>	</item>
+		<item>
+		<title>Congrats Jafet, and thank you!</title>
+		<link>http://unitingnc.org/2018/04/congrats-jafet-and-thank-you/</link>
+		<pubDate>Mon, 16 Apr 2018 14:09:44 +0000</pubDate>
+		<dc:creator><![CDATA[Dan Rearick]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=4133</guid>
+		<description><![CDATA[We recently got a nice, unexpected email from one of our recent Code the Dream grads, Jafet, who last year earned a full scholarship to college: &#8220;Code the Dream provided me with the foundation that is helping me shape my future. The skills I learned through the classes and the multiple phases of the program [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">4133</post-id>	</item>
+		<item>
+		<title>Ruben Goes to Silicon Valley</title>
+		<link>http://unitingnc.org/2018/03/rueben-goes-to-silicon-valley/</link>
+		<pubDate>Fri, 30 Mar 2018 14:05:39 +0000</pubDate>
+		<dc:creator><![CDATA[Dan Rearick]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=4131</guid>
+		<description><![CDATA[Code the Dream grad Ruben Cruz recently accepted a job with Silicon Valley startup Next Request&#8230; but fortunately for him he&#8217;ll only have to head to the Bay Area for occasional meetings. He&#8217;s one of their first software developer hires near his home in Durham, NC, so he&#8217;ll still be close by and able to stay involved [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">4131</post-id>	</item>
+		<item>
+		<title>Code the Dream&#8217;s Newest Cohort</title>
+		<link>http://unitingnc.org/2018/02/code-dreams-newest-cohort/</link>
+		<pubDate>Tue, 20 Feb 2018 16:15:35 +0000</pubDate>
+		<dc:creator><![CDATA[Badria Mryyan]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=3748</guid>
+		<description><![CDATA[&#160; After a series of information sessions and a record number of interviews held, Code the Dream’s most diverse cohort yet has been selected: The cohort is split nearly 50 / 50 men and women. Our high school applicants came to us from over a dozen schools across the region. Students range in age from [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">3748</post-id>	</item>
+		<item>
+		<title>A Song of Hope</title>
+		<link>http://unitingnc.org/2018/02/a-song-of-hope/</link>
+		<pubDate>Thu, 08 Feb 2018 16:33:24 +0000</pubDate>
+		<dc:creator><![CDATA[Jocelyn Casanova]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=3728</guid>
+		<description><![CDATA[Eddie Cisneros came to the U.S. with his mother as a child for a chance to have a better life. He has been blind since childhood, but has not let anything stop him from continuing his dreams. As a DACA recipient &#8212; one of 800,000 young people brought to the U.S. as children &#8212; he [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">3728</post-id>	</item>
+		<item>
+		<title>More Applicants Than Ever Before!</title>
+		<link>http://unitingnc.org/2018/01/more-applicants-than-ever-before-2/</link>
+		<pubDate>Tue, 16 Jan 2018 17:23:07 +0000</pubDate>
+		<dc:creator><![CDATA[Badria Mryyan]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=3784</guid>
+		<description><![CDATA[&#160; &#160; It&#8217;s been a busy time for Code the Dream as we prepare for next set of introductory courses! We’ve had more applications than ever before – a record-breaking 170 applicants. For our team, that&#8217;s both exciting and daunting, as we realize we don&#8217;t have the resources to serve that many students. We&#8217;ve already learned [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">3784</post-id>	</item>
+		<item>
+		<title>Crystal&#8217;s story</title>
+		<link>http://unitingnc.org/2017/12/crystals-story/</link>
+		<pubDate>Wed, 27 Dec 2017 16:12:48 +0000</pubDate>
+		<dc:creator><![CDATA[Jocelyn Casanova]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=3589</guid>
+		<description><![CDATA[Crystal started our Code the Dream program a little under a year ago, and we&#8217;re so glad she did. Take two minutes to hear about her experience.]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">3589</post-id>	</item>
+	</channel>
+</rss>

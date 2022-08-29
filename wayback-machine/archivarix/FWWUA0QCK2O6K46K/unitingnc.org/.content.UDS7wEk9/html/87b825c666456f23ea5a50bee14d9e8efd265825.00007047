@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171213T163000
+DTEND;TZID=America/New_York:20171213T173000
+DTSTAMP:20220601T064242
+CREATED:20171207T141442Z
+LAST-MODIFIED:20171207T141442Z
+UID:3553-1513182600-1513186200@www.unitingnc.org
+SUMMARY:December 13: Help Our Immigrant Friends in Detention Press Conference (Greensboro)
+DESCRIPTION:A few weeks ago a dozen FaithAction staff\, board members\, and volunteers traveled 8 hours south to Lumpkin\, GA to visit five of our immigrant clients and friends inside of the Stewart Detention Facility. The deplorable conditions and inhumanity our group saw\, and our detained friends experience on a daily basis is difficult to put into words – it is important and urgent we share some of our first-hand accounts at an upcoming press conference at FaithAction. \nHace algunas semanas un grupo de personas que incluía personal\, miembros de la mesa directiva y voluntarios de FaithAction viajaron 8 horas al sur\, a Lumpkin\, GA\, para visitar cinco de nuestros clientes y amigos dentro del Centro de Detención de Steward. Es muy difícil poner en palabras las condiciones tan deplorables e inhumanas que nuestro grupo vio\, las cuales enfrentan nuestros amigos detenidos todos los días – Es importante y urgente que compartamos nuestras experiencias de primera mano en la conferencia de prensa que se llevará a cabo en FaithAction. \nMore and more of our neighbors\, including many with no criminal histories\, are being detained in this notorious detention center\, run by one of the largest for profit private prison firms in the US\, CoreCivic. While our friends may be out of sight\, they are not out of mind – we will also share what we have planned (and how you can help) to support them and their families\, as well as how together we can end unnecessary and cruel detention and deportation policies. \nCada vez más de nuestros vecinos\, incluyendo muchos que no tienen historial criminal\, están siendo detenidos en este conocido centro de detención que es administrado por CoreCivic\, la firma de prisiones privadas más grande de los Estados Unidos. Mientras que nuestros amigos están fuera de nuestra vista\, no están fuera de nuestros pensamientos – así que también estaremos compartiendo lo que tenemos planeado (y cómo usted puede colaborar) para ayudarlos a ellos y a sus familias; y cómo juntos podemos terminar las crueles e innecesarias políticas de detención y deportación. \nPlease see below for one deeply concerning reflection from our recent trip: \n“It is difficult to put into words what our group experienced at the Stewart Detention Center this past weekend\, where dozens of our beloved clients\, neighbors and friends have been picked up by ICE and sent to….and now wait in despair for weeks\, months\, even years for a decision on their immigration case. \nWe were able to visit 5 of them\, over 7 hours south in the small\, isolated town of Lumpkin\, GA. \nMemories and experiences include: \n– Razor sharp barbwire fence and heightened security surrounding every corner of the colorless\, windowless detention facility\n– Mothers with small children scared and devastated to go inside to visit dad\, perhaps one last time\n– Isolated and depressed detained friends in orange and blue jumpsuits pressing their hands up against the visitation room glass\, hoping to feel some kind of human connection\n– Strict\, demeaning orders from security guards\, seemingly unaffected by the inhumanity around them…..later recognizing that sadly some may be bothered by the conditions\, but feel they have a job to do nonetheless.\n– Children being rejected from visiting because they were not wearing the right clothes\, including one frightened boy who traveled hours wearing his dad’s favorite soccer team uniform\n– Friends in detention sharing the nightmarish reality inside: all possessions taken away\, being served the exact same small\, cold\, starchy meals\, being treated “like dogs\,” with 2 hours of potential time to see sunlight and blue sky\, though many are too depressed to go out anyway\, $10 for a 5 min phone call home to say good morning and goodnight to loved ones that is often cut off with no explanation\, concerns of being harassed or assulted inside\, solitary confinement for speaking up too much……all of this for weeks\, months\, even years\, and then finally giving up on your case because you don’t have the money and can’t take it anymore….even though you may be sent back to certain poverty and danger.\n– Finding moments of hope\, letting them know there is a larger community that has not forgotten about them\, who care\, who will help them and their families back in Greensboro in whatever way we can\n– Brief smiles\, even laughter\, conversations about soccer and music…..then being ordered we have 30 secs left\n– Children crying\, not understanding why they are being pulled away from the window\, why their dad is inside\, not knowing when they may ever see him again…..two hands\, one last time on the window separating them\n– Staff\, board\, and volunteers leaving with deep tears\, absolutely devastated by what we heard and saw\n– Catching the eyes of another detainee as he was being transferred perhaps to work in another part of the detention center (for $1 a day)\, and realizing in that brief moment that we know him\, he spoke at our Spring press conference on the porch of FaithAction when detentions started to pick up 6 months ago\, speaking out about his friends being taken away by ICE…..and now he is inside\, he was taken just last week from his apt in Greensboro. We tried to say hi\, but he was immediately ushered away.\n– Watching many more devastated families coming through the gates as we were leaving\, and realizing this was just one morning\, at one of over 200 detention centers across the US (and hundreds more internationally) \nThis is just one brief reflection. No cameras were allowed. There is much more we can and will share in the coming weeks. There is much more we can and will do to help our friends in detention and the families left behind\, and thousands more of our neighbors at risk in our community. \nPlease remember them throughout the holidays\, and vow to help end the unnecessary and cruel detention of our neighbors and friends.”
+URL:https://www.unitingnc.org/stand-with-us/december-13-help-immigrant-friends-detention-press-conference-greensboro/
+LOCATION:FaithAction International House\, 705 N Greene St.\, Greensboro\, NC\, 27401\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/12/24312888_1919985141364423_2517531133518374622_n.jpg
+GEO:36.0804494;-79.791245
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=FaithAction International House 705 N Greene St. Greensboro NC 27401 United States;X-APPLE-RADIUS=500;X-TITLE=705 N Greene St.:geo:-79.791245,36.0804494
+END:VEVENT
+END:VCALENDAR

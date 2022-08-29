@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170923
+DTEND;VALUE=DATE:20171002
+DTSTAMP:20220601T130106
+CREATED:20170914T175045Z
+LAST-MODIFIED:20170921T154123Z
+UID:3356-1506124800-1506902399@www.unitingnc.org
+SUMMARY:September 23\, 24\, & October 1st: DACA Renewal Clinics (Wilmington\, Raleigh\, Chapel Hill\, & Greensboro)
+DESCRIPTION:The North Carolina Justice Center is hosting a series of DACA renewal clinics in Wilmington\, Raleigh\, Chapel Hill\, and Greensboro. If your DACA expires between September 5\, 2017 and March 5\, 2018\, you must renew your\nDACA before October 5\, 2017! To take advantage of one of these clinics\, please call 919-861-2064 for one of the following locations & dates: September 23rd in Wilmington\, September 24th in Raleigh\, September 24th in Chapel Hill\, and October 1st in Greensboro.
+URL:https://www.unitingnc.org/stand-with-us/september-23-24-october-1st-daca-renewal-clinics-wilmington-raleigh-chapel-hill-greensboro/
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/603276_10151049835694607_821960860_n.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170923T120000
+DTEND;TZID=America/New_York:20170924T160000
+DTSTAMP:20220601T130106
+CREATED:20170913T131659Z
+LAST-MODIFIED:20170914T143258Z
+UID:3329-1506168000-1506268800@www.unitingnc.org
+SUMMARY:September 23 & 24: Two-Day DACA Renewal Clinic (Charlotte)
+DESCRIPTION:Does your DACA expire before March 5th\, 2018? Then you have until Oct. 5 of this year to renew. \nGet your application filed with the help of an attorney for FREE before the deadline. Charlotte Center for Legal Advocacy is taking appointments for renewals at any time\, and we are also joining Comunidad Colectiva to host a two-day clinic Sept. 23 and 24 from noon to 4 p.m. at 1524 Elizabeth Avenue\, our satellite office. \nDon’t wait! Call 800-247-1931 to schedule an appointment today! Financial assistance is available for filing fees. \n  \n  \nTu DACA se expira antes del 5 de marzo del 2018? Tienes hasta el 5 de octubre de este año para renovar. \nHas tu aplicacion con la ayuda de un abogado gratuito. El Centro de Apoyo de Legal Charlotte esta recibiendo citas y se unira a Comunidad Colectiva para tener dos sesiones gratuitas de renovacion el 23 y 24 de septiembre\, de 12pm a 4pm. \nNo esperes y llama al 800-247-1931 para hacer tu cita. Tendremos ayuda financiera para el costo de la aplicacion.
+URL:https://www.unitingnc.org/stand-with-us/september-23-24-two-day-daca-renewal-clinic/
+LOCATION:Charlotte Center for Legal Advocacy\, 1431 Elizabeth Ave.\, Charlotte\, NC\, 28204\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/21430258_10154975827737666_7602136928518688126_n.jpg
+GEO:35.2150009;-80.8278122
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Charlotte Center for Legal Advocacy 1431 Elizabeth Ave. Charlotte NC 28204 United States;X-APPLE-RADIUS=500;X-TITLE=1431 Elizabeth Ave.:geo:-80.8278122,35.2150009
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170924
+DTEND;VALUE=DATE:20170925
+DTSTAMP:20220601T130106
+CREATED:20170525T152737Z
+LAST-MODIFIED:20170906T200928Z
+UID:3093-1506211200-1506297599@www.unitingnc.org
+SUMMARY:September 24: La Fiesta del Pueblo 2017 (Raleigh)
+DESCRIPTION:  \nLa Fiesta del Pueblo is back  on Fayetteville Street for another daylong celebration of Latinx food\, music\, art and culture on September 24th.  Stay tuned for regular updates on the bands\, artists\, food vendors and more! / La Fiesta del Pueblo regresa de nuevo a Fayetteville Street para un dia de celebración\, información y acción\, el 24 de Septiembre.  Visite esta página para actualizaciones sobre las bandas\, vendedores y más!
+URL:https://www.unitingnc.org/stand-with-us/september-24-la-fiesta-del-pueblo-2017-raleigh/
+LOCATION:Fayetteville Street\, Fayetteville Street\, Raleigh\, North Carolina
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/05/20708187_1459111484144289_3355375829674578075_n.jpg
+GEO:35.766988;-78.6422319
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Fayetteville Street Fayetteville Street Raleigh North Carolina;X-APPLE-RADIUS=500;X-TITLE=Fayetteville Street:geo:-78.6422319,35.766988
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170924T130000
+DTEND;TZID=America/New_York:20170924T160000
+DTSTAMP:20220601T130106
+CREATED:20170906T163542Z
+LAST-MODIFIED:20170906T163542Z
+UID:3307-1506258000-1506268800@www.unitingnc.org
+SUMMARY:September 24: Tacos & Tunes-All Are Welcome Here (Durham)
+DESCRIPTION:Let’s come together as community to raise awareness and support for Refugees. Join in an afternoon of live music and and a culturally diverse taco bar. $10 suggested donation for food\, but no one will be turned away. ALL ARE WELCOME and all donations go to support Church World Service and their efforts to support refugees. \nCheck back for an updated list of performing artists! \nThis event is co-sponsored by Duke Memorial UMC and Fullsteam
+URL:https://www.unitingnc.org/stand-with-us/september-24-tacos-tunes-welcome-durham/
+LOCATION:Fullsteam Brewery\, 726 Rigsbee Ave\, Durham\, NC\, 27701\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/21192734_1669316483093015_4567642033171134928_n.jpg
+GEO:36.0031092;-78.8995998
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Fullsteam Brewery 726 Rigsbee Ave Durham NC 27701 United States;X-APPLE-RADIUS=500;X-TITLE=726 Rigsbee Ave:geo:-78.8995998,36.0031092
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180718T183000
+DTEND;TZID=America/New_York:20180718T200000
+DTSTAMP:20220601T110803
+CREATED:20180705T133832Z
+LAST-MODIFIED:20180705T193340Z
+UID:4234-1531938600-1531944000@www.unitingnc.org
+SUMMARY:July 18: ICE Rapid Response Training/  Entrenamiento de Respuesta Rapida (Greensboro)
+DESCRIPTION:EN ESPAÑOL ABAJO\nFollowing a power demonstration of solidarity with immigrant families being torn apart across the country join us to learn how to continue defending our neighbors from the threat of Immigration and Customs Enforcement (ICE). \nFamily separation doesn’t just happen at the border – it’s happening here in Guilford County ICE agents often detain our neighbors by waiting outside their homes\, in the dark\, until they get in their cars to go to work or take their kids to school. \nSiembra NC/AFSC operates a rapid response network that creates greater safety for our immigrant neighbors we are inviting allies to come and learn more about how you can participate. The training will be in English – let us know if you will need interpretation into Spanish to participate. \n// \nDespués de una poderosa demostración de solidaridad con las familias inmigrantes siendo separadas en todo el país\, únase a nosotros para aprender a seguir defendiendo a nuestros vecinos de la amenaza de la Oficina de Inmigración y Control de Aduanas (ICE). \nLa separación familiar no ocurre solo en la frontera; está sucediendo aquí en Alamance. Los agentes de ICE a menudo detienen a nuestros vecinos al esperar afuera de sus casas\, en la oscuridad\, hasta que suben a sus automóviles para ir a trabajar o llevar a sus hijos a la escuela. \nSiembra NC/AFSC opera una red de respuesta rápida que crea una mayor seguridad para nuestros vecinos inmigrantes\, y estamos invitando a los miembros y amigos de Down Home NC a aprender más sobre cómo pueden participar. El entrenamiento será en inglés; háganos saber si necesita interpretación en español para participar.
+URL:https://www.unitingnc.org/stand-with-us/july-18-ice-rapid-response-training-entrenamiento-de-respuesta-rapida-greensboro/
+LOCATION:New Garden Friends Meeting\, 801 New Garden Rd\, Greensboro\, NC\, 27410\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/07/36601454_1805253369559144_4655108627416219648_n.jpg
+GEO:36.0910286;-79.8900444
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=New Garden Friends Meeting 801 New Garden Rd Greensboro NC 27410 United States;X-APPLE-RADIUS=500;X-TITLE=801 New Garden Rd:geo:-79.8900444,36.0910286
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180718T190000
+DTEND;TZID=America/New_York:20180718T200000
+DTSTAMP:20220601T110803
+CREATED:20180628T115053Z
+LAST-MODIFIED:20180705T193817Z
+UID:4198-1531940400-1531944000@www.unitingnc.org
+SUMMARY:July 18: ICE Verifier Training (Hillsborough)
+DESCRIPTION:If you are interested in working with APOYO of Orange County\,  please come out and learn more.
+URL:https://www.unitingnc.org/stand-with-us/july-18-ice-verifier-training-durham/
+LOCATION:1710 Old NC 10\, 1710 Old NC 10\, Durham\, NC\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/06/unnamed.jpg
+GEO:36.0295611;-79.0089404
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=1710 Old NC 10 1710 Old NC 10 Durham NC United States;X-APPLE-RADIUS=500;X-TITLE=1710 Old NC 10:geo:-79.0089404,36.0295611
+END:VEVENT
+END:VCALENDAR

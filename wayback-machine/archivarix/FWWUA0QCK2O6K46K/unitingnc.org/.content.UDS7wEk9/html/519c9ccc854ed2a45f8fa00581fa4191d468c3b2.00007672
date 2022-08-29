@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180929T130000
+DTEND;TZID=America/New_York:20180929T190000
+DTSTAMP:20220601T023033
+CREATED:20180830T120430Z
+LAST-MODIFIED:20180912T180910Z
+UID:4338-1538226000-1538247600@www.unitingnc.org
+SUMMARY:September 29: Hispanic Heritage Fiesta (Siler City)- New Date
+DESCRIPTION:NOTICE – due to the hurricane\, the Hispanic Heritage Month Fiesta is now on Saturday\, September 29 from 1 to 7pm! \nJoin us for our 6th Hispanic Heritage Month Fiesta! \nFiesta is a free\, outdoor event for the whole community! Enjoy great food and celebrate the rich Latin-American cultural traditions. \nWould you like to become a sponsor\, sell arts & crafts or host an information booth? Visit our page for the sign up forms: https://hispanicliaison.org/event/2018-hispanic-heritage-fiesta/ \nNEW ~ we’re hosting a Free Citizenship Legal Clinic during Fiesta! \nFiesta activities: \nLive Latin music\nGreat food\nOver 50 exhibitors and vendors\nTraditional folkloric dances\nKids’ games\, crafts and storytelling\nParade of traditional Latin-American and quinceañera outfits\nArt exhibit by Jose Manuel Cruz\nHealth Fair\nGreat raffle prizes and more! \nBe safe during this storm. \nWe hope to see you at Fiesta. \n__________________________________________ \nOJO – a causa del huracán\, la Fiesta de la Herencia Hispana ha cambiado de fecha! Será el sábado\, 29 de septiembre de 1 a 7 PM. \n¡Te esperamos en la 6ta Fiesta de la Herencia Hispana! \nLa Fiesta es un evento familiar\, gratis\, al aire libre para toda la comunidad! Venga a disgustar de la rica comida y celebrar las diversas tradiciones culturales de américa latina. \n¿Desea ser patrocinador\, vender artesanías o tener una mesa informativa? Visite nuestra página web para los formularios de inscripción~ www.evhnc.org/evento/2018-fiesta-de-la-herencia-hispana/ \nNUEVO ~ vamos a ofrecer una Clínica Legal Gratis de Ciudadanía durante la Fiesta! Visite la página del evento para mayores detalles. \nDiversiones de la Fiesta: \nMúsica latina en vivo\nComida rica\nBailes folclóricos\nJuegos y actividades para niños\nMás de 50 mesas informativas de negocios y agencias\nDesfile de trajes típicos y de quinceañeras\nExposición de arte de Jose Manuel Cruz\nFeria de Salud\n¡Grandes premios en la rifa y más! \n¡Cuídese durante esta tormenta! \nEsperamos verle en la Fiesta.
+URL:https://www.unitingnc.org/stand-with-us/september-15-hispanic-heritage-fiesta-siler-city/
+LOCATION:200 N. Chatham Ave.\, 200 N. Chatham Ave.\, Siler City\, NC\, 27334\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/08/unnamed.jpg
+GEO:35.724006;-79.463851
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=200 N. Chatham Ave. 200 N. Chatham Ave. Siler City NC 27334 United States;X-APPLE-RADIUS=500;X-TITLE=200 N. Chatham Ave.:geo:-79.463851,35.724006
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181014T170000
+DTEND;TZID=America/New_York:20181014T190000
+DTSTAMP:20220601T040130
+CREATED:20181010T174347Z
+LAST-MODIFIED:20181010T174347Z
+UID:4473-1539536400-1539543600@www.unitingnc.org
+SUMMARY:October 14: Your voice\, our voice / tu voz\, nuestra voz (Asheville)
+DESCRIPTION:**In English Below** \nCuando nos dejas fuera del sistema nosotros contamos con la comunidad para reclamar nuestro poder! Si eres miembrx Latinx que:\n-No puede votar pero conoces a gente que sí pueden\n-Recientemente alcanzaste la edad para votar\n-Recientemente te convertiste en Ciudadano Estadounidense \nEsta es una gran oportunidad para aprender de herramientas para a) involucrar a otrxs para que voten y b) para aprender qué posiciones están abiertas para estas elecciones. Este taller de Votar combina el poder de diagramar y de la narrativa personal y colectiva para ayudar a miembros de la comunidad entender mejor las posiciones que están abiertas y que oficinas tiene un impacto en nuestra vidas. \n**In English** \nWhen we are left out of the system we rely on community to claim our power. If you are a latinx member who: \n-Cannot vote but know people that can\n-Recently reached the voting age\n-Recently became a US citizen \nThis is a great opportunity for you to learn of tools to a) involve others that can cast a vote and b) learn about the positions being ran for. This What’s On Your Ballot Workshop combines storytelling and power mapping to help community members understand what positions are up for election and what offices have an impact on our lives.
+URL:https://www.unitingnc.org/stand-with-us/october-14-your-voice-our-voice-tu-voz-nuestra-voz-asheville/
+LOCATION:441 N. Louisiana Ave Suite E\, 441 N. Louisiana Ave Suite E\, Asheville\, North Carolina\, 28806
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/10/43603052_2053338794749103_1227961596949561344_n.jpg
+GEO:35.5931052;-82.5918999
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=441 N. Louisiana Ave Suite E 441 N. Louisiana Ave Suite E Asheville North Carolina 28806;X-APPLE-RADIUS=500;X-TITLE=441 N. Louisiana Ave Suite E:geo:-82.5918999,35.5931052
+END:VEVENT
+END:VCALENDAR

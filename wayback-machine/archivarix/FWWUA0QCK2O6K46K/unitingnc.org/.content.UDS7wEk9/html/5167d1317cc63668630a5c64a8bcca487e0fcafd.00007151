@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180205T173000
+DTEND;TZID=America/New_York:20180205T190000
+DTSTAMP:20220601T082308
+CREATED:20180201T155821Z
+LAST-MODIFIED:20180201T155821Z
+UID:3699-1517851800-1517857200@www.unitingnc.org
+SUMMARY:February 5: Immigration in the United States: Fact or Fiction? (Elon)
+DESCRIPTION:Please join us this upcoming Monday\, February 5th at McKinnon Hall at 5:30 p.m. \nOur discussion will focus on immigration with a variety of topics including immigration reform\, DACA\, misconceptions and much more! \nThe panelists attending are:\n– Dr. Jason Husser\n– Dr. Michael Matthews\n– Dr. Brandon Sheridan\n– Dr. Jessica Carew\n– Mrs. Katherine Reynolds\, J.D. \nWe hope to see everyone there! \n*Even if you are unable to attend\, you can still support our efforts by sharing this with other students\, faculty and staff who you think may be interested in learning more about this topic!
+URL:https://www.unitingnc.org/stand-with-us/february-5-immigration-united-states-fact-fiction-elon/
+LOCATION:McKinnon Hall\, 100 Campus Drive\, Elon\, NC\, 27244\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/02/27332424_915144318643421_1350072945009372649_n.jpg
+GEO:36.1050585;-79.5044016
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=McKinnon Hall 100 Campus Drive Elon NC 27244 United States;X-APPLE-RADIUS=500;X-TITLE=100 Campus Drive:geo:-79.5044016,36.1050585
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181028T160000
+DTEND;TZID=America/New_York:20181028T190000
+DTSTAMP:20220601T064630
+CREATED:20181023T194909Z
+LAST-MODIFIED:20181023T194909Z
+UID:4510-1540742400-1540753200@www.unitingnc.org
+SUMMARY:October 28: Popular Education Workshop: The US Blockade against Cuba (Asheville)
+DESCRIPTION:**In English Below**\nAcompáñenos para un taller de educación popular y discusión con Alicia Sevila Hidalgo del Centro de Martin Luther King en Havana\, Cuba\, acerca de la historia y efectos del Embargo Estadounidense en contra de Cuba\, y acerca de otras intervenciones a través de Latino América. \nAlicia vive y trabaja en Matanzas\, Cuba como pastora\, líder ecuménica\, educadora popular enfocada en genero y teología de la liberación\, y educadora de prisión. \nEste evento es parte de el tour del otoño de Testigos Por La Paz del Sureste\n———\nJoin us for a popular education workshop and discussion with Alicia Sevila Hidalgo from the Martin Luther King Center in Havana\, Cuba about the history and effects of the US Blockade against Cuba and other US interventions across Latin America. \nAlicia lives and works in Matanzas\, Cuba as a pastor\, ecumenical leader\, popular educator focusing and gender and liberation theology\, and a prison educator. \nThis Event is part of the Witness for Peace Southeast’s fall speakers tour. https://www.facebook.com/events/1473373492763809/
+URL:https://www.unitingnc.org/stand-with-us/october-28-popular-education-workshop-the-us-blockade-against-cuba-asheville/
+LOCATION:Arthur R Edington Education & Career Center\, 133 Livingston Street\, Asheville\, North Carolina\, 28801
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/10/44177261_2064320926984223_3609707338392403968_n.jpg
+GEO:35.5779184;-82.5572165
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Arthur R Edington Education & Career Center 133 Livingston Street Asheville North Carolina 28801;X-APPLE-RADIUS=500;X-TITLE=133 Livingston Street:geo:-82.5572165,35.5779184
+END:VEVENT
+END:VCALENDAR

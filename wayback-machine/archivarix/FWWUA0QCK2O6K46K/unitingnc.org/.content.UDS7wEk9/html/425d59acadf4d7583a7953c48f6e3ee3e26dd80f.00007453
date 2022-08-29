@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180327T120000
+DTEND;TZID=America/New_York:20180327T123000
+DTSTAMP:20220601T013125
+CREATED:20180322T144311Z
+LAST-MODIFIED:20180322T144311Z
+UID:3824-1522152000-1522153800@www.unitingnc.org
+SUMMARY:March 27: Healing Tuesday--No Ban\, No Wall\, Sanctuary for All! (Greensboro)
+DESCRIPTION:Join us for Healing Tuesday (https://www.belovedcommunitycenter.org/healing-tuesdays/) with the Beloved Community Center and Witness for Peace Southeast. We will have a moment of silence towards healing racial and social divisions in Greensboro\, followed by reflections from those moved to speak in the circle. After\, we will march through downtown to show our support for the #NCSanctuary5\, comprehensive immigration reform\, and Sanctuary Everywhere. We will continue walking all the way to Congregational UCC where we will have a community conversation around Sanctuary at 2:30PM. \nThis event is part of the Pilgrimage for Justice – No Ban! No Wall! Sanctuary for all! (https://www.facebook.com/events/2092015461045135/).
+URL:https://www.unitingnc.org/stand-with-us/march-27-healing-tuesday-no-ban-no-wall-sanctuary-greensboro/
+LOCATION:Governmental Plaza\, 110 S. Greene St.\, Greensboro\, NC\, 27401\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/01/26993198_10159894563715582_8828123280973509949_n.jpg
+GEO:36.071765;-79.791959
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Governmental Plaza 110 S. Greene St. Greensboro NC 27401 United States;X-APPLE-RADIUS=500;X-TITLE=110 S. Greene St.:geo:-79.791959,36.071765
+END:VEVENT
+END:VCALENDAR

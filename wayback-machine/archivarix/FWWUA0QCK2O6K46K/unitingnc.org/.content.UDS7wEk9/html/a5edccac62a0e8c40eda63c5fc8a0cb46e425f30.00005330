@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170415T070000
+DTEND;TZID=America/New_York:20170415T150000
+DTSTAMP:20220601T134830
+CREATED:20170330T134023Z
+LAST-MODIFIED:20170330T134023Z
+UID:2860-1492239600-1492268400@www.unitingnc.org
+SUMMARY:April 15: Sli-Five 5K (Chapel Hill)
+DESCRIPTION:N.C Sli is hosting their first Sli-Five 5K! The 5K’s theme is geared towards action (think a high-five with a twist; Sli-Five) as our students prepare to chase their dreams. N.C. Sli seeks to create pathways to educational\, professional\, and civic engagement opportunities for a new generation of Latinx leaders in North Carolina. \nWe aspire to create stronger\, more equitable communities in North Carolina by building a support network that identifies our students’ strengths\, affirms their identities\, and invests in their leadership. This 5K will aid our senior scholars who participated in our three-year mentoring program\, to pursue their post-secondary dreams. 
+URL:https://www.unitingnc.org/stand-with-us/april-15-sli-five-5k-chapel-hill/
+LOCATION:Old Well\, East Cameron Avenue\, Chapel Hill\, NC\, 27514\, United States
+CATEGORIES:Stand With Us
+GEO:35.9119095;-79.0511633
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Old Well East Cameron Avenue Chapel Hill NC 27514 United States;X-APPLE-RADIUS=500;X-TITLE=East Cameron Avenue:geo:-79.0511633,35.9119095
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170415T150000
+DTEND;TZID=America/New_York:20170415T163000
+DTSTAMP:20220601T134830
+CREATED:20170413T150924Z
+LAST-MODIFIED:20200518T125100Z
+UID:2936-1492268400-1492273800@www.unitingnc.org
+SUMMARY:April 15: Refugees & Immigrants in The Triangle (Guest Speakers) (Hillsborough)
+DESCRIPTION:Hillsborough Progressives Taking Action (HPTA) is thrilled to have guest speakers Marty Rosenbluth and Jennie Belle speak to us about the current environment for refugees and immigrants in The Triangle. Our guests will share their experiences working with refugees and immigrants\, how new regulations impact refugees/immigrants\, and most importantly what we can do to help. We will open up the floor to questions towards the end. \nThis will be a fantastic event as we are so fortunate to have such notable and accomplished professionals give us their time. Please join us! \nMarty Rosenbluth bio\nMarty Rosenbluth is currently an Associate Attorney at the Polanco Law Firm PC where he is in charge of the Lumpkin\, GA office. He recently returned from 6 weeks in Greece helping refugees from Syria and other countries to apply for asylum in Europe and has also volunteered for a month with the CARA Pro-Bono Project in Dilley\, TX. He has attended meetings both at the White House and at ICE HQ to discuss immigration policy. Marty has spoken extensively on immigrant rights and human rights both throughout the US and overseas. Prior to attending law school\, Marty worked as a human rights researcher for Al-Haq\, the West Bank affiliate of the International Commission of Jurists. He is a graduate of the UNC School of Law. \nJennie Belle bio\nJennie was born and raised in Savannah\, GA. She moved to Texas for her undergraduate education at Rice University\, during which time she studied in Mexico\, Peru and Argentina and participated in service projects in Central America. After graduation she moved to Spain for a year to teach English. Jennie then came to North Carolina for a dual degree M.Div./M.S.W. graduate program at Duke and UNC-Chapel Hill where her work focused on advocating for farmworkers and organizing churches for social justice. Jennie currently serves as the Program Director for Farmworker and Immigrant Rights at the NC Council of Churches.
+URL:https://www.unitingnc.org/stand-with-us/april-15-refugees-immigrants-triangle-guest-speakers-hillsborough/
+LOCATION:Hillsborough United Church of Christ\, 200 Davis Road\, Hillsborough\, NC\, 27278\, United States
+CATEGORIES:Stand With Us
+GEO:36.0288168;-79.1017379
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Hillsborough United Church of Christ 200 Davis Road Hillsborough NC 27278 United States;X-APPLE-RADIUS=500;X-TITLE=200 Davis Road:geo:-79.1017379,36.0288168
+END:VEVENT
+END:VCALENDAR

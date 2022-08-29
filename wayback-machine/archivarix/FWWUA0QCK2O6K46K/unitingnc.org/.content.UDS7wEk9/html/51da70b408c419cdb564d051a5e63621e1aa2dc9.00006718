@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170806T180000
+DTEND;TZID=America/New_York:20170806T193000
+DTSTAMP:20220601T040458
+CREATED:20170721T165251Z
+LAST-MODIFIED:20170721T170416Z
+UID:3229-1502042400-1502047800@www.unitingnc.org
+SUMMARY:August 6: A time for Reflection\, Revival\, Resistance
+DESCRIPTION:Rev. Dr. William J. Barber\, II & Jonathan Wilson-Hartgrove will co-host a monthly program to equip communities with resources for faithful reflection and public action on moral issues. “The Gathering” will include an introduction to a moral issue\, immersion in freedom songs that inform how we engage the issue\, an interview with someone who is directly impacted by the issue\, and a theological engagement with the issue that names a specific call to moral action. The topic for this month is SANCTUARY/IMMIGRATION \nLive in Raleigh\, North Carolina\, “The Gathering” will be livestreamed and podcast as a formation resource for individuals and communities (to register your group for livestream\, https://bit.ly/2sRLVab ). This resource is intended to serve as a multi-media “periodical” to connect and inform the Moral Movement. \nLimited parking is avaliable in the church parking. Additional parking is avaliable along Hillsborough Street between Cox Avenue and Park Avenue. \nFor more information contact National Social Justice Organizer Rev. Erica Williams at ewilliams@breachrepairers.org \n*** You can view the livestream /listen to the podcast for July’s Gathering at https://bit.ly/julygathering ***
+URL:https://www.unitingnc.org/stand-with-us/august-6-time-reflection-revival-resistance/
+LOCATION:Pullen Memorial Baptist Church\, 1801 Hillsborough St.\, Raleigh\, NC\, 27605\, United States
+ORGANIZER;CN="Erica%20Williams":MAILTO:ewilliams@breachrepairers.org
+GEO:35.7850766;-78.6609615
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Pullen Memorial Baptist Church 1801 Hillsborough St. Raleigh NC 27605 United States;X-APPLE-RADIUS=500;X-TITLE=1801 Hillsborough St.:geo:-78.6609615,35.7850766
+END:VEVENT
+END:VCALENDAR

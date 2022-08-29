@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181013T090000
+DTEND;TZID=America/New_York:20181013T120000
+DTSTAMP:20220601T000000
+CREATED:20180911T180134Z
+LAST-MODIFIED:20180911T180240Z
+UID:4400-1539421200-1539432000@www.unitingnc.org
+SUMMARY:October 13: Jornada De Membresía & ID Comunitaria (Charlotte)
+DESCRIPTION:Los invitamos a la última jornada de identificación comunitaria del 2018. Durante nuestra Jornada usted puede hacerse miembro de la Coalición y obtener nuestra identificación comunitaria parte de la red Faith Action ID. \nRequisitos para obtener su identificación son:\n1. Participar de algún taller de conoce tus derechos este día a las 9am\, 10:30am o a las 12pm.\n2. Traer una prueba de identificación gubernamental tales como: (Pasaporte\, tarjeta nacional de identificación extranjera\, matrícula consular\, licencia o identificación de Carolina del Norte u otro estado así este vencido)\n3.Prueba de domicilio actual de los últimos 3 meses tal como recibo de utilidades\, contrato de arrendamiento\, estados de cuenta bancarios\, archivos medicos etc)
+URL:https://www.unitingnc.org/stand-with-us/october-13-jornada-de-membresia-id-comunitaria-charlotte/
+LOCATION:Latin American Coalition\, 4938 Central Ave.\, Charlotte\, NC\, 28205\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/09/38728928_10157672665873047_3659883066194657280_n.jpg
+GEO:35.2107348;-80.7598498
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Latin American Coalition 4938 Central Ave. Charlotte NC 28205 United States;X-APPLE-RADIUS=500;X-TITLE=4938 Central Ave.:geo:-80.7598498,35.2107348
+END:VEVENT
+END:VCALENDAR

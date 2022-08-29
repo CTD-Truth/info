@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171106
+DTEND;VALUE=DATE:20171111
+DTSTAMP:20220601T123944
+CREATED:20171106T170815Z
+LAST-MODIFIED:20171106T171742Z
+UID:3493-1509926400-1510358399@www.unitingnc.org
+SUMMARY:November 6-10: Clean Dream Act: Call to Action (High Point)
+DESCRIPTION:YWCA USA & YWCA High Point’s Latino Family Center support a CLEAN Dream Act!\nOn November 6th through November 10th we will be having our Call to Action Week in support of a Clean Dream Act.\nThis is the time to urge congress to pass a CLEAN Dream Act and save the livelihood of thousands of immigrant youth who contribute to this coutnry they call home. \nWhy does Congress need to pass a clean Dream Act?\n-DACA is phased out. Thousands of immigrant youth will start to lose their right to work starting March 6th.\n– DACA does not provide a legal status; it provides a 2 year protection from being deported and a 2 year renewable work permit\n– DACA holders needed to renew their work permit every 2 years at a cost of $495 (immigration costs) plus lawyer’s cost\, which can vary\n– Current DACA holders do not qualify for in-state tuition at public UNC institutions or community colleges. They also do not qualify for any type of financial aid or government grants. If a DACA holder or undocumented student wants to pursue higher education he/she will need to pay the out-of-state tuition rate \nThe time to ACT is NOW! \nActions you can take are: \n-CALL YOUR REPRESENTATIVES AND SENATORS\n-EMAIL YOUR REPRESENTATIVES AND SENATORS\n-WRITE A LETTER TO THE EDITOR AT YOUR LOCAL NEWSPAPER\n-JOIN GROUPS IN YOUR AREA CURRENTLY TAKING ACTION
+URL:https://www.unitingnc.org/stand-with-us/november-6-clean-dream-act-call-action-high-point/
+LOCATION:Latino Family Center of Greater High Point\, 155 W Westwood Ave\, High Point\, NC\, 27262\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/11/23132143_1610858248934751_811811945970964210_n.jpg
+GEO:35.9615338;-80.010469
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Latino Family Center of Greater High Point 155 W Westwood Ave High Point NC 27262 United States;X-APPLE-RADIUS=500;X-TITLE=155 W Westwood Ave:geo:-80.010469,35.9615338
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171109T050000
+DTEND;TZID=America/New_York:20171109T220000
+DTSTAMP:20220601T123944
+CREATED:20171102T144306Z
+LAST-MODIFIED:20171102T172704Z
+UID:3480-1510203600-1510264800@www.unitingnc.org
+SUMMARY:November 9: Operation Clean DREAM Act NC to DC (Greensboro --> DC)
+DESCRIPTION:Atention immigrant youth\, ifamilies and allies: \nLocal NC youth and adults with DACA are calling you to join the national group United We Dream in a march on Washington DC to demand a clean DREAM Act. \nWe will depart Greensboro in caravan to Washington DC to demand our elected representatives to support this measure and then in the afternoon we will join the march. \nWE WILL HAVE TRANSPORTATION SUPPORT. MORE DETAILS LATER.\n**Your help and participation is important; however\, priority for transportation will be given to people with DACA. We need help from supporters with valid Drivers Licenses to drive\, make and carry signs\, take pictures\, make calls to elected representatives and other support tasks that may come up. \n  \n——————————\nJovenes y adultos de NC con DACA les invitamos a unirnos al llamado del grupo nacional United We Dream en una marcha en Washington DC para exigir que el Congreso apruebe un DREAM Act limpio. \nPartiremos desde Greensboro en caravana con destino a Washington DC para exigirle a los legisladores que apoyen la medida y nos uniremos a la marcha por la tarde. \nCONTAMOS CON APOYO DE TRANSPORTACION. MAS DETALLES PROXIMAMENTE.
+URL:https://www.unitingnc.org/stand-with-us/november-9-operation-clean-dream-act-nc-dc-greensboro-dc/
+LOCATION:NC
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/11/22852096_10159551449895582_8235041894199277389_n.jpg
+END:VEVENT
+END:VCALENDAR

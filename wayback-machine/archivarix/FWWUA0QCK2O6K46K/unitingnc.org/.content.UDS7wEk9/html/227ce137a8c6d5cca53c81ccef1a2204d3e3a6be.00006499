@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190810T180000
+DTEND;TZID=America/New_York:20190810T210000
+DTSTAMP:20220601T091440
+CREATED:20190409T175430Z
+LAST-MODIFIED:20190409T175430Z
+UID:4913-1565460000-1565470800@www.unitingnc.org
+SUMMARY:August 10: CLT City of Immigrants 5k (Charlotte)
+DESCRIPTION:Come out to celebrate your heritage and support Charlotte’s immigrant communities while running through the beautiful Plaza Midwood neighborhood on a Saturday evening! \nAfter the race\, stick around for a celebration with live music\, prizes\, games\, and lots of fun for the whole family! \nAll proceeds will benefit the Latin American Coalition’s Immigrant Welcome Center. \nThe Immigrant Welcome Center (IWC) provides language specific\, culturally attuned programs and services to Latino families seeking crisis intervention\, access to resources and capacity building opportunities. The IWC empowers individuals to meet immediate and long-term needs while working to eliminate systemic obstacles.\n#CLTcityofimmigrants
+URL:https://www.unitingnc.org/stand-with-us/august-10-clt-city-of-immigrants-5k-charlotte/
+LOCATION:Latin American Coalition\, 4938 Central Ave.\, Charlotte\, NC\, 28205\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/04/57085299_10158353131578047_809300047635152896_n.jpg
+GEO:35.2107348;-80.7598498
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Latin American Coalition 4938 Central Ave. Charlotte NC 28205 United States;X-APPLE-RADIUS=500;X-TITLE=4938 Central Ave.:geo:-80.7598498,35.2107348
+END:VEVENT
+END:VCALENDAR

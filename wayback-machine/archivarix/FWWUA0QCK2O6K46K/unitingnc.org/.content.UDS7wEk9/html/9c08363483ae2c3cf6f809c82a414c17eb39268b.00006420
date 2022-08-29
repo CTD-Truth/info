@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190610T193000
+DTEND;TZID=America/New_York:20190610T210000
+DTSTAMP:20220601T092230
+CREATED:20190529T194228Z
+LAST-MODIFIED:20190529T194228Z
+UID:4986-1560195000-1560200400@www.unitingnc.org
+SUMMARY:June 10: Solidarity Committee Meeting - for Supporters of Siembra (Greensboro)
+DESCRIPTION:OJO – esta reunión es para personas quienes hablen inglés que quieren apoyar al trabajo de Siembra. Si eres un/a de ellxs\, bienvenidx! \nENGLISH:\nCome to a Siembra Solidarity committee meeting to learn more about what the Siembra Solidarity committee does\, to plug in to a sub-committee and to help get some essential items done for our next projects. We would love to have you!
+URL:https://www.unitingnc.org/stand-with-us/june-10-solidarity-committee-meeting-for-supporters-of-siembra-greensboro/
+LOCATION:Deep Roots Market\, 600 North Eugene Street\, Greensboro\, NC
+ATTACH;FMTTYPE=image/png:https://www.unitingnc.org/wp-content/uploads/2019/05/61214230_10161823935910582_7540313252794728448_n.png
+GEO:36.0795808;-79.7935025
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Deep Roots Market 600 North Eugene Street Greensboro NC;X-APPLE-RADIUS=500;X-TITLE=600 North Eugene Street:geo:-79.7935025,36.0795808
+END:VEVENT
+END:VCALENDAR

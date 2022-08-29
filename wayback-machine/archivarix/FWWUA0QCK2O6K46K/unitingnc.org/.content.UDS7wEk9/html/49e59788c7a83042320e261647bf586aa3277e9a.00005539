@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170923
+DTEND;VALUE=DATE:20171002
+DTSTAMP:20220601T130037
+CREATED:20170914T175045Z
+LAST-MODIFIED:20170921T154123Z
+UID:3356-1506124800-1506902399@www.unitingnc.org
+SUMMARY:September 23\, 24\, & October 1st: DACA Renewal Clinics (Wilmington\, Raleigh\, Chapel Hill\, & Greensboro)
+DESCRIPTION:The North Carolina Justice Center is hosting a series of DACA renewal clinics in Wilmington\, Raleigh\, Chapel Hill\, and Greensboro. If your DACA expires between September 5\, 2017 and March 5\, 2018\, you must renew your\nDACA before October 5\, 2017! To take advantage of one of these clinics\, please call 919-861-2064 for one of the following locations & dates: September 23rd in Wilmington\, September 24th in Raleigh\, September 24th in Chapel Hill\, and October 1st in Greensboro.
+URL:https://www.unitingnc.org/stand-with-us/september-23-24-october-1st-daca-renewal-clinics-wilmington-raleigh-chapel-hill-greensboro/
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/603276_10151049835694607_821960860_n.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170923T110000
+DTEND;TZID=America/New_York:20170923T190000
+DTSTAMP:20220601T130037
+CREATED:20170831T171040Z
+LAST-MODIFIED:20170921T153431Z
+UID:3272-1506164400-1506193200@www.unitingnc.org
+SUMMARY:September 23: Multi-Cultural Fall Festival (High-Point)
+DESCRIPTION:  \nThe City of High Point invites you to this year’s multicultural festival\, “Hi-Fest” on Saturday September 23rd 11-7pm. There will be live music all day along with a beer garden\, food trucks\, kids zone\, free parking and lots of prizes! We will have live performances from various cultures and countries.  Hi-Fest is a Free Festival sponsored by the Human Relations Division on Saturday\, September 23rd at 11 AM until 7 PM at 220 E Commerce street downtown High Point. Come\, enjoy\, and celebrate your culture and community Saturday September 23rd 11-7pm. You don’t want to miss it! \n 
+URL:https://www.unitingnc.org/stand-with-us/september-23-multi-cultural-fall-festival-high-point/
+LOCATION:Mendenhall Transprotation Terminal\, 220 Commerce\, High Point\, NC\, 27260\, United States
+ATTACH;FMTTYPE=image/png:https://www.unitingnc.org/wp-content/uploads/2017/08/hi-fest-logo.png
+GEO:35.9555537;-80.0031946
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Mendenhall Transprotation Terminal 220 Commerce High Point NC 27260 United States;X-APPLE-RADIUS=500;X-TITLE=220 Commerce:geo:-80.0031946,35.9555537
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170923T120000
+DTEND;TZID=America/New_York:20170924T160000
+DTSTAMP:20220601T130037
+CREATED:20170913T131659Z
+LAST-MODIFIED:20170914T143258Z
+UID:3329-1506168000-1506268800@www.unitingnc.org
+SUMMARY:September 23 & 24: Two-Day DACA Renewal Clinic (Charlotte)
+DESCRIPTION:Does your DACA expire before March 5th\, 2018? Then you have until Oct. 5 of this year to renew. \nGet your application filed with the help of an attorney for FREE before the deadline. Charlotte Center for Legal Advocacy is taking appointments for renewals at any time\, and we are also joining Comunidad Colectiva to host a two-day clinic Sept. 23 and 24 from noon to 4 p.m. at 1524 Elizabeth Avenue\, our satellite office. \nDon’t wait! Call 800-247-1931 to schedule an appointment today! Financial assistance is available for filing fees. \n  \n  \nTu DACA se expira antes del 5 de marzo del 2018? Tienes hasta el 5 de octubre de este año para renovar. \nHas tu aplicacion con la ayuda de un abogado gratuito. El Centro de Apoyo de Legal Charlotte esta recibiendo citas y se unira a Comunidad Colectiva para tener dos sesiones gratuitas de renovacion el 23 y 24 de septiembre\, de 12pm a 4pm. \nNo esperes y llama al 800-247-1931 para hacer tu cita. Tendremos ayuda financiera para el costo de la aplicacion.
+URL:https://www.unitingnc.org/stand-with-us/september-23-24-two-day-daca-renewal-clinic/
+LOCATION:Charlotte Center for Legal Advocacy\, 1431 Elizabeth Ave.\, Charlotte\, NC\, 28204\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/21430258_10154975827737666_7602136928518688126_n.jpg
+GEO:35.2150009;-80.8278122
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Charlotte Center for Legal Advocacy 1431 Elizabeth Ave. Charlotte NC 28204 United States;X-APPLE-RADIUS=500;X-TITLE=1431 Elizabeth Ave.:geo:-80.8278122,35.2150009
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170923T160000
+DTEND;TZID=America/New_York:20170923T190000
+DTSTAMP:20220601T130037
+CREATED:20170918T135217Z
+LAST-MODIFIED:20170918T135217Z
+UID:3373-1506182400-1506193200@www.unitingnc.org
+SUMMARY:September 23: Better Together NC: Orange County Resists Hate (Hillsborough)
+DESCRIPTION:Join the LGBTQ Center of Durham\, the North Carolina Council of Churches\, and Orange County Community Partners for a community conversation about how we can work together to resist hate and oppression in all its forms. Now more than ever\, local rural communities can come together in Orange county and discuss how we can create sanctuaries for everyone\, and ensure safety in our schools\, public spaces\, and our homes. \nTogether we will talk about our shared and personal histories\, eat a meal and while working to create a shared future vision of what we want our communities to look like through art\, music\, movement\, and activism. \nWe know that NC has some of the most active KKK/white supremacistorganizations in the country. We also know that NC has historically been the bedrock of multi-issue organizing and coalition building that brings those of us together that are committed to social\, economic and environmental justice. This event is an opportunity to come together\, build power and create sanctuaries for everyone. Our power lies in our ability to come together. WE ARE BETTER TOGETHER!! \nOur hopes for the day are to:\n-Connect local organizations\, families and individuals living in rural Orange county to one another; learn what is happening in your communities and how you can get involved\n-Share our stories\, resources and ideas\n-Create a vision around what creating sanctuaries in our communities can look like and how can we get there together\n-Food and Fellowship\n-Engage in Art as Activism\n-Have Fun Resisting Hate in Our State! \nThis event is free and family friendly! There will be locally catered food\, childcare & children’s activities\, and Spanish & ASL interpretation available. For more information\, contact Sol Pederson at spederson@lgbtqcenterofdurham.org or (919) 335-8736. \nThank you again for all the work you are doing to make your communities sanctuaries for all.
+URL:https://www.unitingnc.org/stand-with-us/september-23-better-together-nc-orange-county-resists-hate-hillsborough/
+LOCATION:Hillsborough United Church of Christ\, 200 Davis Road\, Hillsborough\, NC\, 27278\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/21149969_1056788911164217_6360751629386012574_n.jpg
+GEO:36.0288168;-79.1017379
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Hillsborough United Church of Christ 200 Davis Road Hillsborough NC 27278 United States;X-APPLE-RADIUS=500;X-TITLE=200 Davis Road:geo:-79.1017379,36.0288168
+END:VEVENT
+END:VCALENDAR

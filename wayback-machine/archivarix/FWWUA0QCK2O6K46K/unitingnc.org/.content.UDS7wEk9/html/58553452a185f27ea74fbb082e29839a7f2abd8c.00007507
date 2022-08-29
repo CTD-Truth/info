@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180516T180000
+DTEND;TZID=America/New_York:20180516T200000
+DTSTAMP:20220601T044448
+CREATED:20180515T171853Z
+LAST-MODIFIED:20180515T172001Z
+UID:4057-1526493600-1526500800@www.unitingnc.org
+SUMMARY:May 16: Vigil for Families Affected by ICE Raids (Asheville)
+DESCRIPTION:Join us this WEDNESDAY MAY 16 to hear from the families of the detainees and the latest updates about the cases and what ways community can help reunite the families!! \nOn April 14th\, Immigration and Customs Enforcement (ICE) conducted raids in Western North Carolina where over 26 people were detained. Over the last 3 weeks\, two people affected by the raids have already been deported and others await deportation with fear of returning to a country they have not seen in years. They are still waiting for a decision on their cases as early as this week. Join us this Wednesday to hear from their family members and to hear an update and what community members can do to take action to help reunite these families. \nThe ICE raids caused psychological and emotional turmoil to the families of the men that were detained\, but to the WNC community as a whole. We believe that these men should be reunited with their families and their communities. Because no human being should undergo the treatment and conditions that people experience being detained in Stewart Detention Center. \n___________________________________________________________________________ \nTe esperamos el MIERCOLES MAYO 16 para que puedas escuchar de familiares de los seres detenidos y lo ultimo sobre los casos y maneras que pueden ayudar a reunir estas familias!! \nEl 14 de abril ICE tuvo acabo redadas en el Oeste de Carolina del Norte donde 26 personas fueron detenidas. Durante las últimas 3 semanas\, dos personas afectadas por las redadas han sido deportadas y las otras están esperando su deportación con miedo a regresar a su país que no han visto en años. Algunos están esperando una decisión sobre su caso esta semana. Ven a la vigilia para escuchar de los miembros de las familias y para ver que puede hacer la comunidad para ayudar a reunir estas familias. \nLas redadas de ICE causaron agitacion psicológico y emocional para las familias de los hombres que fueron detenidos\, pero también toda la comunidad del Oeste de Carolina del Norte. Creemos que estos hombres deben de ser reunidos con sus familias y sus comunidades. Por qué ningún ser humano debería ser sometido al tratamiento y condiciones que pasan en el Centro de Detención de Stewart.
+URL:https://www.unitingnc.org/stand-with-us/may-16-vigil-for-families-affected-by-ice-raids-asheville/
+LOCATION:Unitarian Universalist Congregation of Asheville\, 1 Edwin PL\, Asheville\, NC\, 28801\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/05/32440678_1855920271157624_335323554386018304_n.jpg
+GEO:35.609158;-82.5464495
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Unitarian Universalist Congregation of Asheville 1 Edwin PL Asheville NC 28801 United States;X-APPLE-RADIUS=500;X-TITLE=1 Edwin PL:geo:-82.5464495,35.609158
+END:VEVENT
+END:VCALENDAR

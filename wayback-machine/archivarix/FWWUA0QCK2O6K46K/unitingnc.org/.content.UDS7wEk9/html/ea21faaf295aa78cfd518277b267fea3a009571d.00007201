@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190129T180000
+DTEND;TZID=America/New_York:20190129T200000
+DTSTAMP:20220531T234906
+CREATED:20190123T173150Z
+LAST-MODIFIED:20190123T173150Z
+UID:4636-1548784800-1548792000@www.unitingnc.org
+SUMMARY:January 29: Housing Justice Forum (Charlotte)
+DESCRIPTION:**en español abajo** \nJoin Action NC for an important discussion about the future of affordable housing in Charlotte. \nAre you a tenant in Mecklenburg County? Has your rent increased so much that you can’t afford it? Have you been forced to move to make room for a new high rise? Have you had issues with water damage\, mold\, plumbing\, electrical issues\, bug and rodent infestations\, insensitive or hard to speak to management\, or simply getting repairs worked on in your rental? \nDo you think living in these conditions are just? Do you want change? Then\, come to the housing justice forum to be empowered\, satisfied\, and to gain new knowledge in order to get results. \nREGISTER HERE\nhttps://goo.gl/XZCdeA \n______________________________________________________ \nÚnase a Action NC para una importante discusión sobre el futuro de la vivienda asequible en Charlotte. \n¿Es usted un inquilino en el condado de Mecklenburg? ¿Ha aumentado su alquiler tanto que no puede pagarlo? ¿Se ha visto obligado a moverse para dejar espacio para un nuevo rascacielos? ¿Ha tenido problemas con daños de agua\, moho\, plomería\, problemas eléctricos\, infestaciones de insectos y roedores\, insensibles o difíciles de hablar con la gerencia\, o simplemente haciendo reparaciones en su alquiler? \n¿Crees que vivir en estas condiciones es justo? Quieres cambio? Entonces\, asiste al foro de justicia de la vivienda para obtener más poder\, estar satisfecho y obtener nuevos conocimientos para obtener resultados. \nREGISTRAR AQUÍ\nhttps://goo.gl/XZCdeA
+URL:https://www.unitingnc.org/stand-with-us/january-29-housing-justice-forum-charlotte/
+LOCATION:1817 Central Ave.\, 1817 Central Ave.\, Charlotte\, NC\, 28205\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/01/50314549_2875783359114628_2872541700285267968_n.jpg
+GEO:35.2206938;-80.8088401
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=1817 Central Ave. 1817 Central Ave. Charlotte NC 28205 United States;X-APPLE-RADIUS=500;X-TITLE=1817 Central Ave.:geo:-80.8088401,35.2206938
+END:VEVENT
+END:VCALENDAR

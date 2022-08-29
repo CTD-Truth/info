@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Uniting NC</title>
+	<atom:link href="/category/podcast/feed/" rel="self" type="application/rss+xml" />
+	<link>https://unitingnc.org</link>
+	<description>Building Community. Welcoming Immigrants. Uniting North Carolina.</description>
+	<lastBuildDate>Tue, 04 Dec 2018 16:28:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+
+<image>
+	<url>https://unitingnc.org/wp-content/uploads/2017/02/cropped-favicon-32x32.png</url>
+	<title>Uniting NC</title>
+	<link>https://unitingnc.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<!-- podcast_generator="Blubrry PowerPress/7.3" mode="simple" feedslug="feed" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>With the Uniting NC podcast, you can meet your North Carolina immigrant neighbors one story at a time. &lt;br /&gt;
+&lt;br /&gt;
+At Uniting NC we believe that all people, including immigrants, should have the opportunity to engage and thrive in their communities. Together we all do better. For more information, visit unitingnc.org.</itunes:summary>
+	<itunes:author>Uniting NC</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="/wp-content/uploads/2016/06/Uniting-NC-logo-2013.jpg" />
+	<itunes:owner>
+		<itunes:name>Uniting NC</itunes:name>
+		<itunes:email>dan@unitingnc.org</itunes:email>
+	</itunes:owner>
+	<managingEditor>dan@unitingnc.org (Uniting NC)</managingEditor>
+	<itunes:subtitle>NC Neighbors</itunes:subtitle>
+	<image>
+		<title>Uniting NC</title>
+		<url>http://unitingnc.org/wp-content/uploads/2016/06/Uniting-NC-logo-2013.jpg</url>
+		<link>https://unitingnc.org/category/podcast/</link>
+	</image>
+	<itunes:category text="Government &amp; Organizations">
+		<itunes:category text="Non-Profit"></itunes:category>
+	</itunes:category>
+<site xmlns="com-wordpress:feed-additions:1">55944258</site>	<item>
+		<title>Podcast video: Meet Jafet (ep.8)</title>
+		<link>https://unitingnc.org/2017/05/podcast-video-meet-jafet-ep-8/</link>
+		<pubDate>Tue, 09 May 2017 14:34:35 +0000</pubDate>
+		<dc:creator><![CDATA[Jocelyn Casanova]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=2957</guid>
+		<description><![CDATA[Jafet is a senior just a few days away from graduating from high school. In this episode, Jafet talks about coming from a small town in Mexico when he was seven years old, going to school and serving in ROTC, and getting the chance to learn computer programing through Code the Dream. He recently got [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">2957</post-id>	</item>
+		<item>
+		<title>Podcast video: Meet Leonardo! (ep.7)</title>
+		<link>https://unitingnc.org/2017/01/podcast-video-meet-leonardo-ep-7/</link>
+		<pubDate>Wed, 04 Jan 2017 15:19:15 +0000</pubDate>
+		<dc:creator><![CDATA[Jocelyn Casanova]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=2643</guid>
+		<description><![CDATA[Leonardo is a native Venezuelan, who has a strong passion for filmmaking. He recently moved to the Unites States to expand his career opportunities and continue chasing his dreams. While moving, he faced new challenges immigrating to his new country. In this episode find out what motivated him to move and leave his family back home.]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">2643</post-id>	</item>
+		<item>
+		<title>Podcast Video: Meet Hetvin! (Ep.6)</title>
+		<link>https://unitingnc.org/2016/11/podcast-video-meet-hetvin-ep-6/</link>
+		<pubDate>Mon, 21 Nov 2016 18:27:04 +0000</pubDate>
+		<dc:creator><![CDATA[Jocelyn Casanova]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=2617</guid>
+		<description><![CDATA[Hetvin is a kind-hearted young woman from India. She enjoys meeting new friends while at school and work. In this episode she shares pictures of her family and friends from India.]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">2617</post-id>	</item>
+		<item>
+		<title>Podcast Video: Meet Rachel (Ep. 5)</title>
+		<link>https://unitingnc.org/2016/10/podcast-video-meet-rachel-ep-5/</link>
+		<pubDate>Wed, 26 Oct 2016 19:33:27 +0000</pubDate>
+		<dc:creator><![CDATA[Jocelyn Casanova]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=2599</guid>
+		<description><![CDATA[Rachel is originally from the Congo. She is a young, ambitious mother and student who recently moved to North Carolina. In this episode, she talks about her aspirations for her daughter&#8217;s future as well as hers.]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">2599</post-id>	</item>
+		<item>
+		<title>Podcast Video: Meet Jocelyn! (Ep. 4)</title>
+		<link>https://unitingnc.org/2016/10/podcast-video-meet-jocelyn-ep-4/</link>
+		<pubDate>Wed, 19 Oct 2016 20:29:29 +0000</pubDate>
+		<dc:creator><![CDATA[Grace Martien]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=2595</guid>
+		<description><![CDATA[Originally from Mexico, Jocelyn has lived in Raleigh, NC since she was three years old. In this episode she shares her story of what it is like to grow up in the United States as an immigrant with a passion for the arts and coding.]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">2595</post-id>	</item>
+		<item>
+		<title>Podcast goes video: Meet Hugo &#8211; A Man of Science and Art</title>
+		<link>https://unitingnc.org/2016/09/podcast-hugo/</link>
+		<pubDate>Thu, 15 Sep 2016 17:39:13 +0000</pubDate>
+		<dc:creator><![CDATA[Jocelyn Casanova]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=2581</guid>
+		<description><![CDATA[Our podcast series, sharing the stories of immigrants to North Carolina, continues, but with a twist. When possible, we decided we&#8217;ll share videos &#8212; even if there&#8217;s no makeup and backup dancers, as Hugo quite rightly points out&#8230;]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">2581</post-id>	</item>
+		<item>
+		<title>Podcast: Meet Hadiqa! (Ep. 2)</title>
+		<link>https://unitingnc.org/2016/06/podcast-meet-hadiqa-ep-2/</link>
+		<pubDate>Thu, 30 Jun 2016 13:54:41 +0000</pubDate>
+		<dc:creator><![CDATA[Dan Rearick]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.wpengine.com/?p=2533</guid>
+		<description><![CDATA[Originally from Pakistan, Hadiqa is friendly, energetic and so curious that she says she &#8220;never gets bored!&#8221; In our second podcast episode, Francisco asks Hadiqa about her life here in NC, her experience with Code the Dream, and what she misses from Pakistan. &#160;]]></description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/unitingnc.org/wp-content/uploads/2016/06/Ep-2-Hadiqa-6-30-16.mp3" length="5975293" type="audio/mpeg" />
+		<itunes:subtitle>Originally from Pakistan, Hadiqa is friendly, energetic and so curious that she says she “never gets bored!” In our second podcast episode, Francisco asks Hadiqa about her life here in NC, her experience with Code the Dream,</itunes:subtitle>
+		<itunes:summary>Originally from Pakistan, Hadiqa is friendly, energetic and so curious that she says she “never gets bored!” In our second podcast episode, Francisco asks Hadiqa about her life here in NC, her experience with Code the Dream, and what she misses from Pakistan.  </itunes:summary>
+		<itunes:author>Uniting NC</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>4:59</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2533</post-id>	</item>
+		<item>
+		<title>Podcast: Intro episode with Francisco</title>
+		<link>https://unitingnc.org/2016/06/welcome-to-the-podcast/</link>
+		<comments>https://unitingnc.org/2016/06/welcome-to-the-podcast/#comments</comments>
+		<pubDate>Wed, 29 Jun 2016 20:41:41 +0000</pubDate>
+		<dc:creator><![CDATA[Francisco Chavez]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.wpengine.com/?p=2517</guid>
+		<description><![CDATA[Welcome to Uniting NC&#8217;s podcast with Francisco Chavez. In this intro episode, Francisco shares a little of his own story and his hopes for the podcast &#8212; to take us with him as he meets fellow immigrants to North Carolina, sharing one story at a time.]]></description>
+		<wfw:commentRss>https://unitingnc.org/2016/06/welcome-to-the-podcast/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/unitingnc.org/wp-content/uploads/2016/06/Ep-1-Intro-Francisco-6-30-16.mp3" length="6023745" type="audio/mpeg" />
+		<itunes:subtitle>Welcome to Uniting NC’s podcast with Francisco Chavez. In this intro episode, Francisco shares a little of his own story and his hopes for the podcast — to take us with him as he meets fellow immigrants to North Carolina, sharing one story at a time.</itunes:subtitle>
+		<itunes:summary>Welcome to Uniting NC’s podcast with Francisco Chavez. In this intro episode, Francisco shares a little of his own story and his hopes for the podcast — to take us with him as he meets fellow immigrants to North Carolina, sharing one story at a time.</itunes:summary>
+		<itunes:author>Uniting NC</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>5:01</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2517</post-id>	</item>
+	</channel>
+</rss>

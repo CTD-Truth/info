@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170923T120000
+DTEND;TZID=America/New_York:20170924T160000
+DTSTAMP:20220601T073353
+CREATED:20170913T131659Z
+LAST-MODIFIED:20170914T143258Z
+UID:3329-1506168000-1506268800@www.unitingnc.org
+SUMMARY:September 23 & 24: Two-Day DACA Renewal Clinic (Charlotte)
+DESCRIPTION:Does your DACA expire before March 5th\, 2018? Then you have until Oct. 5 of this year to renew. \nGet your application filed with the help of an attorney for FREE before the deadline. Charlotte Center for Legal Advocacy is taking appointments for renewals at any time\, and we are also joining Comunidad Colectiva to host a two-day clinic Sept. 23 and 24 from noon to 4 p.m. at 1524 Elizabeth Avenue\, our satellite office. \nDon’t wait! Call 800-247-1931 to schedule an appointment today! Financial assistance is available for filing fees. \n  \n  \nTu DACA se expira antes del 5 de marzo del 2018? Tienes hasta el 5 de octubre de este año para renovar. \nHas tu aplicacion con la ayuda de un abogado gratuito. El Centro de Apoyo de Legal Charlotte esta recibiendo citas y se unira a Comunidad Colectiva para tener dos sesiones gratuitas de renovacion el 23 y 24 de septiembre\, de 12pm a 4pm. \nNo esperes y llama al 800-247-1931 para hacer tu cita. Tendremos ayuda financiera para el costo de la aplicacion.
+URL:https://www.unitingnc.org/stand-with-us/september-23-24-two-day-daca-renewal-clinic/
+LOCATION:Charlotte Center for Legal Advocacy\, 1431 Elizabeth Ave.\, Charlotte\, NC\, 28204\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/21430258_10154975827737666_7602136928518688126_n.jpg
+GEO:35.2150009;-80.8278122
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Charlotte Center for Legal Advocacy 1431 Elizabeth Ave. Charlotte NC 28204 United States;X-APPLE-RADIUS=500;X-TITLE=1431 Elizabeth Ave.:geo:-80.8278122,35.2150009
+END:VEVENT
+END:VCALENDAR

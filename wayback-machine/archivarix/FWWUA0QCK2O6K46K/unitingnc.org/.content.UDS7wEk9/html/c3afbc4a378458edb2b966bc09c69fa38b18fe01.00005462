@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170728T123000
+DTEND;TZID=America/New_York:20170728T140000
+DTSTAMP:20220601T131647
+CREATED:20170706T194159Z
+LAST-MODIFIED:20170706T194159Z
+UID:3176-1501245000-1501250400@www.unitingnc.org
+SUMMARY:July 28: Imprisoned Justice: Inside Georgia Immigration Detention Centers (Raleigh)
+DESCRIPTION:Bring your lunch and learn directly from one of the authors of a new report on abuses faced by immigrant detainees in two facilities in Georgia. The vast majority of all detained immigrants and refugees from North Carolina are held in these Georgia centers. That’s why people active on immigrant and refugee rights in our state need to increase our awareness and our coordinated action about the abuses people are suffering in Stewart Detention Center and the Irwin County Detention Center. \nTo attend in person or online\, please complete this RSVP form and you will receive more details ASAP: https://bit.ly/2tbDxpQ
+URL:https://www.unitingnc.org/stand-with-us/july-28-imprisoned-justice-inside-georgia-immigration-detention-centers-raleigh/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170728T173000
+DTEND;TZID=America/New_York:20170728T200000
+DTSTAMP:20220601T131647
+CREATED:20170719T190136Z
+LAST-MODIFIED:20170721T162248Z
+UID:3224-1501263000-1501272000@www.unitingnc.org
+SUMMARY:July 28: No más bebés
+DESCRIPTION:El Pueblo will host a film screening for the film “No más bebés” which tells the story of a Mexican mother who sued doctors\, the state\, and the U.S. government after they were sterilized while giving birth at Los Angeles County General Hospital during the 1970s. This film lifts up the contribution of Chicana activists who sought to redefine reproductive politics as including the human right to bear a child. \nFor more information or to request childcare (please request one week in advance)\, contact Mawiyah at mawiyah@elpueblo.org or 919-835-1525 ext. 108. \nThis will be an intergenerational event co-faciliated by staffers from El Pueblo Inc\, NARAL Pro-Choice NC\, ACLU of NC\, SisterSong\, and Carolina Abortion Fund. We will provide popcorn and water. Folks can bring their own snacks for themselves or to share.
+URL:https://www.unitingnc.org/stand-with-us/july-28-no-mas-bebes/
+LOCATION:El Pueblo\, 2321 Crabtree Blvd #105\, Raleigh\, NC\, 27604\, United States
+GEO:35.8044884;-78.6116018
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=El Pueblo 2321 Crabtree Blvd #105 Raleigh NC 27604 United States;X-APPLE-RADIUS=500;X-TITLE=2321 Crabtree Blvd #105:geo:-78.6116018,35.8044884
+END:VEVENT
+END:VCALENDAR

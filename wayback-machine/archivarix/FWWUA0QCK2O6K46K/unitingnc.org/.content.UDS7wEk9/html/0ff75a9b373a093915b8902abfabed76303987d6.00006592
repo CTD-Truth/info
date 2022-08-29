@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170415T070000
+DTEND;TZID=America/New_York:20170415T150000
+DTSTAMP:20220531T231644
+CREATED:20170330T134023Z
+LAST-MODIFIED:20170330T134023Z
+UID:2860-1492239600-1492268400@www.unitingnc.org
+SUMMARY:April 15: Sli-Five 5K (Chapel Hill)
+DESCRIPTION:N.C Sli is hosting their first Sli-Five 5K! The 5K’s theme is geared towards action (think a high-five with a twist; Sli-Five) as our students prepare to chase their dreams. N.C. Sli seeks to create pathways to educational\, professional\, and civic engagement opportunities for a new generation of Latinx leaders in North Carolina. \nWe aspire to create stronger\, more equitable communities in North Carolina by building a support network that identifies our students’ strengths\, affirms their identities\, and invests in their leadership. This 5K will aid our senior scholars who participated in our three-year mentoring program\, to pursue their post-secondary dreams. 
+URL:https://www.unitingnc.org/stand-with-us/april-15-sli-five-5k-chapel-hill/
+LOCATION:Old Well\, East Cameron Avenue\, Chapel Hill\, NC\, 27514\, United States
+CATEGORIES:Stand With Us
+GEO:35.9119095;-79.0511633
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Old Well East Cameron Avenue Chapel Hill NC 27514 United States;X-APPLE-RADIUS=500;X-TITLE=East Cameron Avenue:geo:-79.0511633,35.9119095
+END:VEVENT
+END:VCALENDAR

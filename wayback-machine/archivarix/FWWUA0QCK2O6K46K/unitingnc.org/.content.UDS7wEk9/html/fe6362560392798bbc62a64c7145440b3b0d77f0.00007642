@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181024T180000
+DTEND;TZID=America/New_York:20181024T193000
+DTSTAMP:20220601T065812
+CREATED:20181016T184323Z
+LAST-MODIFIED:20181016T184323Z
+UID:4496-1540404000-1540409400@www.unitingnc.org
+SUMMARY:October 24: Roots and Raices #OntheTable (Charlotte)
+DESCRIPTION:Join us #OnTheTable as we explore the relationship between Black and Brown community members through dialogue. It is an opportunity to discuss the circumstances that unite us and the rifts that divide us. \nThe event will take place at the Metropolitan College at Johnson C Smith building number 34
+URL:https://www.unitingnc.org/stand-with-us/october-24-roots-and-raices-onthetable-charlotte/
+LOCATION:Metropolitan College at Johnson C. Smith University\, 100 Beatties Ford Rd\, Charlotte\, North Carolina\, 28216
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/10/44083334_696963264009640_7336359618278326272_n.jpg
+GEO:35.243588;-80.8569359
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Metropolitan College at Johnson C. Smith University 100 Beatties Ford Rd Charlotte North Carolina 28216;X-APPLE-RADIUS=500;X-TITLE=100 Beatties Ford Rd:geo:-80.8569359,35.243588
+END:VEVENT
+END:VCALENDAR

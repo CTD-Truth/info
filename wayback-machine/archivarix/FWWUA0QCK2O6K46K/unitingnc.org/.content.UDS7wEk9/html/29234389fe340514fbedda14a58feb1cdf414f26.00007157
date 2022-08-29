@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180112T180000
+DTEND;TZID=America/New_York:20180112T200000
+DTSTAMP:20220601T032640
+CREATED:20180108T161455Z
+LAST-MODIFIED:20180108T161740Z
+UID:3594-1515780000-1515787200@www.unitingnc.org
+SUMMARY:January 12: Equal Justice for Everyone/ Justicia Igual Para Todos (Charlotte)
+DESCRIPTION:Currently\, the immigration court system is the only court system that does not guarantee legal representation for people. \nCome learn how we can work together to assure legal representation for immigrants in immigration court. \nWe will also discuss other projects that Líderes En Acción is organizing in defense of our families. \n—————————————————————————————————————– \nActualmente\, el sistema de cortes de inmigración es el único sistema de cortes que no garantiza representación legal para personas acusadas. \nVenga a una reunión para hablar sobre como podemos trabajar para asegurar acceso legal para inmigrantes en la corte inmigración. \nTambién hablaremos de otras iniciativas que Líderes En Acción está organizando en defensa de nuestras familias.
+URL:https://www.unitingnc.org/stand-with-us/january-12-equal-justice-everyone-justicia-igual-para-todos-charlotte/
+LOCATION:Action Nc\, Central Ave. (Unit 14) 1817\, Charlotte\, NC\, 28205\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/01/26113837_2181630625196575_687884724519144896_n.jpg
+GEO:35.2206938;-80.8088401
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Action Nc Central Ave. (Unit 14) 1817 Charlotte NC 28205 United States;X-APPLE-RADIUS=500;X-TITLE=Central Ave. (Unit 14) 1817:geo:-80.8088401,35.2206938
+END:VEVENT
+END:VCALENDAR

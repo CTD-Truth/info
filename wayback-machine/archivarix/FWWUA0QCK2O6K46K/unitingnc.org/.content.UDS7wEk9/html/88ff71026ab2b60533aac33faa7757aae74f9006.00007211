@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190712T110000
+DTEND;TZID=America/New_York:20190712T140000
+DTSTAMP:20220531T215145
+CREATED:20190619T164740Z
+LAST-MODIFIED:20190619T164740Z
+UID:5013-1562929200-1562940000@www.unitingnc.org
+SUMMARY:July 12: Seminario "Inicie su negocio paso a paso" (Greenville)
+DESCRIPTION:Aquí usted aprenderá:\n-Recursos y servicios disponibles para pequeños negocios\n-Cuáles son las reglas y requisitos a seguir para abrir un negocio en Carolina del Norte\n-Cómo obtener préstamos para pequeños negocios \nEste taller es totalmente gratis y ofreceremos almuerzo. \nPuede registrarse aquí: https://www.eventbrite.com/e/seminario-inicie-su-negocio-paso-a-paso-tickets-63520526605 \nPara más información: Ldiaz@carolinasmallbusiness.org – 919-267-1738
+URL:https://www.unitingnc.org/stand-with-us/july-12-seminario-inicie-su-negocio-paso-a-paso-greenville/
+LOCATION:AMEXCAN\, 261 Belvoir Hwy\, Greenville\, NC\, 27834
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/06/64546308_2255981804715219_895441797214371840_n.jpg
+GEO:35.6526237;-77.3700812
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=AMEXCAN 261 Belvoir Hwy Greenville NC 27834;X-APPLE-RADIUS=500;X-TITLE=261 Belvoir Hwy:geo:-77.3700812,35.6526237
+END:VEVENT
+END:VCALENDAR

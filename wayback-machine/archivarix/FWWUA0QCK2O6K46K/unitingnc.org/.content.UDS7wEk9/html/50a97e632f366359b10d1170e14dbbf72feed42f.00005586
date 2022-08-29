@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171016T190000
+DTEND;TZID=America/New_York:20171020T210000
+DTSTAMP:20220601T125052
+CREATED:20170921T145312Z
+LAST-MODIFIED:20170921T145312Z
+UID:3378-1508180400-1508533200@www.unitingnc.org
+SUMMARY:October 16\,17\, & 20: Deportation and Forced Migration: The View From Honduras (Raleigh\, Boone\, & Elon)
+DESCRIPTION:Appalachian State\, NCSU\, and Elon are featuring talks from renowned feminist and activist\, Neesa Medina.  Neesa will present a feminist perspective of current events\, and the impact of US policy in Honduras. See below for the schedule of events. \nSince the 2009 military coup in Honduras\, murders and attacks against Honduran human rights defenders have reached alarming levels. The U.S. continues to send tens of millions of dollars in aid to the Honduran police and military who have been involved in human rights abuses. In addition\, the U.S. backs neoliberal projects that lead to displacement and migration. Come and join us at one of our events to learn more! \nHere are the details relating to her three tour stops in North Carolina: \n\nMonday\, October 16th: Boone\, NC: Appalachian State University: 7pm in Belk Library room 114\nTuesday October 17th: Raleigh\, NC: NCSU 7pm in Park Shops room 201\nFriday October 20th: Elon\, NC: Elon University 12:15 pm at Holt Chapel on South Campus\n\n  \nFor more information on Neesa’s amazing work see the below links: \nhttps://nobelwomensinitiative.org/neesa-medina-the-selfie-you-havent-taken/ \nhttps://www.shedoesthecity.com/advancing-women-a-conversation-w-neesa-medina
+URL:https://www.unitingnc.org/stand-with-us/october-1617-20-deportation-forced-migration-view-honduras-raleigh-boone-elon/
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/21558954_1865769186782988_5105117032734871092_n.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171020T100000
+DTEND;TZID=America/New_York:20171022T210000
+DTSTAMP:20220601T125052
+CREATED:20171009T173543Z
+LAST-MODIFIED:20171012T163721Z
+UID:3417-1508493600-1508706000@www.unitingnc.org
+SUMMARY:October 20: International Festival of Raleigh
+DESCRIPTION:Come see why people keep coming back! Save the date: Friday Oct 20- Sunday Oct 22. Learn more at InternationalFestival.org Friday tickets: $5 before 5:00 or $7 SUD – at 5:01 /Saturday- presales $10-$12 – At the door $15./ Sunday- $10 \nCall 919-606-0647 for group tickets and even more discounts! Programs packed with excitement and attractions! \n  \n 
+URL:https://www.unitingnc.org/stand-with-us/october-20-international-festival-raleigh/
+LOCATION:International Focus\, 3700 National Drive Ste 214\, Raleigh\, NC\, 27612\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/10/20637861_2371560609524505_4056326269047043521_n.jpg
+GEO:35.8326145;-78.6659953
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=International Focus 3700 National Drive Ste 214 Raleigh NC 27612 United States;X-APPLE-RADIUS=500;X-TITLE=3700 National Drive Ste 214:geo:-78.6659953,35.8326145
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171020T180000
+DTEND;TZID=America/New_York:20171020T200000
+DTSTAMP:20220601T125052
+CREATED:20171019T140234Z
+LAST-MODIFIED:20171019T140234Z
+UID:3435-1508522400-1508529600@www.unitingnc.org
+SUMMARY:Oct 20: Out of Reach-Screening & Discussion of NC Immigration Issues (Rocky Mount)
+DESCRIPTION:We will screen a film from the America Divided series\, “Out of Reach\,” to be followed by a conversation about immigration issues in North Carolina. Popcorn and drinks will be provided. \nThe event will be held in the Brown Auditorium Conference Center at Nash Community College. Please register at https://bit.ly/CampusConvoBTC. \nFrom the America Divided site: \n“As the fate of some 11 million undocumented immigrants has become the political football of the 2016 campaign\, actress America Ferrera heads to Texas\, the state with the longest border and home to 1.65 million people living without papers. Ferrera\, whose parents and siblings are immigrants from Honduras\, understands the challenges faced by the new arrivals to the U.S. fleeing in Central America. In “Out of Reach\,” she witnesses the special difficulties for Central American refugees in the Rio Grande Valley of Texas\, where US Border Patrol checkpoints inside the US\, many miles from the border\, keep undocumented people hemmed-in and place the American dream out of reach.”
+URL:https://www.unitingnc.org/stand-with-us/oct-20-reach-screening-discussion-nc-immigration-issues-rocky-mount/
+LOCATION:Brown Auditorium Conference Center- Nash Community College\, 522 N. Old Carriage Road\, Rocky Mount\, NC\, 27804\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/10/22310304_10155021059554607_7434878818089414683_n.jpg
+GEO:35.97752;-77.898817
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Brown Auditorium Conference Center- Nash Community College 522 N. Old Carriage Road Rocky Mount NC 27804 United States;X-APPLE-RADIUS=500;X-TITLE=522 N. Old Carriage Road:geo:-77.898817,35.97752
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170918T183000
+DTEND;TZID=America/New_York:20170918T213000
+DTSTAMP:20220601T063204
+CREATED:20170906T164940Z
+LAST-MODIFIED:20170906T164940Z
+UID:3303-1505759400-1505770200@www.unitingnc.org
+SUMMARY:September 18: DACA in Crisis (Chapel Hill)
+DESCRIPTION:The Trump administration has officially rescinded DACA as of 11am Tuesday\, September 5th. Many people are in fear and have a lot of questions. It’s now more important for you all to share this event as we will be having lawyers and community organizers that will provide resources for undocumented people. We have to start mobilizing ourselves in an effective manner in order to get Congress on this. We cannot let the Trump administration use Congress as a scapegoat for destroying so many people’s lives. \nJoin a panel of lawyers\, activists\, and students for a discussion about what happens now\, how to protect our students\, and how to support our undocumented and DACAmented community. More information on panelists to come.
+URL:https://www.unitingnc.org/stand-with-us/september-18-daca-crisis-chapel-hill/
+LOCATION:FedEx Global Education Center\, 301 Pittsboro Street\, Chapel Hill\, NC\, 27516\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/21193020_10212333415203966_1236900765223046346_n.jpg
+GEO:35.9078672;-79.054046
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=FedEx Global Education Center 301 Pittsboro Street Chapel Hill NC 27516 United States;X-APPLE-RADIUS=500;X-TITLE=301 Pittsboro Street:geo:-79.054046,35.9078672
+END:VEVENT
+END:VCALENDAR

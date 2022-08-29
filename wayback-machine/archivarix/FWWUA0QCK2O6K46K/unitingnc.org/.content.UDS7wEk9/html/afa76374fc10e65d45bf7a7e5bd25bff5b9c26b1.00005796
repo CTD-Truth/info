@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180316T190000
+DTEND;TZID=America/New_York:20180316T220000
+DTSTAMP:20220601T115816
+CREATED:20180308T154120Z
+LAST-MODIFIED:20180308T161809Z
+UID:3788-1521226800-1521237600@www.unitingnc.org
+SUMMARY:March 16: Step Into the Spotlight: A Storytelling Event (Raleigh)
+DESCRIPTION:Step into the Spotlight: A Storytelling Event: What is it like to live in a time where your identity and history are held against you? Join El Pueblo leaders as they share their stories and poems to tell you about their experiences about being undocumented\, the impact of the rescission of DACA and TPS\, and living in the current political climate. The event will take place on Friday\, March 16th\, at Wicked Witch\, 416 W. South St\, Raleigh\, NC from 7 pm to 10 pm. We are asking for suggested donation of $3 to support our DC trip. We hope you join us for this meaningful experience. \nA $30 gift card to The Cortez Seafood + Cocktail will be raffled off for those who donate inside.\n————————————————————————————————————————————–\nBrilla en el escenario: un evento de historias: ¿Cómo se siente vivir en un momento en el cual tu identidad y tu historia se usa contra ti? Únete a lxs líderes de El Pueblo mientras comparten sus historias y poemas para contarte sobre sus experiencias de estar como personas indocumentadas\, el impacto de la rescisión de DACA y TPS\, y vivir en el clima político actual. El evento se llevará a cabo el viernes 16 de marzo en Wicked Witch\, 416 W. South St\, Raleigh\, NC desde las 7 pm hasta las 10 pm. Estamos pidiendo una donación sugerida de $3 para apoyar nuestro viaje a Washington DC. Esperamos que te unas a nosotrxs para esta increíble experiencia.
+URL:https://www.unitingnc.org/stand-with-us/march-16-step-spotlight-storytelling-event-raleigh/
+LOCATION:The Wicked Witch\, 416 W. South St.\, Raleigh\, NC\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/03/28577682_1661129733942462_4002806529910653557_n.jpg
+GEO:35.7725352;-78.6461459
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=The Wicked Witch 416 W. South St. Raleigh NC United States;X-APPLE-RADIUS=500;X-TITLE=416 W. South St.:geo:-78.6461459,35.7725352
+END:VEVENT
+END:VCALENDAR

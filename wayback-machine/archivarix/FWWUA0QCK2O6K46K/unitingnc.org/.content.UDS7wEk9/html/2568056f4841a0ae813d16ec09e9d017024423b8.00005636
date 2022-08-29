@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171118T110000
+DTEND;TZID=America/New_York:20171128T160000
+DTSTAMP:20220601T124152
+CREATED:20170831T165537Z
+LAST-MODIFIED:20171127T204428Z
+UID:3264-1511002800-1511884800@www.unitingnc.org
+SUMMARY:November 18: Annual American Indian Heritage Celebration (Raleigh)
+DESCRIPTION:Musicians\, dancers\, artists\, storytellers\, and authors from North Carolina’s eight state-recognized tribes will gather for this popular family event. The event is FREE to the public! \nWith something for all ages\, the celebration is a firsthand opportunity to learn about the state’s American Indian culture\, past and present. Activities include craft demonstrations\, hands-on activities\, games\, foods\, and much more. \nThe event’s official hashtag is #AIHC2017! \nLearn more on our website: https://ncmuseumofhistory.org/AIHC-2017
+URL:https://www.unitingnc.org/stand-with-us/november-18-annual-american-indian-heritage-celebration-raleigh/
+LOCATION:North Carolina Museum of History\, 5 E Edenton St.\, Raleigh\, NC\, 27601\, United States
+GEO:35.7817853;-78.6385561
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=North Carolina Museum of History 5 E Edenton St. Raleigh NC 27601 United States;X-APPLE-RADIUS=500;X-TITLE=5 E Edenton St.:geo:-78.6385561,35.7817853
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171121T100000
+DTEND;TZID=America/New_York:20171121T160000
+DTSTAMP:20220601T124152
+CREATED:20171120T162142Z
+LAST-MODIFIED:20171121T135519Z
+UID:3508-1511258400-1511280000@www.unitingnc.org
+SUMMARY:November 21: Inside Out-Dreamers Truck (Fayetteville)
+DESCRIPTION:The “Inside Out/Dreamers” photobooth trucks are traveling around the country to highlight and uplift DREAMers. On  November 21 they will bring a photobooth truck into  Fayetteville to give everyone an opportunity to take their pictures and transform their personal identity into works of public art. These photos will be instantly printed and included in a series of high visible art installations featuring a group of large-scale black and white portraits\, creating a portrait of America! \nAdditionally\, alongside this installation\, the Emerson Collective will organize media availabilities and group action with community leaders to showcase the art\, bring people together and urge support the Dream Act. \nPlease join us to have your picture taken and learn more about how you can be part of a movement to help our DREAMers. Bring along your family\, friends and co-workers! \nLearn more about Inside Out/Dreamers here – www.insideoutproject.net/dreamers and use the hashtag #IOPDreamers. We’re really excited to be able to join hundreds of groups across America for this important mass action in support of DREAMers.
+URL:https://www.unitingnc.org/stand-with-us/november-21-inside-dreamers-truck-fayetteville/
+LOCATION:229 Hay St.\, 229 Hay St.\, Fayetteville\, NC\, 28301\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/11/home-photobooth.jpg
+GEO:35.0531536;-78.8808791
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=229 Hay St. 229 Hay St. Fayetteville NC 28301 United States;X-APPLE-RADIUS=500;X-TITLE=229 Hay St.:geo:-78.8808791,35.0531536
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171121T113000
+DTEND;TZID=America/New_York:20171121T123000
+DTSTAMP:20220601T124152
+CREATED:20171116T180926Z
+LAST-MODIFIED:20171116T180926Z
+UID:3510-1511263800-1511267400@www.unitingnc.org
+SUMMARY:November 21: Senator Tillis: Pass a Clean Dream Act Now (Raleigh)
+DESCRIPTION:Senator Tillis has sponsored the Succeed Act but it is punitive in many ways\, and there is broad public support to pass the Dream Act. This is what the Dreamers want in order to continue to their lives. Their action at the Senate office building was incredibly moving last week. Several local organizations are joining together to support the beautiful young people who are our future. This is a multigenerational event.
+URL:https://www.unitingnc.org/stand-with-us/november-21-senator-tillis-pass-clean-dream-act-now-raleigh/
+LOCATION:310 Bern Ave.\, 310 Bern Ave.\, Raleigh\, NC\, 27601\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/11/23517849_733035293568595_2073540457967973900_n.jpg
+GEO:35.7799621;-78.633881
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=310 Bern Ave. 310 Bern Ave. Raleigh NC 27601 United States;X-APPLE-RADIUS=500;X-TITLE=310 Bern Ave.:geo:-78.633881,35.7799621
+END:VEVENT
+END:VCALENDAR

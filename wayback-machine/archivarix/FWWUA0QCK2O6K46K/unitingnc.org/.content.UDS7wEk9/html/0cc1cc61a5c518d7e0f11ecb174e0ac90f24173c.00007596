@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171107T190000
+DTEND;TZID=America/New_York:20171107T203000
+DTSTAMP:20220601T020228
+CREATED:20171026T145140Z
+LAST-MODIFIED:20171026T145140Z
+UID:3464-1510081200-1510086600@www.unitingnc.org
+SUMMARY:November 7: Immigration Advocacy Forum with NC Justice Center (Raleigh)
+DESCRIPTION:Advocating for Immigrants and Refugees in Our Community: What Can We Do? \nDani Moore\, Director of the Immigrant and Refugee Rights Project at the NC Justice Center will describe the new realities threatening DREAMERS\, undocumented immigrants and refugees – at the national\, state\, and local levels and the many ways that faith-based volunteers can help. Learn how our Triangle Jewish community can stand with HIAS\, 370 Jewish congregations and over 2000 Rabbis in the US to welcome and protect refugees like our own ancestors (and even some of us).
+URL:https://www.unitingnc.org/stand-with-us/november-7-immigration-advocacy-forum-nc-justice-center-raleigh/
+LOCATION:Beth Meyer Synagogue\, 504 Newton Road\, Raleigh\, NC\, 27615\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/10/22728788_715969715259325_6146055288555216673_n.jpg
+GEO:35.8779092;-78.6391542
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Beth Meyer Synagogue 504 Newton Road Raleigh NC 27615 United States;X-APPLE-RADIUS=500;X-TITLE=504 Newton Road:geo:-78.6391542,35.8779092
+END:VEVENT
+END:VCALENDAR

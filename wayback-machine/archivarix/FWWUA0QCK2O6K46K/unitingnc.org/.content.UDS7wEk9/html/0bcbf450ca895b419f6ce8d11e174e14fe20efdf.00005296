@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170325T090000
+DTEND;TZID=America/New_York:20170325T090000
+DTSTAMP:20220601T135911
+CREATED:20170322T174752Z
+LAST-MODIFIED:20170322T185516Z
+UID:2803-1490432400-1490432400@www.unitingnc.org
+SUMMARY:3/25: Naturalization Workshop (Raleigh)
+DESCRIPTION:Saturday\, March 25. Now is a great time for LPRs (green card holders) to become citizens. The workshop will help eligible legal permanent residents (LPRs) fill out the Naturalization application form (N-400) and Fee Waiver form (I-912). Registration required by calling (888) 839-8682\, or online. More information here.
+URL:https://www.unitingnc.org/stand-with-us/325-naturalization-workshop-raleigh/
+LOCATION:NC Advocates for Justice\, 1312 Annapolis Dr\, Raleigh\, NC\, 27608\, United States
+CATEGORIES:Stand With Us
+GEO:35.8007854;-78.6582083
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=NC Advocates for Justice 1312 Annapolis Dr Raleigh NC 27608 United States;X-APPLE-RADIUS=500;X-TITLE=1312 Annapolis Dr:geo:-78.6582083,35.8007854
+END:VEVENT
+END:VCALENDAR

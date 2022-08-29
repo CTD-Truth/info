@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180916T110000
+DTEND;TZID=America/New_York:20180916T160000
+DTSTAMP:20220601T103642
+CREATED:20180906T132313Z
+LAST-MODIFIED:20180906T132442Z
+UID:4364-1537095600-1537113600@www.unitingnc.org
+SUMMARY:September 16: Hispanic Food Festival (Burlington)
+DESCRIPTION:Come and join us for an exciting afternoon with full of games\, delicious food\, tournaments and lots of fun. There will be food for sale from different Latin countries. We would also have an indoor soccer tournament\, inflatables for the children and many more.things\nIt’s an event that you can’t miss. \n______________________________________________________________________________ \nVen y acompañanos a pasar una tarde divertida con juegos\, deliciosa comida\, torneos y mucha diversión. Tendremos comida para la venta de diferentes países latinos\, rifas\, inflables para los niños\, torneo de fútbol de salón y muchas cosas más. \n¡Es un evento que no te puedes perder!
+URL:https://www.unitingnc.org/stand-with-us/september-16-hispanic-food-festival-burlington/
+LOCATION:Trinity En Espanol\, 3157 S. Church St.\, Burlington\, NC\, 27215\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/09/39665607_2224138701203488_84443721373843456_n.jpg
+GEO:36.0814243;-79.4997513
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Trinity En Espanol 3157 S. Church St. Burlington NC 27215 United States;X-APPLE-RADIUS=500;X-TITLE=3157 S. Church St.:geo:-79.4997513,36.0814243
+END:VEVENT
+END:VCALENDAR

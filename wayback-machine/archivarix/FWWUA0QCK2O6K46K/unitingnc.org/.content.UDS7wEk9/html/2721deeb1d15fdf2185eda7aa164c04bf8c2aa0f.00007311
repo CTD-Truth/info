@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180630T170000
+DTEND;TZID=America/New_York:20180630T200000
+DTSTAMP:20220601T071004
+CREATED:20180621T134449Z
+LAST-MODIFIED:20180621T134530Z
+UID:4155-1530378000-1530388800@www.unitingnc.org
+SUMMARY:June 30: Families Belong Together Greensboro Rally (Greensboro)
+DESCRIPTION:We have witnessed a deep level of moral outrage that has responded to the forcible splitting of families and traumatization of children by agencies of our Government. Remaining silent is not an option. We cannot allow this to continue! Join us on June 30th at 5pm as we rally and we’ll send our powerful message: Families belong together! \nThis event is brought to you by the Greensboro Faith Leaders Council
+URL:https://www.unitingnc.org/stand-with-us/june-30-families-belong-together-greensboro-rally-greensboro/
+LOCATION:Lebauer Park\, 208 N. Davie St.\, Greensboro\, NC\, 27401\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/06/35920402_10156539578959577_991613442186018816_n.jpg
+GEO:36.074256;-79.7888002
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Lebauer Park 208 N. Davie St. Greensboro NC 27401 United States;X-APPLE-RADIUS=500;X-TITLE=208 N. Davie St.:geo:-79.7888002,36.074256
+END:VEVENT
+END:VCALENDAR

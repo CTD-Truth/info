@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171115T183000
+DTEND;TZID=America/New_York:20171115T210000
+DTSTAMP:20220601T124040
+CREATED:20171114T144633Z
+LAST-MODIFIED:20171114T144633Z
+UID:3500-1510770600-1510779600@www.unitingnc.org
+SUMMARY:November 15: Voices for a Stronger Guilford Forum *An Uncertain Path: Finding a Way Forward on Immigration* (Greensboro)
+DESCRIPTION:The News & Record continues the Voices for a Stronger Guilford Forum series with the latest edition: “An Uncertain Path: Finding a way Forward on Immigration” \nEngage in a safe\, civil and informed dialogue grounded in both the personal experiences of our panelists and in objective data.
+URL:https://www.unitingnc.org/stand-with-us/november-15-voices-stronger-guilford-forum-uncertain-path-finding-way-forward-immigration-greensboro/
+LOCATION:Empire Room\, 203 South Elm Street\, Greensboro\, NC\, 27401\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/11/22308671_10155975868668394_7715731422062768171_n.jpg
+GEO:36.0712536;-79.7899789
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Empire Room 203 South Elm Street Greensboro NC 27401 United States;X-APPLE-RADIUS=500;X-TITLE=203 South Elm Street:geo:-79.7899789,36.0712536
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180417T110000
+DTEND;TZID=America/New_York:20180417T120000
+DTSTAMP:20220601T113957
+CREATED:20180416T142450Z
+LAST-MODIFIED:20180416T142450Z
+UID:3907-1523962800-1523966400@www.unitingnc.org
+SUMMARY:April 17:  Welcome Into Sanctuary / Bienvenida a Santuario (Chapel Hill)
+DESCRIPTION:EN ESPAÑOL ABAJO\nOn Tuesday\, Chapel Hill Mennonite Fellowship & Church of Reconciliation will together welcome an undocumented community member into sanctuary\, to support her in avoiding deportation by ICE. Please join the two congregations\, Siembra NC/AFSC and other local organizations in welcoming her. If you can’t be there in person\, we will be livestreaming on Facebook Live at 11am. \nAFSC is supporting people using a congregational sanctuary strategy to avoid deportation through the #SanctuaryEverywhere program\, which links campaigns to reduce the criminalization of Black communities\, defend immigrants & stand with our Muslim neighbors\, among others. \nRead more here:\nhttps://www.afsc.org/sanctuary-profiles\nhttps://www.afsc.org/sanctuaryeverywhere \n—- \nEste martes Chapel Hill Mennonite Fellowship y la Iglesia de la Reconciliación recibirán juntos a un miembro de la comunidad indocumentada “en santuario”\, para ayudarla a evitar la deportación por manos de ICE. Únase a las dos congregaciones\, Siembra NC/AFSC y otras organizaciones locales para darle la bienvenida. Si no puedes estar allí en persona\, estaremos transmitiendo en vivo en Facebook a las 11a.
+URL:https://www.unitingnc.org/stand-with-us/april-17-welcome-into-sanctuary-bienvenida-a-santuario-chapel-hill/
+LOCATION:Church of Reconciliation\, 110 N Eliott Rd\, Chapel Hill\, NC\, 27514\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/04/30707924_2039256439676335_842448603355522628_n.jpg
+GEO:35.9360259;-79.0309834
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Church of Reconciliation 110 N Eliott Rd Chapel Hill NC 27514 United States;X-APPLE-RADIUS=500;X-TITLE=110 N Eliott Rd:geo:-79.0309834,35.9360259
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180417T170000
+DTEND;TZID=America/New_York:20180417T200000
+DTSTAMP:20220601T113957
+CREATED:20180412T141030Z
+LAST-MODIFIED:20180412T144250Z
+UID:3889-1523984400-1523995200@www.unitingnc.org
+SUMMARY:April 17: DACA Week Discussion Groups (Chapel Hill)
+DESCRIPTION:Are you interested in learning more about sanctuary\, DACA\, and/or borderlands? Do you keep hearing politicians talk about building a wall along the border and you don’t know what to make of it? Are any of friends DACA beneficiaries and you want to know more about what that means? Are you an immigrant and looking for a space to talk about your lived experience? \nJoin us for discussion groups on Tuesday\, April 17th. Dinner will be provided. Sign up here: https://goo.gl/forms/JLmaByeE0HyAARoN2 \n5 PM: Sanctuary [Room 3408]\n6 PM: DACA [Room 3509]\n7 PM: Borderlands [Room 3203] \nFOR MORE INFORMATION: undocuments.web.unc.edu/daca-week \nSponsored by Campus Union Activities Board (CUAB)\, Graduate Professional Student Federation (GPSF)\, The LGBT Center\, Latina/o Studies\, Department of Religious Studies\, Sexuality and Gender Alliance (SAGA)\, and the UNC Undocumented Resource Team.
+URL:https://www.unitingnc.org/stand-with-us/april-17th-daca-week-discussion-groups-chapel-hill/
+LOCATION:Carolina Student Union\, 3103 South Rd\, Chapel Hill\, NC\, 27599\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/02/28056676_10155061127695689_5288766057266373218_n.jpg
+GEO:35.9102721;-79.0477239
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Carolina Student Union 3103 South Rd Chapel Hill NC 27599 United States;X-APPLE-RADIUS=500;X-TITLE=3103 South Rd:geo:-79.0477239,35.9102721
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180417T173000
+DTEND;TZID=America/New_York:20180417T200000
+DTSTAMP:20220601T113957
+CREATED:20180402T144057Z
+LAST-MODIFIED:20180416T210427Z
+UID:3857-1523986200-1523995200@www.unitingnc.org
+SUMMARY:April 17: Forbidden: Movie Screening by the DGHI D&I Committee (Durham)
+DESCRIPTION:Forbidden: Undocumented and Queer in Rural America\nA movie and discussion about being undocumented while belonging to the LGBTQ community in America. This documentary focuses on Moises Serrano\, who grew up in rural North Carolina and had to face the challenges of being undocumented and gay. The story will follow his journey\, as he fights for the American Dream! The post-movie discussion will include Deferred Action for Childhood Arrivals (DACA) recipients. We hope to hear their stories\, challenges they face and what we can do to contribute. \nDate: April 17\, 2018 | Time: 5:30 PM | Venue: Duke South Clinic\, Room 3031 \n  \n***Park at the Duke South/Clinics lot. \nhttps://duke.qualtrics.com/jfe/form/SV_cYLE66Tqv9c9Dox
+URL:https://www.unitingnc.org/stand-with-us/april-17-forbidden-movie-screening-by-the-dghi-di-committee-durham/
+LOCATION:Duke South Clinic Room 3031\, 200 Trent Ave.\, Durham\, NC\, 27710\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/04/29572435_10160323538030061_1559398078250220231_n.jpg
+GEO:36.0043423;-78.9359336
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Duke South Clinic Room 3031 200 Trent Ave. Durham NC 27710 United States;X-APPLE-RADIUS=500;X-TITLE=200 Trent Ave.:geo:-78.9359336,36.0043423
+END:VEVENT
+END:VCALENDAR

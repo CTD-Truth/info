@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180224T100000
+DTEND;TZID=America/New_York:20180224T140000
+DTSTAMP:20220601T041655
+CREATED:20180222T152114Z
+LAST-MODIFIED:20180222T152114Z
+UID:3752-1519466400-1519480800@www.unitingnc.org
+SUMMARY:February 24: Legal Clinic for TPS// Clinica Legal para Tepesianos (Charlotte)
+DESCRIPTION:The Legal Support Center of Charlotte invites anyone who needs to renew their TPS to the free workshop where they can also receive legal consultations with an immigration lawyer. It is not necessary to renew to have a consultation with a lawyer. This event will be at 1524 Elizabeth Avenue. Legal help is completely free. For more information call Stefania Arteaga at 704 749 7483 / mayraa@charlottelegaladvocacy.org  \nTo renew they have to bring:  \n1. Work permit  \n2. 2 passport type photos \n3. Money order of $ 495 \n\nEl Centro de Apoyo Legal de Charlotte invita a cualquier persona que necesite renovar su TPS al taller gratuito donde también podrán recibir consultas legales con un abogado de inmigración. No es necesario renovar para tener una consulta con un abogado. \nEste evento será en 1524 Elizabeth Avenue. \nLa ayuda legal es totalmente gratuita. Para más información llamar a Stefania Arteaga al 704 749 7483 / mayraa@charlottelegaladvocacy.org \nPara renovar tienen que traer: \n1. Permiso de trabajo\n2. 2 fotos tipo pasaporte\n3. Money order de $495
+URL:https://www.unitingnc.org/stand-with-us/february-24-legal-clinic-tps-clinica-legal-para-tepesianos-charlotte/
+LOCATION:1524 Elizabeth Ave.\, 1524 Elizabeth Ave.\, Charlotte\, NC\, 28204\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/02/28058488_10155367913077666_8265677169938080276_n.jpg
+GEO:35.2139967;-80.8273768
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=1524 Elizabeth Ave. 1524 Elizabeth Ave. Charlotte NC 28204 United States;X-APPLE-RADIUS=500;X-TITLE=1524 Elizabeth Ave.:geo:-80.8273768,35.2139967
+END:VEVENT
+END:VCALENDAR

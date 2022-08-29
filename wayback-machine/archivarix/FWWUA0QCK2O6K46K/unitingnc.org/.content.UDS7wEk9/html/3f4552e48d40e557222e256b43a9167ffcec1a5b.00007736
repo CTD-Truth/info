@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170909T090000
+DTEND;TZID=America/New_York:20170909T130000
+DTSTAMP:20220601T073246
+CREATED:20170822T210850Z
+LAST-MODIFIED:20170906T195949Z
+UID:3248-1504947600-1504962000@www.unitingnc.org
+SUMMARY:September 9th: Know your rights (Charlotte)
+DESCRIPTION:This is a workshop to learn what your rights are before law enforcement. In addition we will be preforming migratory diagnosis; to know your legal options. You will learn about what you have to say\, what NOT; and how you can exercise  your rights to protect you and your family. \n  \n\nEste es un taller para aprender cuales son tus derechos ante agentes de la ley. Ademas estaremos realizando diagnosticos migratorios; para conocer sus opciones legales.\nAprenderás sobre que tienes que decir\, que NO; y como puedes ejercer tus derechos para protegerte a ti y a tu familia.
+URL:https://www.unitingnc.org/stand-with-us/september-9th-know-rights/
+LOCATION:Central United Methodist Church\, 6030 Albemarie Rd.\, Charlotte\, NC\, 28212\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/08/20915538_10156535707763047_8374802855619258338_n.jpg
+GEO:35.202104;-80.7420642
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Central United Methodist Church 6030 Albemarie Rd. Charlotte NC 28212 United States;X-APPLE-RADIUS=500;X-TITLE=6030 Albemarie Rd.:geo:-80.7420642,35.202104
+END:VEVENT
+END:VCALENDAR

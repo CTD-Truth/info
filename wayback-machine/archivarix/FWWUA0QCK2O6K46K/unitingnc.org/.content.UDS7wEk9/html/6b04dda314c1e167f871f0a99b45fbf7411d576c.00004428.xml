@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Uniting NC</title>
+	<atom:link href="/es/feed/" rel="self" type="application/rss+xml" />
+	<link>https://unitingnc.org</link>
+	<description>Building Community. Welcoming Immigrants. Uniting North Carolina.</description>
+	<lastBuildDate>Tue, 04 Dec 2018 16:28:36 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+
+<image>
+	<url>https://unitingnc.org/wp-content/uploads/2017/02/cropped-favicon-32x32.png</url>
+	<title>Uniting NC</title>
+	<link>https://unitingnc.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<!-- podcast_generator="Blubrry PowerPress/7.3" mode="simple" feedslug="feed" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>With the Uniting NC podcast, you can meet your North Carolina immigrant neighbors one story at a time. &lt;br /&gt;
+&lt;br /&gt;
+At Uniting NC we believe that all people, including immigrants, should have the opportunity to engage and thrive in their communities. Together we all do better. For more information, visit unitingnc.org.</itunes:summary>
+	<itunes:author>Uniting NC</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="/wp-content/uploads/2016/06/Uniting-NC-logo-2013.jpg" />
+	<itunes:owner>
+		<itunes:name>Uniting NC</itunes:name>
+		<itunes:email>dan@unitingnc.org</itunes:email>
+	</itunes:owner>
+	<managingEditor>dan@unitingnc.org (Uniting NC)</managingEditor>
+	<itunes:subtitle>NC Neighbors</itunes:subtitle>
+	<image>
+		<title>Uniting NC</title>
+		<url>http://unitingnc.org/wp-content/uploads/2016/06/Uniting-NC-logo-2013.jpg</url>
+		<link>https://unitingnc.org</link>
+	</image>
+	<itunes:category text="Government &amp; Organizations">
+		<itunes:category text="Non-Profit"></itunes:category>
+	</itunes:category>
+<site xmlns="com-wordpress:feed-additions:1">55944258</site></channel>
+</rss>

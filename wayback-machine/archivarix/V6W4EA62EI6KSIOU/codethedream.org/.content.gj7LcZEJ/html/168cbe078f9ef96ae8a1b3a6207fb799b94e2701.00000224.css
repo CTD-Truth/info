@@ -1,0 +1,41 @@
+/* Enter Your Custom CSS Here */
+
+/*LFK 1/30/20 - styling for mobile homepage view */
+
+
+#custom_html-15 {
+		font-family: Montserrat, sans-serif;
+		text-align: center;
+}
+
+#custom_html-15 h3 {
+	font-size: 30px;
+	text-transform: none;
+	letter-spacing: -1px;
+  line-height: 1;
+  margin-bottom: 5px;
+  font-weight: 900;
+}
+
+@media only screen and (max-width: 779px){
+	#custom_html-15 h3{
+		margin-top:25px;
+	}
+	
+	#custom_html-4 h3 {
+		display: none;
+	}
+	
+	.front-page-2 .flexible-widgets {
+    padding-top: 0px !important;
+		margin-top: -50px;
+	}
+}
+
+@media only screen and (max-width: 480px){
+	.widget_text .cta-button-area-lfk a.button {
+		display: inline-block;
+		}
+}
+
+

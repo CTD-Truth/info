@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+
+<channel>
+	<title>Upcoming Events &#8211; Uniting NC</title>
+	<atom:link href="/stand-with-us/feed/" rel="self" type="application/rss+xml" />
+	<link>https://unitingnc.org</link>
+	<description>Building Community. Welcoming Immigrants. Uniting North Carolina.</description>
+	<lastBuildDate>Sun, 23 Jul 2017 14:43:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+
+<image>
+	<url>https://unitingnc.org/wp-content/uploads/2017/02/cropped-favicon-32x32.png</url>
+	<title>Upcoming Events &#8211; Uniting NC</title>
+	<link>https://unitingnc.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<!-- podcast_generator="Blubrry PowerPress/7.1" mode="simple" feedslug="feed" -->
+	<itunes:summary>With the Uniting NC podcast, you can meet your North Carolina immigrant neighbors one story at a time. &lt;br /&gt;
+&lt;br /&gt;
+At Uniting NC we believe that all people, including immigrants, should have the opportunity to engage and thrive in their communities. Together we all do better. For more information, visit unitingnc.org.</itunes:summary>
+	<itunes:author>Events &#8211; Uniting NC</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="/wp-content/uploads/2016/06/Uniting-NC-logo-2013.jpg" />
+	<itunes:owner>
+		<itunes:name>Events &#8211; Uniting NC</itunes:name>
+		<itunes:email>dan@unitingnc.org</itunes:email>
+	</itunes:owner>
+	<managingEditor>dan@unitingnc.org (Events &#8211; Uniting NC)</managingEditor>
+	<itunes:subtitle>NC Neighbors</itunes:subtitle>
+	<image>
+		<title>Upcoming Events &#8211; Uniting NC</title>
+		<url>http://unitingnc.org/wp-content/uploads/2016/06/Uniting-NC-logo-2013.jpg</url>
+		<link>https://unitingnc.org</link>
+	</image>
+	<itunes:category text="Government &amp; Organizations">
+		<itunes:category text="Non-Profit"></itunes:category>
+	</itunes:category>
+<site xmlns="com-wordpress:feed-additions:1">55944258</site>	<item>
+		<title>August 5: FaithAction Downtown Unity Walk for Immigration Reform</title>
+		<link>https://unitingnc.org/stand-with-us/august-5-faithaction-downtown-unity-walk-immigration-reform/</link>
+		<pubDate>Sat, 05 Aug 2017 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Jocelyn Casanova]]></dc:creator>
+		
+		<guid isPermaLink="false">http://unitingnc.org/?post_type=tribe_events&#038;p=3226</guid>
+		<description><![CDATA[We are living through one of the harshest and concerning times around immigration policy in modern history. Thousands of our newest immigrant and refugee neighbors are at risk, and we will not turn our backs on them. We have come to understand the unique challenges and appreciate the gifts of our newest neighbors, and we [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">3226</post-id>	</item>
+		<item>
+		<title>August 6: A time for Reflection, Revival, Resistance</title>
+		<link>https://unitingnc.org/stand-with-us/august-6-time-reflection-revival-resistance/</link>
+		<pubDate>Sun, 06 Aug 2017 22:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Jocelyn Casanova]]></dc:creator>
+		
+		<guid isPermaLink="false">http://unitingnc.org/?post_type=tribe_events&#038;p=3229</guid>
+		<description><![CDATA[Rev. Dr. William J. Barber, II &#38; Jonathan Wilson-Hartgrove will co-host a monthly program to equip communities with resources for faithful reflection and public action on moral issues. “The Gathering” will include an introduction to a moral issue, immersion in freedom songs that inform how we engage the issue, an interview with someone who is [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">3229</post-id>	</item>
+		<item>
+		<title>August 26: Stand with Women and Families, Women&#8217;s Equality day march</title>
+		<link>https://unitingnc.org/stand-with-us/august-26-stand-women-families-womens-equality-day-march/</link>
+		<pubDate>Sat, 26 Aug 2017 13:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[Jocelyn Casanova]]></dc:creator>
+		
+		<guid isPermaLink="false">http://unitingnc.org/?post_type=tribe_events&#038;p=3233</guid>
+		<description><![CDATA[Join us Saturday, August 26th at the American Tobacco Durham, NC for the Women’s Equality March on Saturday, August 26, 2017, from 10:00 am to 12:30 pm! We will celebrate the victories for equality that women have won and rededicated ourselves to eliminating all discrimination against women. This year’s theme is “Women’s Equality Now!.” Participants [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">3233</post-id>	</item>
+		<item>
+		<title>August 26: Las Americas, A celebration of Indigenous Cultures (Charlotte)</title>
+		<link>https://unitingnc.org/stand-with-us/august-26-las-americas-celebration-indigenous-cultures-charlotte/</link>
+		<pubDate>Sat, 26 Aug 2017 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Grace Martien]]></dc:creator>
+		
+		<guid isPermaLink="false">http://unitingnc.org/?post_type=tribe_events&#038;p=3182</guid>
+		<description><![CDATA[The Latin American Coalition is thrilled to bring you the second annual indigenous cultures celebration LAS AMÉRICAS! Join us as we highlight the history and identity of Latin America through vibrant cultural displays, musical performances, story-telling and poetry. Create crafts with indigenous artists, become part of a lively drum circle, shop your way through a [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">3182</post-id>	</item>
+		<item>
+		<title>August 27: Puerto Rican Festival 2017 Feat. EL GRAN COMBO! At Symphony Park (Charlotte)</title>
+		<link>https://unitingnc.org/stand-with-us/august-27-puerto-rican-festival-2017-feat-el-gran-combo-symphony-park-charlotte/</link>
+		<pubDate>Sun, 27 Aug 2017 16:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Grace Martien]]></dc:creator>
+		
+		<guid isPermaLink="false">http://unitingnc.org/?post_type=tribe_events&#038;p=3184</guid>
+		<description><![CDATA[Puerto Rican Festival 2017 &#8211; Les trae a el Gran Combo de Puerto Rico. $5.00 donation at the door.]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">3184</post-id>	</item>
+		<item>
+		<title>September 16/17: Sanctuary Matters: Testimony and Best Practices</title>
+		<link>https://unitingnc.org/stand-with-us/september-1617-sanctuary-matters-testimony-best-practices/</link>
+		<pubDate>Sat, 16 Sep 2017 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Jocelyn Casanova]]></dc:creator>
+		
+		<guid isPermaLink="false">http://unitingnc.org/?post_type=tribe_events&#038;p=3237</guid>
+		<description><![CDATA[&#160; In light of recent events involving the deportation and fears of our immigrant brothers and sisters throughout the state, the NC Council of Churches’ annual Faith &#38; Immigration Summit will focus on the topic of sanctuary this year. Our families, friends, neighbors and co-workers are terrified about being detained and deported; profiled because of their [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">3237</post-id>	</item>
+		<item>
+		<title>September 24: La Fiesta del Pueblo 2017 (Raleigh)</title>
+		<link>https://unitingnc.org/stand-with-us/september-24-la-fiesta-del-pueblo-2017-raleigh/</link>
+		<pubDate>Sun, 24 Sep 2017 04:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Grace Martien]]></dc:creator>
+		
+		<guid isPermaLink="false">http://unitingnc.org/?post_type=tribe_events&#038;p=3093</guid>
+		<description><![CDATA[La Fiesta del Pueblo is back  on Fayetteville Street for another daylong celebration of Latinx food, music, art and culture on September 24th.  Stay tuned for regular updates on the bands, artists, food vendors and more! / La Fiesta del Pueblo regresa de nuevo a Fayetteville Street para un dia de celebración, información y acción, [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">3093</post-id>	</item>
+	</channel>
+</rss>

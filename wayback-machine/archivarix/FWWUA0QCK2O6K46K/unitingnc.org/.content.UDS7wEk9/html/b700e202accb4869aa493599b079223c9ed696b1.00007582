@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171103T180000
+DTEND;TZID=America/New_York:20171103T210000
+DTSTAMP:20220601T033550
+CREATED:20171019T154327Z
+LAST-MODIFIED:20171019T154833Z
+UID:3449-1509732000-1509742800@www.unitingnc.org
+SUMMARY:November 3: Day of the Dead- Sor Juana Ines De La Cruz (Raleigh)
+DESCRIPTION:Artist Studio Project in collaboration with the COR Museum and M.T. Pope House Museum invite you to participate in a very special Día De Los Muertos Cultural Event. As part of the 3rd Annual El Quixote Festival honoring Sor Juana Ines de La Cruz\, three special female artists will be creating an altar honoring the memory of the women who impacted us\, who we love and we miss dearly and have passed on. We encourage the community to participate by submitting the name of a special person that has inspired them or they would like to honor. We will include their name in the altar.\n—————————————————————————————————————————————–\nArtist Studio Project en colaboración con el Museo COR y M.T. El Museo Pope House le invita a participar en un evento cultural muy especial celebrando El Día De Los Muertos. Como parte del 3º Festival Anual de El Quijote en homenaje a Sor Juana Inés de La Cruz\, tres artistas femeninos especiales estarán creando un altar en honor a la memoria de las mujeres que nos impactaron\, a quienes amamos y extrañamos mucho. Animamos a la comunidad a participar presentando el nombre de una persona especial que los ha inspirado o que les gustaría honrar. Incluiremos su nombre en el altar. \n 
+URL:https://www.unitingnc.org/stand-with-us/november-3-day-dead-sor-juana-ines-de-la-cruz/
+LOCATION:City of Raleigh Museum\, 220 Fayetteville St.\, Raleigh\, NC\, 27601\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/10/21462667_1847360848612699_3193642945014835462_n.jpg
+GEO:35.7776508;-78.6397629
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=City of Raleigh Museum 220 Fayetteville St. Raleigh NC 27601 United States;X-APPLE-RADIUS=500;X-TITLE=220 Fayetteville St.:geo:-78.6397629,35.7776508
+END:VEVENT
+END:VCALENDAR

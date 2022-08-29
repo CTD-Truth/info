@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181018T063000
+DTEND;TZID=America/New_York:20181018T103000
+DTSTAMP:20220531T235514
+CREATED:20181001T200930Z
+LAST-MODIFIED:20181001T200930Z
+UID:4440-1539844200-1539858600@www.unitingnc.org
+SUMMARY:October 18: Standing with José in Charlotte / Acompañando a José en CLT (Greensboro)
+DESCRIPTION:Back in July\, DACA recipient Jose was sent a summons by the Forsyth County Sheriff’s Office. Upon presenting himself to the office as instructed\, sheriff’s deputies showed him to a back room\, and said someone wanted to talk to him on the phone: an ICE agent. Within hours he was in ICE custody\, and spent 10 days in Stewart Detention Center\, even though Forsyth County did not bring any criminal charges against him – his DACA status remains active. Now\, ICE is trying to deport Jose\, even as he is speaking out (and still has DACA)\, and going door-to-door in Winston-Salem to train community members in identifying ICE agents. We won’t let ICE take Jose from us.\nLOCATION – We’re meeting at Congregational UCC in Greensboro to carpool to Charlotte. Separate Winston-Salem carpool spot TBA. \nEN JULIO\, Jose\, quien tiene DACA\, recibió una citación del Sheriff del Condado de Forsyth. Al presentarse en la oficina según las instrucciones\, los ayudantes del sheriff lo llevaron a un cuarto de atrás y le dijeron que alguien quería hablar con él por teléfono: un agente de ICE. En cuestión de horas estuvo bajo la custodia de ICE\, y pasó 10 días en el Centro de Detención Stewart\, a pesar de que el condado de Forsyth no presentó cargos penales contra él; su estado de DACA permanece activo. Ahora\, ICE está tratando de deportar a José\, incluso mientras él se está expresando en voz alta (y todavía tiene DACA)\, y yendo de puerta en puerta en Winston-Salem para capacitar a los miembros de la comunidad para identificar a los agentes de ICE. No permitiremos que ICE nos quita a Jose.\nUBICACIÓN – Nos reuniremos en Congregational UCC en Greensboro para compartir el viaje a Charlotte. Punto de encuentro separado en Winston-Salem para ser definido.
+URL:https://www.unitingnc.org/stand-with-us/october-18-standing-with-jose-in-charlotte-acompanando-a-jose-en-clt-greensboro/
+LOCATION:Congregational United Church of Christ Greensboro\, 400 W Radiance Drive\, Greensboro\, NC\, 27403\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/10/42785579_2163176200617691_7699967817231106048_n.jpg
+GEO:36.077195;-79.815253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Congregational United Church of Christ Greensboro 400 W Radiance Drive Greensboro NC 27403 United States;X-APPLE-RADIUS=500;X-TITLE=400 W Radiance Drive:geo:-79.815253,36.077195
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171213T130000
+DTEND;TZID=America/New_York:20171213T160000
+DTSTAMP:20220601T061905
+CREATED:20171211T212142Z
+LAST-MODIFIED:20171211T212142Z
+UID:3568-1513170000-1513180800@www.unitingnc.org
+SUMMARY:December 13: Sanctuary for Samuel (Durham)
+DESCRIPTION:CityWell United Methodist Church to Receive Undocumented Father\, Husband and Worker into Protective Sanctuary\n(Iglesia Metodista Unida CityWell recibe a Padre\, Esposo y Trabajador Indocumentado en Santuario de Protección)\n___________\nOn Sunday\, December 10\, 2017\, Samuel Oliver-Bruno entered protective sanctuary at CityWell United Methodist Church in Durham\, NC. Samuel is the fifth undocumented immigrant to enter sanctuary in North Carolina. \nJOIN SAMUEL AND US IN SOLIDARITY TO PROCLAIM WE BELIEVE IN A FAR MORE JUST RESOLUTION. \nWHEN: 1pm\, Wednesday\, December 13\, 2017\nWHERE: CityWell United Methodist Church located at 2317 Chapel Hill Rd.\, Durham\, NC 27707\nWHO: Samuel Oliver-Bruno\, his family\, and supporters\nWHAT: Sanctuary welcome ceremony\, campaign launch\, and press conference
+URL:https://www.unitingnc.org/stand-with-us/december-13-sanctuary-samuel-durham/
+LOCATION:The CityWell\, 2317 Chapel Hill Rd.\, Durham\, NC\, 27707\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/12/25289745_1602529353173875_4586095792543748527_n.jpg
+GEO:35.9818339;-78.9313435
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=The CityWell 2317 Chapel Hill Rd. Durham NC 27707 United States;X-APPLE-RADIUS=500;X-TITLE=2317 Chapel Hill Rd.:geo:-78.9313435,35.9818339
+END:VEVENT
+END:VCALENDAR

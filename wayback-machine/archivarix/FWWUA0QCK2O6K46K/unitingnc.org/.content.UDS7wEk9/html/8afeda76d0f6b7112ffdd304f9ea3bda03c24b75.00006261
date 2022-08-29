@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190215T180000
+DTEND;TZID=America/New_York:20190215T200000
+DTSTAMP:20220601T095937
+CREATED:20190214T155709Z
+LAST-MODIFIED:20190214T155709Z
+UID:4739-1550253600-1550260800@www.unitingnc.org
+SUMMARY:February 15: ICE out of NC: Verifier training (Charlotte)
+DESCRIPTION:Espanol abajo: \nComunidad Colectiva is having a training for those who want to assist with rapid response and other mobilizing techniques.\n—\nComunidad Colectiva va a tener un entrenamiento para las personas que quieran asistir respondiendo a las redadas de ICE
+URL:https://www.unitingnc.org/stand-with-us/february-15-ice-out-of-nc-verifier-training-charlotte/
+LOCATION:933 Louise Ave\, 933 Louise Ave\, Charlotte\, NC\, 28204
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/02/51582925_763635724009060_1825153602339995648_n.jpg
+GEO:35.2247073;-80.820737
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=933 Louise Ave 933 Louise Ave Charlotte NC 28204;X-APPLE-RADIUS=500;X-TITLE=933 Louise Ave:geo:-80.820737,35.2247073
+END:VEVENT
+END:VCALENDAR

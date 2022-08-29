@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181118T160000
+DTEND;TZID=America/New_York:20181118T220000
+DTSTAMP:20220601T102412
+CREATED:20181023T175405Z
+LAST-MODIFIED:20181023T182338Z
+UID:4505-1542556800-1542578400@www.unitingnc.org
+SUMMARY:November 18: Here to Stay II: An El Pueblo Benefit (Raleigh)
+DESCRIPTION:Please join us for an afternoon of performances standing in solidarity with the undocumented community. All proceeds will benefit local youth programs at El Pueblo\, Inc. \n“Here to Stay” was created in 2017 as a reaction to Donald Trump rescission of DACA (Deferred Action for Childhood Arrivals). \nThe purpose of DACA is to protect eligible immigrant youth who came to the United States when they were children from deportation. DACA gives young undocumented immigrants: 1) protection from deportation and 2) a work permit. \nDACA recipients are your friends\, your classmates\, your neighbors\, and your co-workers. \nLast year\, we raised $1100 from door donations. \nThis year\, “Here to Stay” returns presented by Red Bull Music with another all day lineup of local musicians to help raise money for El Pueblo Inc.’s youth programs so their youth leaders can continue their work for the undocumented community. \nLINEUP: \nAsa Coaxum\nsl0wgl0w\nAbsent Lovers\nblursome\nSticks and Bricks\nPepe P.\nNige Hood\nAutospkr \n18+ // $10 dollar minimum donation at the door\n17 and under // $5 minimum donation at the door \nThis is an event for ages all ages // Some harsh language and brief nudity \n****** \nAcompáñanos a una tarde llena de actuaciones que apoyan y se mantienen en solidaridad con la comunidad indocumentada. Los fondos recaudados beneficiarán los programas locales de El Pueblo\, Inc. \n“Here to Stay” – “Aqui para Quedarnos” fue creado en el año 2017 como reacción hacia la recesión de DACA (Deffered Action for Childhood Arrivals) por parte de Donald Trump. \nEl propósito de DACA es proteger de deportación a los jóvenes inmigrantes que vinieron a los Estados Unidos de niños. DACA provee a los jóvenes indocumentados: 1) Protección de deportación\, y 2) Un permiso de trabajo. \nLos jóvenes de DACA son tus amigos\, compañeros\, vecinos y familiares. \nEl año pasado\, recaudamos $1\, 100 de donaciones. \nEste año “Here to Stay” regresa con otro evento lleno de músicos locales que ayudarán a recaudar dinero para los programas de los jóvenes dentro de El Pueblo\, Inc\, para que sus líderes continúen su trabajo beneficiando a la comunidad indocumentada. \nArtistas:\nAsa Coaxum\nsl0wgl0w\nAbsent Lovers\nblursome\nSticks and Bricks\nPepe P.\nNice Hood\nAutospkr \n18+ // $10 de donación mínima en la puerta.\nMenores de 17 // $5 de donación mínima en la puerta. \nEste evento es adecuado para todas las edades // Podría contener lenguaje explícito y/o desnudez ligera.
+URL:https://www.unitingnc.org/stand-with-us/november-18-here-to-stay-ii-an-el-pueblo-benefit-raleigh/
+LOCATION:The Wicked Witch\, 416 W. South St.\, Raleigh\, NC\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/10/43392394_472035446622663_5914260487322730496_n.jpg
+GEO:35.7725352;-78.6461459
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=The Wicked Witch 416 W. South St. Raleigh NC United States;X-APPLE-RADIUS=500;X-TITLE=416 W. South St.:geo:-78.6461459,35.7725352
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20170312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20171105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171014T100000
+DTEND;TZID=America/New_York:20171014T180000
+DTSTAMP:20220601T124941
+CREATED:20171009T175041Z
+LAST-MODIFIED:20171009T175041Z
+UID:3421-1507975200-1508004000@www.unitingnc.org
+SUMMARY:October 14: UNC Charlotte International Festival
+DESCRIPTION:The UNC Charlotte International Festival is a celebration of people\, places and culture vibrantly displayed through exhibition booths staffed by UNC Charlotte international students and members of Charlotte’s international community. Art\, crafts\, costumes\, food\, music\, dance\, and games combine to create the experience of traveling the globe in one day. Registration\, volunteer\, and additional details are available online at ifest.uncc.edu. \nParking and entry are free. Service dogs only. The International Festival is for people of all ages.
+URL:https://www.unitingnc.org/stand-with-us/october-14-unc-charlotte-international-festival/
+LOCATION:University of North Carolina at Charlotte–Barnhardt Student Activity Center\, 9201 University City Blvd\, Charlotte\, NC\, 28223\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/10/20621808_10159147848260261_7057035807339562984_n.jpg
+GEO:35.3038103;-80.7299293
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=University of North Carolina at Charlotte–Barnhardt Student Activity Center 9201 University City Blvd Charlotte NC 28223 United States;X-APPLE-RADIUS=500;X-TITLE=9201 University City Blvd:geo:-80.7299293,35.3038103
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171014T120000
+DTEND;TZID=America/New_York:20171014T200000
+DTSTAMP:20220601T124941
+CREATED:20170906T165054Z
+LAST-MODIFIED:20170906T170446Z
+UID:3299-1507982400-1508011200@www.unitingnc.org
+SUMMARY:October 14: 27th Annual Latin American Festival (Charlotte)
+DESCRIPTION:Mingle with thousand culture and music lovers at Charlotte’s signature cultural event\, the Latin American Festival! This year we are celebrating 27 years of music\, food\, and fun. SAVE THE DATE: Saturday October 14\, 2017 at Symphony Park. \nCheck website for more info\, artists line up and ways to participate in the festival!
+URL:https://www.unitingnc.org/stand-with-us/october-14-27th-annual-latin-american-festival-charlotte/
+LOCATION:Symphony Park\, 4400 Sharon Road\, Charlotte\, NC\, 28211\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2017/09/21230995_10156579094458047_7645236596211486638_n.jpg
+GEO:35.1522311;-80.8318968
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Symphony Park 4400 Sharon Road Charlotte NC 28211 United States;X-APPLE-RADIUS=500;X-TITLE=4400 Sharon Road:geo:-80.8318968,35.1522311
+END:VEVENT
+END:VCALENDAR

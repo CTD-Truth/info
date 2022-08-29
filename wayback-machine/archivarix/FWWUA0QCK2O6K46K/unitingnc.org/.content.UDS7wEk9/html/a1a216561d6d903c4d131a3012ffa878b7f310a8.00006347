@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190416T100000
+DTEND;TZID=America/New_York:20190416T120000
+DTSTAMP:20220601T093638
+CREATED:20190403T171327Z
+LAST-MODIFIED:20190403T171327Z
+UID:4899-1555408800-1555416000@www.unitingnc.org
+SUMMARY:April 16: North Carolina Statewide Day of Action to Expand Medicaid (Raleigh)
+DESCRIPTION:Join with advocates across North Carolina for a powerful day of action to close the health care coverage gap! Half a million low-income North Carolinians have been left without access to affordable coverage and our state lawmakers need to take action! \nHere’s what to expect: \n—AT THE NC GENERAL ASSEMBLY—\nMeet at 10am in front of the General Assembly before going in as a group at 10:15 to do a delivery to ALL of our state lawmakers’ offices. (16 W Jones St\, Raleigh\, NC 27601) \n—ACROSS THE STATE—\nTake action at home to show your support for closing the coverage gap. We’ll provide tools and resources you can use to make your voice heard including a call-in line\, social media samples\, a letter to the editor tool\, and more! \n**RSVP to make sure you get everything you need to take action on April 16th! And be sure to invite your friends who live in North Carolina so they can take action\, too!
+URL:https://www.unitingnc.org/stand-with-us/april-16-north-carolina-statewide-day-of-action-to-expand-medicaid-raleigh/
+LOCATION:NC General Assembly\, 16 W Jones St\, Raleigh\, NC\, 27601
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/04/55713747_10155954403546610_3026225018934657024_n.jpg
+GEO:35.7831443;-78.6388985
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=NC General Assembly 16 W Jones St Raleigh NC 27601;X-APPLE-RADIUS=500;X-TITLE=16 W Jones St:geo:-78.6388985,35.7831443
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190416T193000
+DTEND;TZID=America/New_York:20190416T223000
+DTSTAMP:20220601T093638
+CREATED:20190409T170943Z
+LAST-MODIFIED:20190409T170943Z
+UID:4904-1555443000-1555453800@www.unitingnc.org
+SUMMARY:April 16: Selena Movie Party (Raleigh)
+DESCRIPTION:COME PAY TRIBUTE TO THE LEGEND WITH US.\nShe was the “Queen of Tejano Music.” Tom Brokaw called her the “Madonna of Mexico.” But to so many of us\, she was simply called Selena. \nSelena Quintanilla-Perez was an American singer\, songwriter\, spokesperson\, actress\, and fashion designer whose contributions to the music and the fashion industry made her one of the most celebrated Mexican American entertainers of the late 20th Century. Tragically\, Selena was taken from this world far too soon. \nJoin us for a special screening of the 1997 film SELENA\, starring Jennifer Lopez and Edward James Olmos. At this Movie Party celebration\, we’ll provide themed props to use during the film\, including a handy lyric sheet to make it easier to sing along (even if you already know the songs by heart). Also\, don’t forget to arrive early for a custom pre-show completely dedicated to Selena with her music videos and rare\, hard-to-find interviews.
+URL:https://www.unitingnc.org/stand-with-us/april-16-selena-movie-party-raleigh/
+LOCATION:Alamo Drafthouse Raleigh\, 2116-D New Bern Ave.\, Raleigh\, NC\, 27610\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2019/04/54395467_2272940556299373_555405740286672896_n.jpg
+GEO:35.7784677;-78.604908
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Alamo Drafthouse Raleigh 2116-D New Bern Ave. Raleigh NC 27610 United States;X-APPLE-RADIUS=500;X-TITLE=2116-D New Bern Ave.:geo:-78.604908,35.7784677
+END:VEVENT
+END:VCALENDAR

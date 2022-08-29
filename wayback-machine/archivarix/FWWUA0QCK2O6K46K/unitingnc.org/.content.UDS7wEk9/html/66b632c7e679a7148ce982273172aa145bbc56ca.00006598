@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180417T173000
+DTEND;TZID=America/New_York:20180417T200000
+DTSTAMP:20220601T075618
+CREATED:20180402T144057Z
+LAST-MODIFIED:20180416T210427Z
+UID:3857-1523986200-1523995200@www.unitingnc.org
+SUMMARY:April 17: Forbidden: Movie Screening by the DGHI D&I Committee (Durham)
+DESCRIPTION:Forbidden: Undocumented and Queer in Rural America\nA movie and discussion about being undocumented while belonging to the LGBTQ community in America. This documentary focuses on Moises Serrano\, who grew up in rural North Carolina and had to face the challenges of being undocumented and gay. The story will follow his journey\, as he fights for the American Dream! The post-movie discussion will include Deferred Action for Childhood Arrivals (DACA) recipients. We hope to hear their stories\, challenges they face and what we can do to contribute. \nDate: April 17\, 2018 | Time: 5:30 PM | Venue: Duke South Clinic\, Room 3031 \n  \n***Park at the Duke South/Clinics lot. \nhttps://duke.qualtrics.com/jfe/form/SV_cYLE66Tqv9c9Dox
+URL:https://www.unitingnc.org/stand-with-us/april-17-forbidden-movie-screening-by-the-dghi-di-committee-durham/
+LOCATION:Duke South Clinic Room 3031\, 200 Trent Ave.\, Durham\, NC\, 27710\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/04/29572435_10160323538030061_1559398078250220231_n.jpg
+GEO:36.0043423;-78.9359336
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Duke South Clinic Room 3031 200 Trent Ave. Durham NC 27710 United States;X-APPLE-RADIUS=500;X-TITLE=200 Trent Ave.:geo:-78.9359336,36.0043423
+END:VEVENT
+END:VCALENDAR

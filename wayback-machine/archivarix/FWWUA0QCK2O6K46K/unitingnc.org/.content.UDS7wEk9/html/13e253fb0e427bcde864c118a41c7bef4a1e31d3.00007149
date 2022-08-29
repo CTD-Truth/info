@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180203T133000
+DTEND;TZID=America/New_York:20180203T163000
+DTSTAMP:20220531T221320
+CREATED:20180125T164014Z
+LAST-MODIFIED:20180125T164237Z
+UID:3674-1517664600-1517675400@www.unitingnc.org
+SUMMARY:February 3: Know Your Rights & Legal Consultations//  Conoce tus derechos y Consultas legales(China Grove)
+DESCRIPTION:Know your rights before agents of the law. \n————————————————— \nConoce tus derechos ante agentes de la ley.
+URL:https://www.unitingnc.org/stand-with-us/february-3-know-rights-legal-consultations-conoce-tus-derechos-y-consultas-legaleschina-grove/
+LOCATION:South Rowan Public Library\, 920 Kimball Rd.\, China Grove\, NC\, 28023\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/01/22894329_10156781249553047_6518600090595198494_n.jpg
+GEO:35.565406;-80.600987
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=South Rowan Public Library 920 Kimball Rd. China Grove NC 28023 United States;X-APPLE-RADIUS=500;X-TITLE=920 Kimball Rd.:geo:-80.600987,35.565406
+END:VEVENT
+END:VCALENDAR

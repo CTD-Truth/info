@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180119T101500
+DTEND;TZID=America/New_York:20180119T121500
+DTSTAMP:20220531T235213
+CREATED:20180118T182641Z
+LAST-MODIFIED:20180118T182715Z
+UID:3646-1516356900-1516364100@www.unitingnc.org
+SUMMARY:January 19: Welcome Greensboro Community Member to Sanctuary (Greensboro)
+DESCRIPTION:Today\, instead of getting on a plane and leaving his family as he was ordered to do by ICE\, a member of our community will enter protective accompaniment at Congregational UCC. \nJoin with us tomorrow as we show ICE that we will defend tis family from their attacks\, and following a welcoming at the church\, travel to Rep. Ted Budd’s office to deliver petitions demanding that he take a stand for his constituents. (Caravan to 4000 Piedmont Parkway\, Suite 131. High Point\, NC) \n// \nHoy\, en lugar de subirse a un avión y dejar a su familia como lo ordenó ICE\, un miembro de nuestra comunidad ingresará al acompañamiento protector de vivir “en santuario” en la iglesia Congregational UCC. \nÚnase a nosotros y le mostraremos a ICE que defenderemos a la familia de sus ataques\, y después de una bienvenida en la iglesia\, viajaremos a la oficina del representante Ted Budd para entregar peticiones que exijan que tome partido por sus electores. (Jutos vayamos al 4000 Piedmont Parkway\, Suite 131. High Point\, NC)
+URL:https://www.unitingnc.org/stand-with-us/january-19-welcome-greensboro-community-member-sanctuary-greensboro/
+LOCATION:Congregational United Church of Christ Greensboro\, 400 W Radiance Drive\, Greensboro\, NC\, 27403\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/01/26993198_10159894563715582_8828123280973509949_n.jpg
+GEO:36.077195;-79.815253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Congregational United Church of Christ Greensboro 400 W Radiance Drive Greensboro NC 27403 United States;X-APPLE-RADIUS=500;X-TITLE=400 W Radiance Drive:geo:-79.815253,36.077195
+END:VEVENT
+END:VCALENDAR

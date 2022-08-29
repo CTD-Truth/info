@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181102T173000
+DTEND;TZID=America/New_York:20181102T190000
+DTSTAMP:20220601T102258
+CREATED:20181031T143419Z
+LAST-MODIFIED:20181031T143419Z
+UID:4517-1541179800-1541185200@www.unitingnc.org
+SUMMARY:November 2: Meet Ivi and Angel (Charlotte)
+DESCRIPTION:ESPAÑOL MÁS ABAJO \nCome meet Angel Kochev and Ivi Bejtja! Come to hear about Bulgarian and Albanian culture and the amazing organizing work they are doing in their countries.\n—————————————————————\nVenga a conocer a Angel Kochev e Ivi Bejtja! Venga para escuchar sobre las culturas de Bulgaria y Albania y el trabajo comunitario increible que estan haciendo en sus países
+URL:https://www.unitingnc.org/stand-with-us/november-2-meet-ivi-and-angel-charlotte/
+LOCATION:Action Nc\, Central Ave. (Unit 14) 1817\, Charlotte\, NC\, 28205\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/10/45166337_2706182342741398_1335922119694876672_n.jpg
+GEO:35.2206938;-80.8088401
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Action Nc Central Ave. (Unit 14) 1817 Charlotte NC 28205 United States;X-APPLE-RADIUS=500;X-TITLE=Central Ave. (Unit 14) 1817:geo:-80.8088401,35.2206938
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Uniting NC - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uniting NC
+X-ORIGINAL-URL:https://www.unitingnc.org
+X-WR-CALDESC:Events for Uniting NC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180123T113000
+DTEND;TZID=America/New_York:20180123T123000
+DTSTAMP:20220601T122108
+CREATED:20180122T150251Z
+LAST-MODIFIED:20180122T150327Z
+UID:3657-1516707000-1516710600@www.unitingnc.org
+SUMMARY:January 23: Clean Dream Act Now and Stop Deportation  (Raleigh)
+DESCRIPTION:The federal government has shut down because Trump ended DACA and now most Democrats and some Republicans refuse to vote for a budget which does not renew DACA. This is not a partisan issue. 80% of Americans want it to be renewed. Republicans (and Trump) are characterizing the DREAMers as “illegal immigrants” and are blaming the shutdown on the Democrats even though there is a bipartisan solution that McConnell refuses to bring to the floor.\nDACA is the great moral issue of our time. Last Tuesday\, we were once again deeply moved by the young DREAMERS who came to speak and march and sing with us. We want to continue to mobilize support for a clean Dream act and let Senator Tillis know how much we care about this. There is urgency now because 122 young people every day lose their citizenship protection which means they lose their ability to work or plan for their future. Meanwhile\, over 350 of them serve in the armed forces. Please join us and stand with these beautiful young people who are our future. If you can’t join us this week\, come any week\, same time and same place\, to let Senator Tillis know that his votes in the Senate do not represent you.\n“#cleandreamactnow #heretostay
+URL:https://www.unitingnc.org/stand-with-us/january-23-clean-dream-act-now-stop-deportation-raleigh/
+LOCATION:310 Bern Ave.\, 310 Bern Ave.\, Raleigh\, NC\, 27601\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.unitingnc.org/wp-content/uploads/2018/01/26731105_762434817295309_5671347615372107166_n.jpg
+GEO:35.7799621;-78.633881
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=310 Bern Ave. 310 Bern Ave. Raleigh NC 27601 United States;X-APPLE-RADIUS=500;X-TITLE=310 Bern Ave.:geo:-78.633881,35.7799621
+END:VEVENT
+END:VCALENDAR
