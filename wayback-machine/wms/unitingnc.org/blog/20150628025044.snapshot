@@ -1,0 +1,265 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" prefix="og: http://ogp.me/ns#">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Blog - Uniting NC</title><meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<style type="text/css">
+			#genesis-slider, #slides, .genesis-slider-wrap { height: 400px; width: 870px; }
+			.slide-excerpt { width: 500px; }
+			.slide-excerpt { bottom: 0; }
+			.slide-excerpt { right: 0; }
+			div.slider-next, div.slider-previous { top: 170px; }
+		</style>
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.unitingnc.org/blog/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:locale:alternate" content="es_ES" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Blog - Uniting NC" />
+<meta property="og:url" content="http://www.unitingnc.org/blog/" />
+<meta property="og:site_name" content="Uniting NC" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.unitingnc.org\/home\/","name":"Uniting NC"}</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Uniting NC &raquo; Feed" href="http://www.unitingnc.org/en/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Uniting NC &raquo; Comments Feed" href="http://www.unitingnc.org/en/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.unitingnc.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<style type="text/css">.cc_style_3 { width:100%; background-color: #ffffff; text-align:center; margin:0 auto; } .cc_style_3 * { font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; } .cc_style_3 .cc_widget_title { font-weight: bold; font-family:Arial; font-size:16px; color:#006699; display:block; padding-bottom:.2em; } .cc_style_3 form { margin-bottom:3px; } .cc_style_3 .cc_label_email { font-weight: normal; font-family:Arial; font-size:10px; color:#000000; } .cc_style_3 .cc_input_email { font-size:10pt; border:1px solid #999999; font-size:10px; border:1px solid #999999; color: #666666; } .cc_style_3 .cc_submit { font-size:10px; } .cc_safesubscribe { padding-top:5px; } .cc_email_marketing { font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999; } .cc_email_marketing a { text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999; } .cc_widget_container .cc_preface p { margin:0.25em 0; padding:0; } .cc_widget_container .cc_input_email { max-width:95%; } .cc_widget_container .cc_email_image { float:right; margin-right:5px; margin-top:3px; display:block; padding:0; overflow:hidden; } .cc_widget_container .cc_email_image img { background-color: #006699; float:right; } .cc_widget_container .cc_email_image img { border:0; padding:0; margin:0; }</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://www.unitingnc.org/wp-includes/css/dashicons.min.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.unitingnc.org/wp-includes/js/thickbox/thickbox.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='metro-theme-css'  href='http://www.unitingnc.org/wp-content/themes/metro/style.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.unitingnc.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ecwid-css-css'  href='http://www.unitingnc.org/wp-content/plugins/ecwid-shopping-cart/css/frontend.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='collapseomatic-css-css'  href='http://www.unitingnc.org/wp-content/plugins/jquery-collapse-o-matic/light_style.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-css'  href='http://fonts.googleapis.com/css?family=Oswald%3A400&#038;ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-extender-minified-css'  href='http://www.unitingnc.org/wp-content/uploads/genesis-extender/plugin/genesis-extender-minified.css?ver=1403711732' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.unitingnc.org/wp-content/plugins/jetpack/css/jetpack.css?ver=3.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='GrandomI-css'  href='http://www.unitingnc.org/wp-content/plugins/grou-random-image-widget/g-random-img.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slider_styles-css'  href='http://www.unitingnc.org/wp-content/plugins/genesis-slider/style.css?ver=0.9.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.unitingnc.org/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.unitingnc.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.unitingnc.org/wp-content/themes/metro/js/backstretch.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BackStretchImg = {"src":"http:\/\/www.unitingnc.org\/wp-content\/uploads\/2015\/03\/background-blue-sky-green-field-H\u00e5kan-Dahlstr\u00f6m.jpg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.unitingnc.org/wp-content/themes/metro/js/backstretch-set.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.unitingnc.org/wp-content/plugins/grou-random-image-widget/gr.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.unitingnc.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.unitingnc.org/wp-includes/wlwmanifest.xml" /> 
+<script type="text/javascript" src="http://www.unitingnc.org/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.6"></script>
+<script type="text/javascript">AudioPlayer.setup("http://www.unitingnc.org/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.6", {width:"290",animation:"no",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"E5E5E5",text:"333333",leftbg:"CCCCCC",lefticon:"333333",volslider:"666666",voltrack:"FFFFFF",rightbg:"B4B4B4",rightbghover:"999999",righticon:"333333",righticonhover:"FFFFFF",track:"FFFFFF",loader:"009900",border:"CCCCCC",tracker:"DDDDDD",skip:"666666",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
+<link rel="dns-prefetch" href="//images-cdn.ecwid.com/">
+<link rel="dns-prefetch" href="//images.ecwid.com/">
+<link rel="dns-prefetch" href="//app.ecwid.com/">
+<link rel="prefetch" href="http://www.unitingnc.org/store/" />
+<link rel="prerender" href="http://www.unitingnc.org/store/" />
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<link rel="Shortcut Icon" href="http://www.unitingnc.org/wp-content/themes/metro/images/favicon.ico" type="image/x-icon" />
+<link rel="pingback" href="http://www.unitingnc.org/xmlrpc.php" />
+<style type="text/css">#header { background: url(http://www.unitingnc.org/wp-content/uploads/2013/10/uniting-nc-test-header03.jpg) no-repeat !important; }</style>
+<link rel="alternate" href="http://www.unitingnc.org/inicio/" hreflang="es" />
+<link rel="alternate" href="http://www.unitingnc.org/blog/" hreflang="en" />
+			<link rel="stylesheet" id="custom-css-css" type="text/css" href="http://www.unitingnc.org/?custom-css=1&#038;csblog=1&#038;cscache=6&#038;csrev=42" />
+			</head>
+<body class="blog custom-background custom-header content-sidebar metro-red unknown-os unknown-browser override"><div id="subnav"><div class="wrap"><ul id="menu-secondary" class="menu genesis-nav-menu menu-secondary js-superfish"><li id="menu-item-1866" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1866"><a title="Building a Nation of Neighbors" target="_blank" href="http://www.welcomingamerica.org/">Welcoming America Network</a></li>
+<li id="menu-item-1877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1877"><a href="http://www.unitingnc.org/store/">T-Shirts</a></li>
+<li id="menu-item-1865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1865"><a href="http://www.unitingnc.org/contact/">Contact Us</a></li>
+<li id="menu-item-2151-es" class="lang-item lang-item-7 lang-item-es menu-item menu-item-type-custom menu-item-object-custom menu-item-2151-es"><a href="http://www.unitingnc.org/inicio/" hreflang="es">Español</a></li>
+</ul></div></div><div id="wrap"><div id="header"><div class="wrap"><div id="title-area"><h1 id="title"><a href="http://www.unitingnc.org/home/">Uniting NC</a></h1></div><div class="widget-area header-widget-area"><div id="text-9" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><em>Building Community. Welcoming Immigrants. Uniting North Carolina.</em></div>
+		</div></div>
+</div></div></div><div id="nav"><div class="wrap"><ul id="menu-main" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-1500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1500"><a href="http://www.unitingnc.org/home/">Home</a></li>
+<li id="menu-item-1503" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5 current_page_item current_page_parent menu-item-1503"><a href="http://www.unitingnc.org/blog/">Blog</a></li>
+<li id="menu-item-1502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1502"><a href="http://www.unitingnc.org/about/">About</a></li>
+<li id="menu-item-2022" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2022"><a href="#">Programs</a>
+<ul class="sub-menu">
+	<li id="menu-item-1873" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1873"><a title="Pareja de Aprendizaje y Liderazgo | Learning &amp; Leading Partners" href="http://www.unitingnc.org/pal/">PAL Program / Schools</a></li>
+	<li id="menu-item-1872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1872"><a href="http://www.unitingnc.org/programs/community-engagement/">Community Engagement</a></li>
+	<li id="menu-item-2074" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2074"><a href="http://www.unitingnc.org/welcoming-congregations/">Welcoming Congregations</a></li>
+</ul>
+</li>
+<li id="menu-item-1963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1963"><a href="http://www.unitingnc.org/welcoming-cities/">Welcoming Cities</a>
+<ul class="sub-menu">
+	<li id="menu-item-2239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2239"><a href="http://www.unitingnc.org/welcoming-cities/greensboro/">Greensboro</a></li>
+	<li id="menu-item-2240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2240"><a href="http://www.unitingnc.org/welcoming-cities/raleigh/">Raleigh</a></li>
+</ul>
+</li>
+<li id="menu-item-1501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1501"><a href="http://www.unitingnc.org/stories/">NC Stories</a>
+<ul class="sub-menu">
+	<li id="menu-item-2274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2274"><a href="http://www.unitingnc.org/stories/">Videos</a></li>
+	<li id="menu-item-2273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2273"><a href="http://www.unitingnc.org/stories/billboards/">Billboards</a></li>
+	<li id="menu-item-2272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2272"><a href="http://www.unitingnc.org/stories/radio/">Radio</a></li>
+</ul>
+</li>
+<li id="menu-item-1874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1874"><a href="http://www.unitingnc.org/press/">Press</a></li>
+<li id="menu-item-1876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1876"><a href="http://www.unitingnc.org/businesscircle/">Business Circle</a></li>
+<li id="menu-item-1939" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1939"><a href="http://www.unitingnc.org/donate/">Donate Now</a></li>
+</ul></div></div><div id="inner"><div id="content-sidebar-wrap"><div id="content" class="hfeed"><div class="post-2376 post type-post status-publish format-standard hentry category-uncategorized-en entry"><h2 class="entry-title"><a href="http://www.unitingnc.org/2015/02/one/" rel="bookmark">We Are All One</a></h2> 
+<div class="post-info"><span class="date published time" title="2015-02-14T08:44:40+00:00">February 14, 2015</span>  By <span class="author vcard"><span class="fn"><a href="http://www.unitingnc.org/en/author/francisco/" rel="author">Francisco Chavez</a></span></span> <span class="post-comments"><a href="http://www.unitingnc.org/2015/02/one/#respond">Leave a Comment</a></span> </div><div class="entry-content"><p>As we grieve for the devastating loss of three young people from our community, and all the joy they had brought their families, friends and classmates, and all their dreams and potential, can we find solace in knowing that we are not alone? The solidarity in honoring their memory has been remarkable. Thousands from all walks of life, [&hellip;]</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.unitingnc.org/category/uncategorized-en/" rel="category tag">Uncategorized</a></span> </div></div><div class="post-2368 post type-post status-publish format-standard hentry category-uncategorized-en entry"><h2 class="entry-title"><a href="http://www.unitingnc.org/2014/11/apply-now-code-dreams-january-class-raleigh/" rel="bookmark">Apply now for Code the Dream&#8217;s January class in Raleigh</a></h2> 
+<div class="post-info"><span class="date published time" title="2014-11-21T07:20:43+00:00">November 21, 2014</span>  By <span class="author vcard"><span class="fn"><a href="http://www.unitingnc.org/en/author/dan/" rel="author">Dan Rearick</a></span></span> <span class="post-comments"><a href="http://www.unitingnc.org/2014/11/apply-now-code-dreams-january-class-raleigh/#respond">Leave a Comment</a></span> </div><div class="entry-content"><a href="http://www.unitingnc.org/2014/11/apply-now-code-dreams-january-class-raleigh/" title="Apply now for Code the Dream&#8217;s January class in Raleigh"><img width="300" height="150" src="http://www.unitingnc.org/wp-content/uploads/2014/12/dc08454397ae4c9098d6d2d64b0ebcb5-300x150.jpg" class="alignleft post-image entry-image" alt="The American Underground&#039;s Raleigh offices" itemprop="image" /></a><p>Our next one-month beginner coding class in January will be hosted at the American Underground in downtown Raleigh. Interested? Get more information and apply here! The one-month course is designed to take students from no experience to coding their first app. In addition, students have the chance to learn from mentors and meet entrepreneurs who [&hellip;]</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.unitingnc.org/category/uncategorized-en/" rel="category tag">Uncategorized</a></span> </div></div><div class="post-2347 post type-post status-publish format-standard hentry category-uncategorized-en entry"><h2 class="entry-title"><a href="http://www.unitingnc.org/2014/10/code-dream-students-show-just-talented/" rel="bookmark">Code the Dream students show just how talented they are!</a></h2> 
+<div class="post-info"><span class="date published time" title="2014-10-28T17:47:18+00:00">October 28, 2014</span>  By <span class="author vcard"><span class="fn"><a href="http://www.unitingnc.org/en/author/dan/" rel="author">Dan Rearick</a></span></span> <span class="post-comments"><a href="http://www.unitingnc.org/2014/10/code-dream-students-show-just-talented/#respond">Leave a Comment</a></span> </div><div class="entry-content"><a href="http://www.unitingnc.org/2014/10/code-dream-students-show-just-talented/" title="Code the Dream students show just how talented they are!"><img width="300" height="200" src="http://www.unitingnc.org/wp-content/uploads/2014/11/Coding_group_withYeva-300x200.jpg" class="alignleft post-image entry-image" alt="Code the Dream meeting at the American Underground" itemprop="image" /></a><p>Our first group of Code the Dream students have worked incredibly hard &#8212; both in the classroom and putting what they are learning into practice on their own &#8212; and exceeded everyone&#8217;s expectations. From having little or no programing experience, all have now coded their first apps! The entire team of students and mentors have been amazing [&hellip;]</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.unitingnc.org/category/uncategorized-en/" rel="category tag">Uncategorized</a></span> </div></div><div class="post-2338 post type-post status-publish format-standard hentry category-uncategorized-en entry"><h2 class="entry-title"><a href="http://www.unitingnc.org/2014/10/code-dream/" rel="bookmark">Code the Dream</a></h2> 
+<div class="post-info"><span class="date published time" title="2014-10-10T17:01:56+00:00">October 10, 2014</span>  By <span class="author vcard"><span class="fn"><a href="http://www.unitingnc.org/en/author/dan/" rel="author">Dan Rearick</a></span></span> <span class="post-comments"><a href="http://www.unitingnc.org/2014/10/code-dream/#respond">Leave a Comment</a></span> </div><div class="entry-content"><a href="http://www.unitingnc.org/2014/10/code-dream/" title="Code the Dream"><img width="300" height="103" src="http://www.unitingnc.org/wp-content/uploads/2014/11/Code-the-Dream-header-300x103.png" class="alignleft post-image entry-image" alt="Image of Code the Dream program" itemprop="image" /></a><p>This fall we started a new program called Code the Dream. Let me tell you why we did, and why it is so exciting. The Challenge Tech startups now embody the American Dream. Young people dream of getting a job with Google or starting the next Twitter. The creativity and entrepreneurial spirit behind these new [&hellip;]</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.unitingnc.org/category/uncategorized-en/" rel="category tag">Uncategorized</a></span> </div></div><div class="post-2311 post type-post status-publish format-standard hentry category-uncategorized-en entry"><h2 class="entry-title"><a href="http://www.unitingnc.org/2014/09/uniting-nc-co-sponsors-nc-immigrant-integration-summit/" rel="bookmark">Uniting NC co-sponsors NC Immigrant Integration Summit</a></h2> 
+<div class="post-info"><span class="date published time" title="2014-09-22T12:47:19+00:00">September 22, 2014</span>  By <span class="author vcard"><span class="fn"><a href="http://www.unitingnc.org/en/author/dan/" rel="author">Dan Rearick</a></span></span> <span class="post-comments"><a href="http://www.unitingnc.org/2014/09/uniting-nc-co-sponsors-nc-immigrant-integration-summit/#respond">Leave a Comment</a></span> </div><div class="entry-content"><a href="http://www.unitingnc.org/2014/09/uniting-nc-co-sponsors-nc-immigrant-integration-summit/" title="Uniting NC co-sponsors NC Immigrant Integration Summit"><img width="232" height="300" src="http://www.unitingnc.org/wp-content/uploads/2014/09/BIC-Integration-Summit-232x300.png" class="alignleft post-image entry-image" alt="NC Immigrant Integration Summit details" itemprop="image" /></a><p>Last week more than 50 city and community leaders from around the state came gathered in Chapel Hill to learn how their cities could better support recent immigrants and refugees, and benefit from all they have to offer. We were proud to co-sponsor this day-long summit with the Building Integrated Communities initiative of the UNC Latino [&hellip;]</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.unitingnc.org/category/uncategorized-en/" rel="category tag">Uncategorized</a></span> </div></div><div class="post-2296 post type-post status-publish format-standard hentry category-uncategorized-en entry"><h2 class="entry-title"><a href="http://www.unitingnc.org/2014/09/second-annual-welcoming-week-kicks/" rel="bookmark">Second annual Welcoming Week kicks off!</a></h2> 
+<div class="post-info"><span class="date published time" title="2014-09-14T11:39:22+00:00">September 14, 2014</span>  By <span class="author vcard"><span class="fn"><a href="http://www.unitingnc.org/en/author/dan/" rel="author">Dan Rearick</a></span></span> <span class="post-comments"><a href="http://www.unitingnc.org/2014/09/second-annual-welcoming-week-kicks/#respond">Leave a Comment</a></span> </div><div class="entry-content"><a href="http://www.unitingnc.org/2014/09/second-annual-welcoming-week-kicks/" title="Second annual Welcoming Week kicks off!"><img width="210" height="300" src="http://www.unitingnc.org/wp-content/uploads/2014/09/Aaron-Villanueva-210x300.jpg" class="alignleft post-image entry-image" alt="Nine-year-old Aaron is congratulated by his much larger teammates for scoring the first of his two goals at Saturday&#039;s Welcoming Week soccer and picnic event. Aaron&#039;s family settled in Durham from Argentina." itemprop="image" /></a><p>&nbsp; Thanks to everyone who came out yesterday for our picnic and international soccer game to &#8216;kick off&#8217; national Welcoming Week with CWS-Durham! We had dozens of smiling participants again this year from at least 13 countries! Special thanks to Soccer.com and the Passback program, who donated cleats and equipment for the recent refugees, which they loved! [&hellip;]</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.unitingnc.org/category/uncategorized-en/" rel="category tag">Uncategorized</a></span> </div></div><div class="post-2276 post type-post status-publish format-standard hentry category-uncategorized-en entry"><h2 class="entry-title"><a href="http://www.unitingnc.org/2014/07/2276/" rel="bookmark">Uniting NC in D.C. for meetings with White House and U.S. Chamber</a></h2> 
+<div class="post-info"><span class="date published time" title="2014-07-16T20:27:58+00:00">July 16, 2014</span>  By <span class="author vcard"><span class="fn"><a href="http://www.unitingnc.org/en/author/dan/" rel="author">Dan Rearick</a></span></span> <span class="post-comments"><a href="http://www.unitingnc.org/2014/07/2276/#respond">Leave a Comment</a></span> </div><div class="entry-content"><a href="http://www.unitingnc.org/2014/07/2276/" title="Uniting NC in D.C. for meetings with White House and U.S. Chamber"><img width="300" height="178" src="http://www.unitingnc.org/wp-content/uploads/2014/07/Dan-and-Al-at-White-House-convening-July-16-2014-300x178.jpg" class="alignleft post-image entry-image" alt="Dan Rearick with High Point Human Relations Director Al Heggins at White House convening" itemprop="image" /></a><p>While inaction on immigration reform divides Washington, D.C., over 60 U.S. communities, from New York and Los Angeles to Charlotte, Raleigh, Greensboro and High Point, have begun taking steps to actively support and include their immigrant communities. They recognize that most recent immigrants are here to stay and want to engage with their communities. They have also seen how [&hellip;]</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.unitingnc.org/category/uncategorized-en/" rel="category tag">Uncategorized</a></span> </div></div><div class="post-2203 post type-post status-publish format-standard hentry category-uncategorized-en entry"><h2 class="entry-title"><a href="http://www.unitingnc.org/2014/06/welcoming-greensboro-report-outlines-path-success/" rel="bookmark">Welcoming Greensboro report outlines path to success</a></h2> 
+<div class="post-info"><span class="date published time" title="2014-06-19T15:32:03+00:00">June 19, 2014</span>  By <span class="author vcard"><span class="fn"><a href="http://www.unitingnc.org/en/author/dan/" rel="author">Dan Rearick</a></span></span> <span class="post-comments"><a href="http://www.unitingnc.org/2014/06/welcoming-greensboro-report-outlines-path-success/#respond">Leave a Comment</a></span> </div><div class="entry-content"><a href="http://www.unitingnc.org/2014/06/welcoming-greensboro-report-outlines-path-success/" title="Welcoming Greensboro report outlines path to success"><img width="300" height="225" src="http://www.unitingnc.org/wp-content/uploads/2014/06/Welcoming-Greensboro-press-conference-300x225.jpg" class="alignleft post-image entry-image" alt="Welcoming Greensboro press conference" itemprop="image" /></a><p>Earlier today Uniting NC joined with the American Friends Service Committee and diverse community partners to release a 50-page report on the Welcoming Greensboro Initiative. The report follows the City Council’s unanimous passage on April 14, 2014 of a resolution declaring Greensboro a Welcoming City to immigrants and refugees and details the challenges faced by the city’s [&hellip;]</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.unitingnc.org/category/uncategorized-en/" rel="category tag">Uncategorized</a></span> </div></div><div class="post-2188 post type-post status-publish format-standard hentry category-uncategorized-en entry"><h2 class="entry-title"><a href="http://www.unitingnc.org/2014/05/raleigh-becomes-ncs-fourth-welcoming-city/" rel="bookmark">Raleigh becomes NC&#8217;s fourth Welcoming City</a></h2> 
+<div class="post-info"><span class="date published time" title="2014-05-25T20:57:50+00:00">May 25, 2014</span>  By <span class="author vcard"><span class="fn"><a href="http://www.unitingnc.org/en/author/dan/" rel="author">Dan Rearick</a></span></span> <span class="post-comments"><a href="http://www.unitingnc.org/2014/05/raleigh-becomes-ncs-fourth-welcoming-city/#respond">Leave a Comment</a></span> </div><div class="entry-content"><a href="http://www.unitingnc.org/2014/05/raleigh-becomes-ncs-fourth-welcoming-city/" title="Raleigh becomes NC&#8217;s fourth Welcoming City"><img width="300" height="199" src="http://www.unitingnc.org/wp-content/uploads/2014/06/Mercedes-and-Raleigh-Mayor-Nancy-McFarlane-300x199.jpg" class="alignleft post-image entry-image" alt="Raleigh Mayor Nancy McFarlane issues a proclaims Raleigh&#039;s commitment to welcoming and support immigrant residents." itemprop="image" /></a><p>Last July, Uniting NC made a presentation to the Raleigh Human Relations Commission asking the city to recognize and support the contributions of new immigrants to our community. Yesterday Raleigh officially became a Welcoming City, and we look forward to continuing to work with the city and our partners at Welcoming America to make it an even [&hellip;]</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.unitingnc.org/category/uncategorized-en/" rel="category tag">Uncategorized</a></span> </div></div><div class="post-2170 post type-post status-publish format-standard hentry category-uncategorized-en entry"><h2 class="entry-title"><a href="http://www.unitingnc.org/2014/05/uniting-nc-builds-habitat-humanity/" rel="bookmark">Uniting NC builds with Habitat for Humanity</a></h2> 
+<div class="post-info"><span class="date published time" title="2014-05-06T15:50:51+00:00">May 6, 2014</span>  By <span class="author vcard"><span class="fn"><a href="http://www.unitingnc.org/en/author/dan/" rel="author">Dan Rearick</a></span></span> <span class="post-comments"><a href="http://www.unitingnc.org/2014/05/uniting-nc-builds-habitat-humanity/#respond">Leave a Comment</a></span> </div><div class="entry-content"><a href="http://www.unitingnc.org/2014/05/uniting-nc-builds-habitat-humanity/" title="Uniting NC builds with Habitat for Humanity"><img width="300" height="225" src="http://www.unitingnc.org/wp-content/uploads/2014/06/10275510_874909022524406_8032135446499595028_o-300x225.jpg" class="alignleft post-image entry-image" alt="Nelson at Habitat" itemprop="image" /></a><p>On Saturday Uniting NC brought together a group of recent immigrants and longtime residents for a day-long Habitat for Humanity build. Our team worked all over the house, from the attic to the crawl space, and got more done than we&#8217;d ever seen in a single day of Habitat. Impressed Habitat staff and volunteers from other [&hellip;]</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.unitingnc.org/category/uncategorized-en/" rel="category tag">Uncategorized</a></span> </div></div><div class="post-2133 post type-post status-publish format-standard hentry category-uncategorized-en entry"><h2 class="entry-title"><a href="http://www.unitingnc.org/2014/05/new-studies-identify-surprising-surefire-way-boost-economy/" rel="bookmark">New studies identify a surprising but surefire way to boost the economy</a></h2> 
+<div class="post-info"><span class="date published time" title="2014-05-01T03:19:57+00:00">May 1, 2014</span>  By <span class="author vcard"><span class="fn"><a href="http://www.unitingnc.org/en/author/dan/" rel="author">Dan Rearick</a></span></span> <span class="post-comments"><a href="http://www.unitingnc.org/2014/05/new-studies-identify-surprising-surefire-way-boost-economy/#respond">Leave a Comment</a></span> </div><div class="entry-content"><a href="http://www.unitingnc.org/2014/05/new-studies-identify-surprising-surefire-way-boost-economy/" title="New studies identify a surprising but surefire way to boost the economy"><img width="300" height="202" src="http://www.unitingnc.org/wp-content/uploads/2014/05/Diverse-America-300x202.jpg" class="alignleft post-image entry-image" alt="Diverse America" itemprop="image" /></a><p>Economists have known for years that cities with more immigrants have more jobs and lower unemployment. But why is that? Is it causation or just correlation? Do immigrants just move to the jobs, or do immigrants actually create new jobs for everyone? A recent study answered that question, and found that new immigrants play an [&hellip;]</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.unitingnc.org/category/uncategorized-en/" rel="category tag">Uncategorized</a></span> </div></div><div class="post-2179 post type-post status-publish format-standard hentry category-uncategorized-en entry"><h2 class="entry-title"><a href="http://www.unitingnc.org/2014/04/2179/" rel="bookmark">Greensboro passes &#8216;Welcoming&#8217; resolution</a></h2> 
+<div class="post-info"><span class="date published time" title="2014-04-25T11:27:05+00:00">April 25, 2014</span>  By <span class="author vcard"><span class="fn"><a href="http://www.unitingnc.org/en/author/dan/" rel="author">Dan Rearick</a></span></span> <span class="post-comments"><a href="http://www.unitingnc.org/2014/04/2179/#respond">Leave a Comment</a></span> </div><div class="entry-content"><a href="http://www.unitingnc.org/2014/04/2179/" title="Greensboro passes &#8216;Welcoming&#8217; resolution"><img width="300" height="225" src="http://www.unitingnc.org/wp-content/uploads/2014/06/Welcoming-Greensboro-group-shot-4-15-14-300x225.jpg" class="alignleft post-image entry-image" alt="Welcoming Greensboro Committee" itemprop="image" /></a><p>Last week Uniting NC joined with a wonderful team of partners to ask the Greensboro City Council to adopt our resolution to make Greensboro a welcoming city, one that recognizes how much immigrants and refugees already bring to Greensboro and supports their efforts to make a better life for their families. We&#8217;re proud to say the City [&hellip;]</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.unitingnc.org/category/uncategorized-en/" rel="category tag">Uncategorized</a></span> </div></div><div class="post-2156 post type-post status-publish format-standard hentry category-uncategorized-en entry"><h2 class="entry-title"><a href="http://www.unitingnc.org/2014/04/immigrant-entrepreneurs-tell-stories/" rel="bookmark">Immigrant entrepreneurs tell their stories</a></h2> 
+<div class="post-info"><span class="date published time" title="2014-04-18T12:40:43+00:00">April 18, 2014</span>  By <span class="author vcard"><span class="fn"><a href="http://www.unitingnc.org/en/author/dan/" rel="author">Dan Rearick</a></span></span> <span class="post-comments"><a href="http://www.unitingnc.org/2014/04/immigrant-entrepreneurs-tell-stories/#respond">Leave a Comment</a></span> </div><div class="entry-content"><a href="http://www.unitingnc.org/2014/04/immigrant-entrepreneurs-tell-stories/" title="Immigrant entrepreneurs tell their stories"><img width="300" height="168" src="http://www.unitingnc.org/wp-content/uploads/2014/06/Captain-J-poster-300x168.jpg" class="alignleft post-image entry-image" alt="Captain J poster" itemprop="image" /></a><p>This school year we worked with a great group of students at Raleigh Charter High School. As part of a year-long project, the students interviewed three talented local immigrant entrepreneurs to learn their stories. Not only did the students do the interviews, they also shot and edited the video. The students also created these great posters. [&hellip;]</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.unitingnc.org/category/uncategorized-en/" rel="category tag">Uncategorized</a></span> </div></div><div class="post-2081 post type-post status-publish format-standard hentry category-uncategorized entry"><h2 class="entry-title"><a href="http://www.unitingnc.org/2014/03/10000-watched/" rel="bookmark">Over 10,000 have watched it!</a></h2> 
+<div class="post-info"><span class="date published time" title="2014-03-07T11:22:05+00:00">March 7, 2014</span>  By <span class="author vcard"><span class="fn"><a href="http://www.unitingnc.org/en/author/dan/" rel="author">Dan Rearick</a></span></span> <span class="post-comments"><a href="http://www.unitingnc.org/2014/03/10000-watched/#respond">Leave a Comment</a></span> </div><div class="entry-content"><p>&nbsp;</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.unitingnc.org/category/uncategorized/" rel="category tag">Uncategorized</a></span> </div></div><div class="post-2059 post type-post status-publish format-standard hentry category-uncategorized entry"><h2 class="entry-title"><a href="http://www.unitingnc.org/2014/02/2059/" rel="bookmark">Immigrant Church Feeds Families in Need</a></h2> 
+<div class="post-info"><span class="date published time" title="2014-02-19T11:09:28+00:00">February 19, 2014</span>  By <span class="author vcard"><span class="fn"><a href="http://www.unitingnc.org/en/author/dan/" rel="author">Dan Rearick</a></span></span> <span class="post-comments"><a href="http://www.unitingnc.org/2014/02/2059/#respond">Leave a Comment</a></span> </div><div class="entry-content"><p>A small Spanish-speaking immigrant church in North Carolina is doing all they can to make life better for everyone around them. Every week members of the church, many struggling to get by themselves, come out to cook a hot meal and distribute groceries to local families in need. In the process, they&#8217;ve created a beautiful [&hellip;]</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.unitingnc.org/category/uncategorized/" rel="category tag">Uncategorized</a></span> </div></div><div class="navigation"><div class="pagination-next alignright"><a href="http://www.unitingnc.org/blog/page/2/" >Next Page&#x000BB;</a></div></div></div><div id="sidebar" class="sidebar widget-area"><div id="text-11" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle"><span class="widget-headline">Sign Up</span></h4>
+			<div class="textwidget">To show your support and get (few) update emails.</div>
+		</div></div>
+<div id="constantcontactwidget-2" class="widget constantcontact"><div class="widget-wrap">
+	<div class="cc_widget_container cc_style_3"><form name="ccoptin" action="http://visitor.constantcontact.com/d.jsp" target="_blank" method="post" onsubmit="if (this.ea.value == 'example@subscribe.com' || this.ea.value == '') { alert('Please enter your email.'); return false;}">
+				<label for="ea" class="cc_widget_title"></label>
+				<div class="cc_preface"></div>
+				<input type="text" id="ea" name="ea" size="20" value="example@subscribe.com" onfocus="if (this.value == 'example@subscribe.com') {this.value = '';}" onblur="if (this.value == '') {this.value = 'example@subscribe.com';}"  class="cc_input_email" />
+				<input type="submit" id="go"  id="go" name="go" value="Subscribe" class="submit cc_submit">
+				<input type="hidden" id="m" name="m" value="1103350875774" />
+				<input type="hidden" id="p" name="p" value="oi" />
+				</form></div><div align="center" class="cc_safesubscribe"><a href="http://conta.cc/safe-subscribe" id="cc_safesubscribe" rel="nofollow"><img src="http://www.unitingnc.org/wp-content/plugins/constant-contact-signup-form-widget/images/safesubscribe-light.gif" width="168" height="14" alt="SafeSubscribe with Constant Contact"  style="border:0;padding:0; margin:0;" /></a></div>
+	</div></div>
+<div id="text-7" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle"><span class="widget-headline">Connect With Us</span></h4>
+			<div class="textwidget"><p>Uniting NC works to make North Carolina a place in which all people, including immigrants, have the opportunity to thrive and to engage in their communities. Together we all do better.</p>
+<p><a class="social-buttons" href="https://www.facebook.com/UnitingNC">Facebook</a><a class="social-buttons" href="http://www.youtube.com/user/UnitingNC?feature=mhum">YouTube</a><a class="social-buttons last" href="http://www.unitingnc.org/feed/">RSS</a></p>
+</div>
+		</div></div>
+<div id="search-3" class="widget widget_search"><div class="widget-wrap"><form method="get" class="searchform search-form" action="http://www.unitingnc.org/en/" role="search" ><input type="text" value="Search this website&#x2026;" name="s" class="s search-input" onfocus="if (&#039;Search this website&#x2026;&#039; === this.value) {this.value = &#039;&#039;;}" onblur="if (&#039;&#039; === this.value) {this.value = &#039;Search this website&#x2026;&#039;;}" /><input type="submit" class="searchsubmit search-submit" value="Search" /></form></div></div>
+<div id="text-15" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle"><span class="widget-headline">Share Your Story</span></h4>
+			<div class="textwidget"><p>We're always looking to share great stories that involve new North Carolinians. Do you have something positive to say?<br/><br/><br />
+<a href="http://www.unitingnc.org/submit-guest-articles/" class="clb-button">Submit a Guest Blog Article</a></p>
+</div>
+		</div></div>
+</div></div></div></div><div id="footer-widgets" class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area">		<div id="recent-posts-4" class="widget widget_recent_entries"><div class="widget-wrap">		<h4 class="widget-title widgettitle"><span class="widget-headline">Recent Articles</span></h4>
+		<ul>
+					<li>
+				<a href="http://www.unitingnc.org/2015/02/one/">We Are All One</a>
+						</li>
+					<li>
+				<a href="http://www.unitingnc.org/2014/11/apply-now-code-dreams-january-class-raleigh/">Apply now for Code the Dream&#8217;s January class in Raleigh</a>
+						</li>
+					<li>
+				<a href="http://www.unitingnc.org/2014/10/code-dream-students-show-just-talented/">Code the Dream students show just how talented they are!</a>
+						</li>
+					<li>
+				<a href="http://www.unitingnc.org/2014/10/code-dream/">Code the Dream</a>
+						</li>
+					<li>
+				<a href="http://www.unitingnc.org/2014/09/uniting-nc-co-sponsors-nc-immigrant-integration-summit/">Uniting NC co-sponsors NC Immigrant Integration Summit</a>
+						</li>
+				</ul>
+		</div></div>
+</div><div class="footer-widgets-2 widget-area"><div id="text-12" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle"><span class="widget-headline">Featured Story</span></h4>
+			<div class="textwidget"><iframe width="335" height="251" src="//www.youtube.com/embed/nSutv7qwjBs?rel=0" frameborder="0" allowfullscreen></iframe></div>
+		</div></div>
+</div><div class="footer-widgets-3 widget-area"><div id="widget_grandomimg-3" class="widget widget_grandomImg"><div class="widget-wrap"><h4 class="widget-title widgettitle"><span class="widget-headline">Business Circle Partners</span></h4>
+		
+		
+<script  type="text/javascript"> 
+function loadit_widget_grandomimg_3() 
+{
+	griwSetup("http://www.unitingnc.org", "http://www.unitingnc.org/wp-content/plugins/grou-random-image-widget");
+griwAddImage("widget_grandomimg-3", 330,260,"/wp-content/plugins/grou-random-image-widget/example",1,10,null,10,'FFFFFF&amp;r=4','http://www.unitingnc.org/businesscircle/',0,1,3,1);}
+
+addLoadEvent(loadit_widget_grandomimg_3); 
+</script>
+		<div class="Grou_image" id="widget_grandomimg-3frm" style='padding:0; width: 330;'			
+			 align="left">		
+			<div style="position:absolute; z-index:4; " id="widget_grandomimg-3img1d" >
+							<a id="widget_grandomimg-3link1" 
+				 href='http://www.unitingnc.org/businesscircle/' title="These local businesses support Uniting NC"  >
+							<img class='Grou_image' alt="wait"   id="widget_grandomimg-3img1" style=" opacity: 100; display: block;position:relative;" 
+					src="http://www.unitingnc.org/wp-content/plugins/grou-random-image-widget/img/loading.gif" /> 				
+			</a>			
+			</div>	
+			<div style="position:absolute; z-index:3; " id="widget_grandomimg-3img2d">
+							<a id="widget_grandomimg-3link2" 
+			     href='http://www.unitingnc.org/businesscircle/' title='These local businesses support Uniting NC' >
+								
+				<img class='Grou_image'  alt="wait"   id="widget_grandomimg-3img2" style=" opacity: 100;display: block;position:relative;"  
+					src="http://www.unitingnc.org/wp-content/plugins/grou-random-image-widget/img/loading.gif" />  
+				
+				</a>		
+			</div>		
+		</div>
+		
+				 </div></div>
+</div></div></div><div id="footer" class="footer"><div class="wrap"><div class="gototop"><p><a href="#wrap" rel="nofollow">Return to top of page</a></p></div><div class="creds"><p>Copyright &#x000A9;&nbsp;2015 Uniting NC · Website by <a href="http://www.tomatillodesign.com/" title="Beautiful, Affordable Websites for Nonprofits">Tomatillo Design</a></p></div></div></div><script type='text/javascript'>
+var colomatduration = 'fast';
+var colomatslideEffect = 'slideFade';
+</script>	<div style="display:none">
+	</div>
+<script type='text/javascript'>jQuery(document).ready(function($) {$(".myController").jFlow({controller: ".jFlowControl",slideWrapper : "#jFlowSlider",slides: "#slides",selectedWrapper: "jFlowSelected",width: "870px",height: "400px",timer: 4000,duration: 800,loop: 1,effect: "right",prev: ".slider-previous",next: ".slider-next",auto: true});});</script>
+<!-- Constant Contact Widget by Katz Web Services, Inc. | http://www.seodenver.com/constant-contact-wordpress-widget/ -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.unitingnc.org\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.unitingnc.org/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.unitingnc.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.unitingnc.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.unitingnc.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.unitingnc.org/wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.5.14'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201526'></script>
+<script type='text/javascript' src='http://www.unitingnc.org/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.4'></script>
+<script type='text/javascript' src='http://www.unitingnc.org/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://www.unitingnc.org/wp-content/themes/genesis/lib/js/menu/superfish.compat.min.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://www.unitingnc.org/wp-content/plugins/genesis-slider/js/jflow.plus.js?ver=0.9.6'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201526.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'55944258',post:'5',tz:'-4',srv:'www.unitingnc.org'} ]);
+	_stq.push([ 'clickTrackerInit', '55944258', '5' ]);
+</script>
+</body>
+</html>

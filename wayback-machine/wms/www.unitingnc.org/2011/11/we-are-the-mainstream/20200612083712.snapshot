@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head >
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<script>window._wca = window._wca || [];</script>
+
+		<style type="text/css">
+			#genesis-slider, #slides, .genesis-slider-wrap { height: 400px; width: 870px; }
+			.slide-excerpt { width: 500px; }
+			.slide-excerpt { bottom: 0; }
+			.slide-excerpt { right: 0; }
+			div.slider-next, div.slider-previous { top: 170px; }
+		</style>
+	<!-- This site is optimized with the Yoast SEO plugin v14.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>We are the mainstream - Uniting NC</title>
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.unitingnc.org/2011/11/we-are-the-mainstream/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="We are the mainstream - Uniting NC" />
+	<meta property="og:description" content="Did you know that Uniting NC is part of a national movement? We are one of 19 state affiliates of the umbrella organization Welcoming America. We are a network of groups across the country — from California to Nebraska to Texas to Rhode Island to Alabama — that are working to build communities that respect [&hellip;]" />
+	<meta property="og:url" content="https://www.unitingnc.org/2011/11/we-are-the-mainstream/" />
+	<meta property="og:site_name" content="Uniting NC" />
+	<meta property="article:published_time" content="2011-11-03T19:36:17+00:00" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.unitingnc.org/home/#website","url":"https://www.unitingnc.org/home/","name":"Uniting NC","description":"Building Community. Welcoming Immigrants. Uniting North Carolina.","potentialAction":[{"@type":"SearchAction","target":"https://www.unitingnc.org/home/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.unitingnc.org/2011/11/we-are-the-mainstream/#webpage","url":"https://www.unitingnc.org/2011/11/we-are-the-mainstream/","name":"We are the mainstream - Uniting NC","isPartOf":{"@id":"https://www.unitingnc.org/home/#website"},"datePublished":"2011-11-03T19:36:17+00:00","dateModified":"2011-11-03T19:36:17+00:00","author":{"@id":"https://www.unitingnc.org/home/#/schema/person/965d1306c8f00da3c0176ed713f65236"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.unitingnc.org/2011/11/we-are-the-mainstream/"]}]},{"@type":["Person"],"@id":"https://www.unitingnc.org/home/#/schema/person/965d1306c8f00da3c0176ed713f65236","name":"Kristin"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="text/calendar" title="Uniting NC &raquo; iCal Feed" href="https://www.unitingnc.org/stand-with-us/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.unitingnc.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<style type="text/css">.cc_style_3 { width:100%; background-color: #ffffff; text-align:center; margin:0 auto; } .cc_style_3 * { font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; } .cc_style_3 .cc_widget_title { font-weight: bold; font-family:Arial; font-size:16px; color:#006699; display:block; padding-bottom:.2em; } .cc_style_3 form { margin-bottom:3px; } .cc_style_3 .cc_label_email { font-weight: normal; font-family:Arial; font-size:10px; color:#000000; } .cc_style_3 .cc_input_email { font-size:10pt; border:1px solid #999999; font-size:10px; border:1px solid #999999; color: #666666; } .cc_style_3 .cc_submit { font-size:10px; } .cc_safesubscribe { padding-top:5px; } .cc_email_marketing { font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999; } .cc_email_marketing a { text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999; } .cc_widget_container .cc_preface p { margin:0.25em 0; padding:0; } .cc_widget_container .cc_input_email { max-width:95%; } .cc_widget_container .cc_email_image { float:right; margin-right:5px; margin-top:3px; display:block; padding:0; overflow:hidden; } .cc_widget_container .cc_email_image img { background-color: #006699; float:right; } .cc_widget_container .cc_email_image img { border:0; padding:0; margin:0; }</style>
+<link rel='stylesheet' id='tribe-common-skeleton-style-css'  href='https://www.unitingnc.org/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.12.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-tooltip-css'  href='https://www.unitingnc.org/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.12.3' type='text/css' media='all' />
+<link rel='stylesheet' id='metro-pro-css'  href='https://www.unitingnc.org/wp-content/themes/metro-pro/style.css?ver=2.2.1' type='text/css' media='all' />
+<style id='metro-pro-inline-css' type='text/css'>
+
+
+		a,
+		.entry-content a,
+		.entry-title a:focus,
+		.entry-title a:hover,
+		.genesis-nav-menu > .right > a:focus,
+		.genesis-nav-menu > .right > a:hover {
+			color: #d63f2c;
+		}
+		
+
+		a.social-buttons:focus,
+		a.social-buttons:hover,
+		button:focus,
+		button:hover,
+		input:focus[type="button"],
+		input:focus[type="reset"],
+		input:focus[type="submit"],
+		input:hover[type="button"],
+		input:hover[type="reset"],
+		input:hover[type="submit"],
+		.archive-pagination li a:focus,
+		.archive-pagination li a:hover,
+		.archive-pagination li.active a,
+		.button:focus,
+		.button:hover,
+		.content .entry-meta .entry-comments-link a,
+		.entry-content .button:focus,
+		.entry-content .button:hover,
+		.genesis-nav-menu .current-menu-item > a,
+		.genesis-nav-menu a:focus,
+		.genesis-nav-menu a:hover,
+		.nav-primary .sub-menu a:focus,
+		.nav-primary .sub-menu a:hover,
+		.nav-secondary .sub-menu a:focus,
+		.nav-secondary .sub-menu a:hover,
+		.sidebar .enews-widget input[type="submit"],
+		.site-title a,
+		.site-title a:focus,
+		.site-title a:hover {
+			background-color: #d63f2c;
+			color: #ffffff;
+		}
+
+		
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.unitingnc.org/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='wc-block-style-css'  href='https://www.unitingnc.org/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.5.11' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.unitingnc.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://www.unitingnc.org/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.9.2' type='text/css' media='all' />
+<style id='woocommerce-layout-inline-css' type='text/css'>
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://www.unitingnc.org/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.9.2' type='text/css' media='only screen and (max-width: 1023px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://www.unitingnc.org/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='metro-woocommerce-styles-css'  href='https://www.unitingnc.org/wp-content/themes/metro-pro/lib/woocommerce/metro-woocommerce.css?ver=2.2.1' type='text/css' media='screen' />
+<style id='metro-woocommerce-styles-inline-css' type='text/css'>
+
+
+		.woocommerce div.product p.price,
+		.woocommerce div.product span.price,
+		.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover,
+		.woocommerce div.product .woocommerce-tabs ul.tabs li a:focus,
+		.woocommerce ul.products li.product h3:hover,
+		.woocommerce ul.products li.product .price,
+		.woocommerce .woocommerce-breadcrumb a:hover,
+		.woocommerce .woocommerce-breadcrumb a:focus,
+		.woocommerce .widget_layered_nav ul li.chosen a::before,
+		.woocommerce .widget_layered_nav_filters ul li a::before,
+		.woocommerce .widget_rating_filter ul li.chosen a::before {
+			color: #d63f2c;
+		}
+
+	
+
+		.woocommerce-error::before,
+		.woocommerce-info::before,
+		.woocommerce-message::before {
+			color: #d63f2c;
+		}
+
+		.woocommerce a.button:hover,
+		.woocommerce a.button:focus,
+		.woocommerce a.button.alt:hover,
+		.woocommerce a.button.alt:focus,
+		.woocommerce button.button:hover,
+		.woocommerce button.button:focus,
+		.woocommerce button.button.alt:hover,
+		.woocommerce button.button.alt:focus,
+		.woocommerce input.button:hover,
+		.woocommerce input.button:focus,
+		.woocommerce input.button.alt:hover,
+		.woocommerce input.button.alt:focus,
+		.woocommerce input[type="submit"]:hover,
+		.woocommerce input[type="submit"]:focus,
+		.woocommerce span.onsale,
+		.woocommerce #respond input#submit:hover,
+		.woocommerce #respond input#submit:focus,
+		.woocommerce #respond input#submit.alt:hover,
+		.woocommerce #respond input#submit.alt:focus,
+		.woocommerce.widget_price_filter .ui-slider .ui-slider-handle,
+		.woocommerce.widget_price_filter .ui-slider .ui-slider-range {
+			background-color: #d63f2c;
+			color: #ffffff;
+		}
+
+		.woocommerce-error,
+		.woocommerce-info,
+		.woocommerce-message {
+			border-top-color: #d63f2c;
+		}
+
+	
+</style>
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='albdesign-wc-donation-frontend-css'  href='https://www.unitingnc.org/wp-content/plugins/woocommerce_donations_on_cart/assets/css/frontend.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.unitingnc.org/wp-includes/css/dashicons.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-css'  href='//fonts.googleapis.com/css?family=Oswald%3A400&#038;ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-extender-minified-css'  href='//www.unitingnc.org/wp-content/uploads/genesis-extender/plugin/genesis-extender-minified.css?ver=1567610928' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://www.unitingnc.org/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slider_styles-css'  href='https://www.unitingnc.org/wp-content/plugins/genesis-slider/style.css?ver=0.9.6' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.unitingnc.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script async defer type='text/javascript' src='https://www.unitingnc.org/wp-content/plugins/jetpack/https://stats.wp.com/s-202024.js'></script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-content/themes/metro-pro/js/backstretch.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BackStretchImg = {"src":"\/\/www.unitingnc.org\/wp-content\/uploads\/2016\/09\/background-blue-sky-green-field-Ha\u030akan-Dahlstro\u0308m.jpg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-content/themes/metro-pro/js/backstretch-set.js?ver=1.0.0'></script>
+<link rel='https://api.w.org/' href='https://www.unitingnc.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.unitingnc.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.unitingnc.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://wp.me/p3MJEK-lD' />
+<link rel="alternate" type="application/json+oembed" href="https://www.unitingnc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unitingnc.org%2F2011%2F11%2Fwe-are-the-mainstream%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.unitingnc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unitingnc.org%2F2011%2F11%2Fwe-are-the-mainstream%2F&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.unitingnc.org"><link rel="https://theeventscalendar.com/" href="https://www.unitingnc.org/wp-json/tribe/events/v1/" />
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel="pingback" href="https://www.unitingnc.org/xmlrpc.php" />
+<script src="https://use.fontawesome.com/8f8e929385.js"></script>
+
+<!-- Global site tag (gtag.js) - Google AdWords: 803821566 --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-803821566"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-803821566');
+gtag('config', 'UA-119997963-2');
+</script><style type="text/css">.site-title a { background: url(https://www.unitingnc.org/wp-content/uploads/2017/02/cropped-header.jpg) no-repeat !important; }</style>
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://www.unitingnc.org/wp-content/uploads/2017/02/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.unitingnc.org/wp-content/uploads/2017/02/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.unitingnc.org/wp-content/uploads/2017/02/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.unitingnc.org/wp-content/uploads/2017/02/cropped-favicon-270x270.png" />
+			<link rel="stylesheet" type="text/css" id="wp-custom-css" href="https://www.unitingnc.org/?custom-css=674fe2a0ff" />
+		</head>
+<body class="post-template-default single single-post postid-1341 single-format-standard theme-genesis woocommerce-no-js tribe-no-js custom-header header-image full-width-content genesis-breadcrumbs-hidden genesis-footer-widgets-visible unknown-os unknown-browser override"><div class="site-container"><ul class="genesis-skip-link"><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to main content</a></li><li><a href="#genesis-footer-widgets" class="screen-reader-shortcut"> Skip to footer</a></li></ul><nav class="nav-secondary" aria-label="Secondary"><div class="wrap"><ul id="menu-secondary" class="menu genesis-nav-menu menu-secondary js-superfish"><li id="menu-item-2151-es" class="lang-item lang-item-7 lang-item-es no-translation lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-2151-es"><a href="https://www.unitingnc.org/inicio/" hreflang="es-ES" lang="es-ES"><span >Español</span></a></li>
+<li id="menu-item-1865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1865"><a href="https://www.unitingnc.org/contact/"><span >Contact Us</span></a></li>
+<li id="menu-item-2749" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2749"><a target="_blank" rel="noopener noreferrer" href="http://visitor.r20.constantcontact.com/d.jsp?llr=5trmnsdab&#038;p=oi&#038;m=1103350875774&#038;sit=7qywepbfb&#038;f=8783b785-3faa-42fd-b7be-839114cbd722"><span >Subscribe</span></a></li>
+<li id="menu-item-2897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2897"><a href="https://www.unitingnc.org/press/"><span >Press</span></a></li>
+<li id="menu-item-2898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2898"><a href="https://www.unitingnc.org/businesscircle/"><span >Business Circle</span></a></li>
+<li id="menu-item-2665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2665"><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/UnitingNC"><span ><i class="fa fa-facebook-official fa-lg" aria-hidden="true"></i></span></a></li>
+<li id="menu-item-2667" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2667"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/unitingnc"><span ><i class="fa fa-twitter-square fa-lg" aria-hidden="true"></i></span></a></li>
+<li id="menu-item-2666" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2666"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/UnitingNC?feature=mhum"><span ><i class="fa fa-youtube-square fa-lg" aria-hidden="true"></i></span></a></li>
+</ul></div></nav><div class="site-container-wrap"><header class="site-header"><div class="wrap"><div class="title-area"><p class="site-title"><a href="https://www.unitingnc.org/home/">Uniting NC</a></p><p class="site-description">Building Community. Welcoming Immigrants. Uniting North Carolina.</p></div><div class="widget-area header-widget-area"><section id="nav_menu-3" class="widget widget_nav_menu"><div class="widget-wrap"><nav class="nav-header"><ul id="menu-main" class="menu genesis-nav-menu js-superfish"><li id="menu-item-1502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1502"><a href="https://www.unitingnc.org/about/"><span >About</span></a></li>
+<li id="menu-item-2413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2413"><a href="https://www.unitingnc.org/code-the-dream/"><span >Code the Dream</span></a></li>
+<li id="menu-item-2896" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2896"><a href="https://www.unitingnc.org/stand-with-us/"><span >Stand With Us</span></a></li>
+<li id="menu-item-1501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1501"><a href="https://www.unitingnc.org/stories/"><span >NC Stories</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-2541" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2541"><a href="https://www.unitingnc.org/category/podcast/"><span >Podcast</span></a></li>
+	<li id="menu-item-2274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2274"><a href="https://www.unitingnc.org/stories/"><span >Videos</span></a></li>
+	<li id="menu-item-2273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2273"><a href="https://www.unitingnc.org/stories/billboards/"><span >Billboards</span></a></li>
+	<li id="menu-item-2272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2272"><a href="https://www.unitingnc.org/stories/radio/"><span >Radio</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2763" class="highlight menu-item menu-item-type-post_type menu-item-object-page menu-item-2763"><a href="https://www.unitingnc.org/donate/"><span >Donate</span></a></li>
+</ul></nav></div></section>
+</div></div></header><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><article class="post-1341 post type-post status-publish format-standard category-uncategorized entry"><header class="entry-header"><h1 class="entry-title">We are the mainstream</h1>
+<p class="entry-meta"><time class="entry-time">November 3, 2011</time> by <span class="entry-author"><a href="https://www.unitingnc.org/en/author/kristin/" class="entry-author-link" rel="author"><span class="entry-author-name">Kristin</span></a></span>  </p></header><div class="entry-content"><p>Did you know that Uniting NC is part of a national movement? We are one of 19 state affiliates of the umbrella organization <a href="http://www.welcomingamerica.org/">Welcoming America</a>. We are a network of groups across the country — from California to Nebraska to Texas to Rhode Island to Alabama — that are working to build communities that respect and welcome immigrants. But I&#8217;ll admit that, with us all being so far apart, even I sometimes forget that Uniting NC is not in this alone.</p>
+<p>Then, last week I went to Seattle for Welcoming America&#8217;s annual conference, and all that changed. At the conference, I saw in the flesh what an exciting and growing movement this is. Just in the past year, the number of state affiliates has grown by nearly 50 percent, from 13 to 19. A diverse array of people have become involved, from state legislators to religious leaders to stand-up comics. National foundations are taking notice of the work. In fact, <a href="http://www.welcomingamerica.org/resources/rci/">our unique approach</a> — which focuses on facilitating understanding among longtime residents, rather than just serving new immigrants — is, arguably, the leading edge of the movement to integrate immigrants into American society.</p>
+<p>The conference showed me that we are the mainstream. People who believe that, in the United States, every person should have a fair chance to succeed. People who believe that no one should be judged based on their religion, their skin color or their country of origin. People who believe that diversity strengthens and enriches our country. We are the mainstream — and we have the power to put our ideals into action.</p>
+<p>We often feel powerless over the big issues that affect our lives and our society. The average person can&#8217;t heal our hopelessly polarized political system, solve our country&#8217;s economic woes or fix its health care system. But we can work to make our communities places that believe in the dignity of every person. We can come together over dinner and talk over our differences. We can host book discussions and dialogues and multi-cultural potlucks. We can reach out to people who look different from us and learn how their stories mirror our own. We can erect billboards that portray immigrants as human beings. And, little by little, if we keep working at it, we can make things better.</p>
+<p>Need ideas about how to make your community more welcoming for newcomers? <a href="http://www.welcomingamerica.org/friends/">Go here.</a></p>
+<!--<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="https://www.unitingnc.org/2011/11/we-are-the-mainstream/"
+    dc:identifier="https://www.unitingnc.org/2011/11/we-are-the-mainstream/"
+    dc:title="We are the mainstream"
+    trackback:ping="https://www.unitingnc.org/2011/11/we-are-the-mainstream/trackback/" />
+</rdf:RDF>-->
+</div><footer class="entry-footer"><p class="entry-meta"><span class="entry-categories">Filed Under: <a href="https://www.unitingnc.org/category/uncategorized/" rel="category tag">Uncategorized</a></span> </p><div class="after-entry widget-area"><div class="wrap"><section id="text-7" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">Connect With Us</h3>
+			<div class="textwidget"><p>Uniting NC works to make North Carolina a place in which all people, including immigrants, have the opportunity to thrive and to engage in their communities. Together we all do better.</p>
+</div>
+		</div></section>
+<section id="constantcontactwidget-2" class="widget constantcontact"><div class="widget-wrap">
+	<div class="cc_widget_container cc_style_3"><form name="ccoptin" action="http://visitor.constantcontact.com/d.jsp" target="_blank" method="post" onsubmit="if (this.ea.value == 'example@subscribe.com' || this.ea.value == '') { alert('Please enter your email.'); return false;}">
+				<label for="ea" class="cc_widget_title"></label>
+				<div class="cc_preface"></div>
+				<input type="text" id="ea" name="ea" size="20" value="example@subscribe.com" onfocus="if (this.value == 'example@subscribe.com') {this.value = '';}" onblur="if (this.value == '') {this.value = 'example@subscribe.com';}"  class="cc_input_email" />
+				<input type="submit" id="go"  id="go" name="go" value="Subscribe" class="submit cc_submit">
+				<input type="hidden" id="m" name="m" value="1103350875774" />
+				<input type="hidden" id="p" name="p" value="oi" />
+				</form></div>
+	</div></section>
+</div></div></footer></article></main></div></div></div></div><div class="footer-widgets" id="genesis-footer-widgets"><h2 class="genesis-sidebar-title screen-reader-text">Footer</h2><div class="wrap"><div class="widget-area footer-widgets-1 footer-widget-area">		<section id="recent-posts-4" class="widget widget_recent_entries"><div class="widget-wrap">		<h3 class="widgettitle widget-title">Recent Articles</h3>
+		<ul>
+											<li>
+					<a href="https://www.unitingnc.org/2020/01/an-app-for-the-ministry/">An App for the Ministry</a>
+									</li>
+											<li>
+					<a href="https://www.unitingnc.org/2019/09/candlelight-vigil-against-trumps-refugee-ban/">Candlelight Vigil Against Trump&#8217;s Refugee Ban</a>
+									</li>
+											<li>
+					<a href="https://www.unitingnc.org/2019/03/ctd-hackathon/">CTD Hackathon</a>
+									</li>
+					</ul>
+		</div></section>
+<section id="search-3" class="widget widget_search"><div class="widget-wrap"><form class="search-form" method="get" action="https://www.unitingnc.org/en/" role="search"><label class="search-form-label screen-reader-text" for="searchform-1">Search this website</label><input class="search-form-input" type="search" name="s" id="searchform-1" placeholder="Search this website"><input class="search-form-submit" type="submit" value="Search"><meta content="https://www.unitingnc.org/en/?s={s}"></form></div></section>
+</div><div class="widget-area footer-widgets-2 footer-widget-area"><section id="text-12" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">Featured Story</h3>
+			<div class="textwidget"><iframe src="//www.youtube.com/embed/nSutv7qwjBs?rel=0" frameborder="0" allowfullscreen></iframe></div>
+		</div></section>
+</div><div class="widget-area footer-widgets-3 footer-widget-area"><section id="soliloquy-2" class="widget soliloquy"><div class="widget-wrap"><h3 class="widgettitle widget-title">Thank You to Our Sponsors</h3>
+<div class="soliloquy-outer-container" data-soliloquy-loaded="0"><div aria-live="polite" id="soliloquy-container-2689" class="soliloquy-container soliloquy-transition-fade soliloquy-fade  soliloquy-theme-base" style="max-width:960px;max-height:300px;margin:0 auto 0px;"><ul id="soliloquy-2689" class="soliloquy-slider soliloquy-slides soliloquy-wrap soliloquy-clear"><li aria-hidden="true" class="soliloquy-item soliloquy-item-1 soliloquy-id-2211 soliloquy-image-slide" draggable="false" style="list-style:none;"><img id="soliloquy-image-2211" class="soliloquy-image soliloquy-image-1" src="https://www.unitingnc.org/wp-content/uploads/2011/05/BBT_logo.jpg" alt="BB&amp;T logo" /></li><li aria-hidden="true" class="soliloquy-item soliloquy-item-2 soliloquy-id-2569 soliloquy-image-slide" draggable="false" style="list-style:none;"><img id="soliloquy-image-2569" class="soliloquy-image soliloquy-image-2 soliloquy-preload" src="https://www.unitingnc.org/wp-content/plugins/soliloquy/assets/css/images/holder.gif" data-soliloquy-src="https://www.unitingnc.org/wp-content/uploads/2011/05/google_fiber_logo.jpg" alt="Google Fiber Logo" /></li><li aria-hidden="true" class="soliloquy-item soliloquy-item-3 soliloquy-id-2497 soliloquy-image-slide" draggable="false" style="list-style:none;"><img id="soliloquy-image-2497" class="soliloquy-image soliloquy-image-3 soliloquy-preload" src="https://www.unitingnc.org/wp-content/plugins/soliloquy/assets/css/images/holder.gif" data-soliloquy-src="https://www.unitingnc.org/wp-content/uploads/2011/05/bcbs_logo_canvassed.jpg" alt="bcbs_logo_canvassed" /></li><li aria-hidden="true" class="soliloquy-item soliloquy-item-4 soliloquy-id-2245 soliloquy-image-slide" draggable="false" style="list-style:none;"><img id="soliloquy-image-2245" class="soliloquy-image soliloquy-image-4 soliloquy-preload" src="https://www.unitingnc.org/wp-content/plugins/soliloquy/assets/css/images/holder.gif" data-soliloquy-src="https://www.unitingnc.org/wp-content/uploads/2014/06/RCG-update.jpg" alt="RCG-update" /></li><li aria-hidden="true" class="soliloquy-item soliloquy-item-5 soliloquy-id-2465 soliloquy-image-slide" draggable="false" style="list-style:none;"><img id="soliloquy-image-2465" class="soliloquy-image soliloquy-image-5 soliloquy-preload" src="https://www.unitingnc.org/wp-content/plugins/soliloquy/assets/css/images/holder.gif" data-soliloquy-src="https://www.unitingnc.org/wp-content/uploads/2014/06/logo.jpg" alt="logo" /></li><li aria-hidden="true" class="soliloquy-item soliloquy-item-6 soliloquy-id-2570 soliloquy-image-slide" draggable="false" style="list-style:none;"><img id="soliloquy-image-2570" class="soliloquy-image soliloquy-image-6 soliloquy-preload" src="https://www.unitingnc.org/wp-content/plugins/soliloquy/assets/css/images/holder.gif" data-soliloquy-src="https://www.unitingnc.org/wp-content/uploads/2011/05/Red_Hat_RGB.jpg" alt="Red Hat Logo" /></li><li aria-hidden="true" class="soliloquy-item soliloquy-item-7 soliloquy-id-2501 soliloquy-image-slide" draggable="false" style="list-style:none;"><img id="soliloquy-image-2501" class="soliloquy-image soliloquy-image-7 soliloquy-preload" src="https://www.unitingnc.org/wp-content/plugins/soliloquy/assets/css/images/holder.gif" data-soliloquy-src="https://www.unitingnc.org/wp-content/uploads/2011/05/Credit-Suisse-logo.jpeg" alt="Credit Suisse logo" /></li></ul></div><noscript><style type="text/css">#soliloquy-container-2689{opacity:1}#soliloquy-container-2689 li > .soliloquy-caption{display:none}#soliloquy-container-2689 li:first-child > .soliloquy-caption{display:block}</style><div class="soliloquy-no-js" style="display:none;visibility:hidden;height:0;line-height:0;opacity:0;"><img class="soliloquy-image soliloquy-no-js-image skip-lazy" src="https://www.unitingnc.org/wp-content/uploads/2011/05/BBT_logo.jpg" alt="BB&amp;T logo" /><img class="soliloquy-image soliloquy-no-js-image skip-lazy" src="https://www.unitingnc.org/wp-content/uploads/2011/05/google_fiber_logo.jpg" alt="Google Fiber Logo" /><img class="soliloquy-image soliloquy-no-js-image skip-lazy" src="https://www.unitingnc.org/wp-content/uploads/2011/05/bcbs_logo_canvassed.jpg" alt="bcbs_logo_canvassed" /><img class="soliloquy-image soliloquy-no-js-image skip-lazy" src="https://www.unitingnc.org/wp-content/uploads/2014/06/RCG-update.jpg" alt="RCG-update" /><img class="soliloquy-image soliloquy-no-js-image skip-lazy" src="https://www.unitingnc.org/wp-content/uploads/2014/06/logo.jpg" alt="logo" /><img class="soliloquy-image soliloquy-no-js-image skip-lazy" src="https://www.unitingnc.org/wp-content/uploads/2011/05/Red_Hat_RGB.jpg" alt="Red Hat Logo" /><img class="soliloquy-image soliloquy-no-js-image skip-lazy" src="https://www.unitingnc.org/wp-content/uploads/2011/05/Credit-Suisse-logo.jpeg" alt="Credit Suisse logo" /></div></noscript></div></div></section>
+</div></div></div><footer class="site-footer"><div class="wrap"><div class="creds"><p>Copyright &#x000A9;&nbsp;2020 Uniting NC · Website by <a href="http://www.tomatillodesign.com/" title="Beautiful, Affordable Websites for Nonprofits">Tomatillo Design</a></p></div></div></footer>		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script type='text/javascript'>jQuery(document).ready(function($) {$(".myController").jFlow({controller: ".jFlowControl",slideWrapper : "#jFlowSlider",slides: "#slides",selectedWrapper: "jFlowSelected",width: "870px",height: "400px",timer: 4000,duration: 800,loop: 1,effect: "right",prev: ".slider-previous",next: ".slider-next",auto: true});});</script>
+<!-- Constant Contact Widget by Katz Web Services, Inc. | http://www.seodenver.com/constant-contact-wordpress-widget/ -->
+
+<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script>	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<link rel='stylesheet' id='soliloquy-style-css-css'  href='https://www.unitingnc.org/wp-content/plugins/soliloquy/assets/css/soliloquy.css?ver=2.5.9' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.unitingnc.org\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9'></script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.unitingnc.org\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.9.2'></script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_d9a609466f54c7ffa24e50aa96095c50","fragment_name":"wc_fragments_d9a609466f54c7ffa24e50aa96095c50","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.9.2'></script>
+<script type='text/javascript'>
+		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+			var jetpackLazyImagesLoadEvent;
+			try {
+				jetpackLazyImagesLoadEvent = new Event( 'jetpack-lazy-images-load', {
+					bubbles: true,
+					cancelable: true
+				} );
+			} catch ( e ) {
+				jetpackLazyImagesLoadEvent = document.createEvent( 'Event' )
+				jetpackLazyImagesLoadEvent.initEvent( 'jetpack-lazy-images-load', true, true );
+			}
+			jQuery( 'body' ).get( 0 ).dispatchEvent( jetpackLazyImagesLoadEvent );
+		} );
+	
+</script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.10'></script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=3.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var genesis_responsive_menu = {"mainMenu":"Menu","subMenu":"Submenu","menuClasses":{"combine":[".nav-secondary",".nav-header",".nav-primary"]}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-content/themes/metro-pro/js/responsive-menus.min.js?ver=2.2.1'></script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-content/plugins/genesis-slider/js/jflow.plus.js?ver=0.9.6'></script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var soliloquy_ajax = {"ajax":"https:\/\/www.unitingnc.org\/wp-admin\/admin-ajax.php","ajax_nonce":"1809bb8b1b"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.unitingnc.org/wp-content/plugins/soliloquy/assets/js/min/soliloquy-min.js?ver=2.5.9'></script>
+<script type="text/javascript">(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/";
+			}());</script><script type='text/javascript' src='https://stats.wp.com/e-202024.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'55944258',post:'1341',tz:'-4',srv:'www.unitingnc.org'} ]);
+	_stq.push([ 'clickTrackerInit', '55944258', '1341' ]);
+</script>
+			<script type="text/javascript">
+				if ( typeof soliloquy_slider === 'undefined' || false === soliloquy_slider ) {soliloquy_slider = {};}var soliloquy_width_2689 = jQuery('#soliloquy-container-2689').width() < 960 ? 960 : jQuery('#soliloquy-container-2689').width();jQuery('#soliloquy-container-2689').css('height', Math.round(soliloquy_width_2689/(960/300))).fadeTo(300, 1);jQuery(document).ready(function($){var soliloquy_container_2689 = $('#soliloquy-container-2689'),soliloquy_2689 = $('#soliloquy-2689'),soliloquy_holder_2689 = $('#soliloquy-2689').find('.soliloquy-preload');if ( 0 !== soliloquy_holder_2689.length ) {var soliloquy_src_attr = 'data-soliloquy-src';soliloquy_holder_2689.each(function() {var soliloquy_src = $(this).attr(soliloquy_src_attr);if ( typeof soliloquy_src === 'undefined' || false === soliloquy_src ) {return;}var soliloquy_image = new Image();soliloquy_image.src = soliloquy_src;$(this).attr('src', soliloquy_src).removeAttr(soliloquy_src_attr);});}soliloquy_slider['2689'] = soliloquy_2689.soliloquy({slideSelector: '.soliloquy-item',speed: 400,pause: 6000,auto: 1,keyboard: 1,useCSS: 1,startSlide: 0,autoHover: 0,autoDelay: 0,adaptiveHeight: 1,adaptiveHeightSpeed: 400,infiniteLoop: 1,mode: 'fade',pager: 0,controls: 0,autoControls: 0,autoControlsCombine: 0,nextText: '',prevText: '',startText: '',stopText: '',onSliderLoad: function(currentIndex){soliloquy_container_2689.find('.soliloquy-active-slide').removeClass('soliloquy-active-slide').attr('aria-hidden','true');soliloquy_container_2689.css({'height':'auto','background-image':'none'});if ( soliloquy_container_2689.find('.soliloquy-slider li').length > 1 ) {soliloquy_container_2689.find('.soliloquy-controls').fadeTo(300, 1);} else {soliloquy_container_2689.find('.soliloquy-controls').addClass('soliloquy-hide');}soliloquy_2689.find('.soliloquy-item:not(.soliloquy-clone):eq(' + currentIndex + ')').addClass('soliloquy-active-slide').attr('aria-hidden','false');$('.soliloquy-clone .soliloquy-video-holder').remove();soliloquy_container_2689.find('.soliloquy-controls-direction').attr('aria-label','carousel buttons').attr('aria-controls', 'soliloquy-container-2689');soliloquy_container_2689.find('.soliloquy-controls-direction a.soliloquy-prev').attr('aria-label','previous');soliloquy_container_2689.find('.soliloquy-controls-direction a.soliloquy-next').attr('aria-label','next');$(window).trigger('resize');soliloquy_container_2689.parent().attr('data-soliloquy-loaded', 1);},onSlideBefore: function(element, oldIndex, newIndex, oldelm ){soliloquy_container_2689.find('.soliloquy-active-slide').removeClass('soliloquy-active-slide').attr('aria-hidden','true');$(element).addClass('soliloquy-active-slide').attr('aria-hidden','false');},onSlideAfter: function(element, oldIndex, newIndex){}});});			</script>
+			</body></html>

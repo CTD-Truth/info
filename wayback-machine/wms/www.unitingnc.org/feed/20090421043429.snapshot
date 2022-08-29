@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	>
+
+<channel>
+	<title>unitingnc.org</title>
+	<atom:link href="http://unitingnc.org/feed/" rel="self" type="application/rss+xml" />
+	<link>http://unitingnc.org</link>
+	<description>North Carolina Working Together</description>
+	<pubDate>Thu, 26 Mar 2009 17:00:04 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.6.5</generator>
+	<language>en</language>
+			<item>
+		<title>Uniting NC on the Web</title>
+		<link>http://unitingnc.org/2008/07/08/hello-world/</link>
+		<comments>http://unitingnc.org/2008/07/08/hello-world/#comments</comments>
+		<pubDate>Tue, 08 Jul 2008 23:22:00 +0000</pubDate>
+		<dc:creator>saleem</dc:creator>
+		
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://unitingnc.org/?p=1</guid>
+		<description><![CDATA[Welcome to the future home of Uniting NC.  We should have some content up in the next couple weeks.  Please check back soon.
+]]></description>
+			<content:encoded><![CDATA[<p>Welcome to the future home of Uniting NC.  We should have some content up in the next couple weeks.  Please check back soon.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://unitingnc.org/2008/07/08/hello-world/feed/</wfw:commentRss>
+		</item>
+	</channel>
+</rss>
